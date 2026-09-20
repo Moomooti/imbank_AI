@@ -1,0 +1,32 @@
+﻿sentence_id,ko_source,target_sentence,terms_used,known_term,known_term_matched,category,related_category,identifier_survival_rate,identifier_order_preserved_rate,restore_success_rate,fallback_used,lost_terms,max_suspicion_score,flagged_terms
+KO-FIN-00272,계약의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,Dapat mong suriin kung ang isang kontrata ay naaangkop o hindi sa mga tuntunin ng kontrata.,,계약,False,법률·계약,,1.0,1.0,1.0,0,,0,
+KO-FIN-00389,공사채등록법이 무엇인지 설명해 주세요.,Ipaliwanag kung ano ang Batas sa Pagpaparehistro ng Pampublikong Obligasyon.,공사채등록법,공사채등록법,True,채권,,1.0,1.0,1.0,0,,20,공사채등록법
+KO-FIN-00483,국민주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Mayroon bang mga bagay na dapat mong suriin bago mamuhunan tungkol sa mga shareholder?,,국민주,False,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-00618,근저당과 관련된 금리와 비용을 확인하고 싶습니다.,Gusto kong suriin ang mga interes at gastos na nauugnay sa hipoteca.,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,40,근저당
+KO-FIN-00619,근저당을 이용할 때 필요한 서류는 무엇인가요?,Anong mga dokumento ang kailanganin kapag gumagamit ka ng hipoteca?,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,40,근저당
+KO-FIN-00673,금융감독위원회/금융감독원이 금융거래에 어떻게 적용되나요?,Paano ito nalalapat sa pananalapi?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,0.0,1.0,0.0,0,금융감독위원회/금융감독원,40,금융감독위원회/금융감독원
+KO-FIN-00675,금융감독위원회/금융감독원 때문에 추가로 확인해야 할 사항이 있나요?,Mayroon bang karagdagang bagay na dapat kong suriin dahil sa Komisyon sa Pagsusuperbisa ng Pananalapi?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,1.0,1.0,1.0,0,,40,금융감독위원회/금융감독원
+KO-FIN-00738,금융통화운영위원회에서 이용할 수 있는 금융업무는 무엇인가요?,Ano ang mga serbisyo sa pananalapi na magagamit sa Lupon ng Pananalapi?,금융통화운영위원회,금융통화운영위원회,True,금융기관·은행,,1.0,1.0,1.0,0,,40,금융통화운영위원회
+KO-FIN-00978,당일결제거래와 관련된 시장 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon ng merkado na nauugnay sa transaksyon na bayad sa parehong araw.,당일결제거래,당일결제거래,True,금융시장·거래,지급결제·청산,1.0,1.0,1.0,0,,40,당일결제거래
+KO-FIN-01278,무담보사채의 조건과 수익 구조를 확인하고 싶습니다.,Gusto kong suriin ang mga kondisyon at istraktura ng kita ng mga utang na walang garantiya.,,무담보사채,False,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-01361,발기인이 무엇인지 설명해 주세요.,Ipaliwanag kung ano ang tagapagtatag.,발기인,발기인,True,주식,,1.0,1.0,1.0,0,,40,발기인
+KO-FIN-01561,부실채권 정리기금이 무엇인지 설명해 주세요.,Ipaliwanag kung ano ang Pondo para sa Paglutas ng Masamang Utang.,부실채권 정리기금,부실채권 정리기금,True,채권,,1.0,1.0,1.0,0,,20,부실채권 정리기금
+KO-FIN-01819,상환과 관련된 투자 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon ng pamumuhunan na nauugnay sa pagbawi.,상환,상환,True,자산운용·투자,,1.0,1.0,1.0,0,,70,상환
+KO-FIN-02105,신주인수권증권이 무엇인지 설명해 주세요.,Ipaliwanag sa akin kung ano ang isang bagong pasaporte.,,신주인수권증권,False,증권·예탁,주식 / 기업금융·자본조달,1.0,1.0,1.0,0,,0,
+KO-FIN-02199,쌍방연계방식과 관련된 내용을 확인하고 싶습니다.,Gusto kong malaman kung paano ito kumonekta.,,쌍방연계방식,False,기타 금융일반,,1.0,1.0,1.0,0,,0,
+KO-FIN-02200,쌍방연계방식의 정확한 의미는 해당 금융거래의 맥락과 함께 확인해야 합니다.,Ang eksaktong kahulugan ng dalawang panig na komunikasyon ay dapat na matukoy sa konteksto ng kalakalan sa pananalapi.,,쌍방연계방식,False,기타 금융일반,,1.0,1.0,1.0,0,,0,
+KO-FIN-02254,역금리와 관련된 거래 조건을 확인하고 싶습니다.,Gusto kong suriin ang mga kondisyon ng transaksyon na may kinalaman sa counter rate.,,역금리,False,국제금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-02295,연속결제 과정에서 문제가 발생한 것 같습니다.,Parang may problema sa proseso ng paglutas.,,연속결제,False,지급결제·청산,금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-02458,원본위험이 금융거래에 어떤 영향을 주나요?,Ano ang epekto ng original risk sa trading sa pananalapi?,,원본위험,False,신용·리스크,금융시장·거래 / 지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-02460,원본위험은 거래 조건이나 이용 가능 여부에 영향을 줄 수 있습니다.,Ang original na panganib ay maaaring makaapekto sa mga kondisyon ng kalakalan o kung magagamit.,,원본위험,False,신용·리스크,금융시장·거래 / 지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-02765,일반담보물이 무엇인지 설명해 주세요.,Ipaliwanag kung ano ang pangkalahatang impormasyon.,,일반담보물,False,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-03037,정시상환이 무엇인지 설명해 주세요.,Ipaliwanag mo kung ano ang FINTERM001?,상환,정시상환,False,채권,,0.0,1.0,0.0,0,상환,70,상환
+KO-FIN-03178,주주와 관련된 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon tungkol sa mga shareholder.,,주주,False,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-03262,증권거래세와 관련된 시장 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon ng merkado na nauugnay sa buwis sa transaksyon ng mga securities.,증권거래세,증권거래세,True,금융시장·거래,증권·예탁,1.0,1.0,1.0,0,,50,증권거래세
+KO-FIN-03451,차감결제 과정에서 문제가 발생한 것 같습니다.,Mukhang may problema sa netong pagbayad.,차감결제,차감결제,True,지급결제·청산,금융시장·거래,1.0,1.0,1.0,0,,40,차감결제
+KO-FIN-03567,채무불이행위험을 줄이려면 어떤 점을 확인해야 하나요?,Ano ang dapat kong suriin upang mabawasan ang panganib ng default?,채무불이행위험,채무불이행위험,True,신용·리스크,,1.0,1.0,1.0,0,,40,채무불이행위험
+KO-FIN-03568,채무불이행위험은 거래 조건이나 이용 가능 여부에 영향을 줄 수 있습니다.,Ang panganib ng default ay maaaring makaapekto sa mga kondisyon ng kalakalan o kung magagamit.,채무불이행위험,채무불이행위험,True,신용·리스크,,1.0,1.0,1.0,0,,40,채무불이행위험
+KO-FIN-04026,할인발행을 이용하려면 어떤 조건이 필요한가요?,Ano ang mga kundisyon para magamit ang pag‑isyu ng diskwento?,할인발행,할인발행,True,기업금융·자본조달,채권,1.0,1.0,1.0,0,,20,할인발행
+KO-FIN-04027,할인발행과 관련된 비용과 절차를 확인하고 싶습니다.,Gusto kong suriin ang mga gastos at pamamaraan na nauugnay sa pag‑isyu ng diskwento.,할인발행,할인발행,True,기업금융·자본조달,채권,1.0,1.0,1.0,0,,20,할인발행
+KO-FIN-04098,현물출자와 관련된 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon tungkol sa naglalabas ng mga bagay.,,현물출자,False,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-04131,혼합주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Mayroon bang mga bagay na dapat mong suriin bago mamuhunan tungkol sa mga pinagsamang shareholder?,,혼합주,False,주식,,1.0,1.0,1.0,0,,0,

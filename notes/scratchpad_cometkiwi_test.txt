@@ -1,0 +1,1 @@
+snapshot_download OK: C:\Users\yues7\.cache\huggingface\hub\models--Unbabel--wmt22-cometkiwi-da\snapshots\1ad785194e391eebc6c53e2d0776cada8f83179a

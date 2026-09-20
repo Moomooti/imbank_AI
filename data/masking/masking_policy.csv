@@ -1,0 +1,6 @@
+﻿lang,policy,n_terms_maskable,n_terms_total,note
+vie_Latn,full_mask,1329,1329,"Phase 1~2에서 마스킹이 평균 순이득으로 확인됨(COMET-Kiwi diff, LaBSE diff 둘 다 양수) -- 기존 정책 유지"
+ind_Latn,full_mask,1329,1329,"Phase 1~2에서 마스킹이 평균 순이득으로 확인됨(COMET-Kiwi diff, LaBSE diff 둘 다 양수) -- 기존 정책 유지"
+tha_Thai,full_mask,1329,1329,"Phase 1~2에서 마스킹이 평균 순이득으로 확인됨(COMET-Kiwi diff, LaBSE diff 둘 다 양수) -- 기존 정책 유지"
+tgl_Latn,confidence_gated (default=no_mask),12,1329,Phase 1~2에서 마스킹이 평균 순손해로 확인됨 -- 기본은 비마스킹(순정 NLLB 그대로). 이번에 복구+baseline 능가까지 검증된 12개 용어만 예외적으로 마스킹 허용 (mask_allowlist_tgl_Latn.csv). 나머지 용어는 검증 이력이 없으므로 비마스킹.
+mya_Mymr,confidence_gated (default=no_mask),15,1329,Phase 1~2에서 마스킹이 평균 순손해로 확인됨 -- 기본은 비마스킹(순정 NLLB 그대로). 이번에 복구+baseline 능가까지 검증된 15개 용어만 예외적으로 마스킹 허용 (mask_allowlist_mya_Mymr.csv). 나머지 용어는 검증 이력이 없으므로 비마스킹.

@@ -1,0 +1,201 @@
+﻿sentence_id,ko_source,target_sentence,terms_used,known_term,known_term_matched,category,related_category,identifier_survival_rate,identifier_order_preserved_rate,restore_success_rate,fallback_used,lost_terms,max_suspicion_score,flagged_terms
+KO-FIN-00001,가격역지정 주문이 무엇을 의미하나요?,Apa arti Pesanan dengan Harga yang Ditentukan?,가격역지정 주문,가격역지정 주문,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00005,가격우선의 원칙이 무엇을 의미하나요?,Apa arti Prinsip prioritas harga?,가격우선의 원칙,가격우선의 원칙,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00009,가격제한폭이 무엇을 의미하나요?,Apa arti Batas fluktuasi harga?,가격제한폭,가격제한폭,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00014,가교은행에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Bank Jembatan?,가교은행,가교은행,True,금융기관·은행,,1.0,1.0,1.0,0,,40,가교은행
+KO-FIN-00019,가산금리에 대해 상담받고 싶습니다.,Saya ingin berkonsultasi mengenai Suku bunga tambahan.,가산금리,가산금리,True,대출,,1.0,1.0,1.0,0,,0,
+KO-FIN-00022,가쇄 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan pengait.,가쇄,가쇄,True,증권·예탁,금융법규·감독,1.0,1.0,1.0,0,,70,가쇄
+KO-FIN-00026,가압류의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan dari Penyitaan sementara.,가압류,가압류,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00029,가중주가평균이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Rata-rata tertimbang.,가중주가평균,가중주가평균,True,주식,금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-00033,간사단이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Tim Sekretariat.,간사단,간사단,True,증권·예탁,,1.0,1.0,1.0,0,,40,간사단
+KO-FIN-00038,간사회사 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Perusahaan Pengelola.,간사회사,간사회사,True,증권·예탁,금융기관·은행,1.0,1.0,1.0,0,,20,간사회사
+KO-FIN-00043,간접공시 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Pengungkapan tidak langsung?,간접공시,간접공시,True,금융법규·감독,금융시장·거래,1.0,1.0,1.0,0,,20,간접공시
+KO-FIN-00044,간접공시의 적용 범위는 관련 법령과 규정에 따라 달라질 수 있습니다.,Ruang lingkup penerapan Pengungkapan tidak langsung dapat berbeda-beda sesuai dengan undang-undang dan peraturan yang berlaku.,간접공시,간접공시,True,금융법규·감독,금융시장·거래,1.0,1.0,1.0,0,,20,간접공시
+KO-FIN-00046,간접금융에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Pembiayaan tidak langsung?,간접금융,간접금융,True,금융기관·은행,,1.0,1.0,1.0,0,,0,
+KO-FIN-00049,간접모집이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Perekrutan tidak langsung.,간접모집,간접모집,True,증권·예탁,,1.0,1.0,1.0,0,,20,간접모집
+KO-FIN-00054,간접발행을 이용하려면 어떤 조건이 필요한가요?,Apa saja syarat yang diperlukan untuk menggunakan Penerbitan tidak langsung?,간접발행,간접발행,True,기업금융·자본조달,,1.0,1.0,1.0,0,,20,간접발행
+KO-FIN-00055,간접발행과 관련된 비용과 절차를 확인하고 싶습니다.,Saya ingin mengetahui biaya dan prosedur yang terkait dengan Penerbitan tidak langsung.,간접발행,간접발행,True,기업금융·자본조달,,1.0,1.0,1.0,0,,20,간접발행
+KO-FIN-00058,간접점유 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Kepemilikan tidak langsung.,간접점유,간접점유,True,증권·예탁,법률·계약 / 금융법규·감독,1.0,1.0,1.0,0,,0,
+KO-FIN-00064,간접참가자를 확인할 때 시장 상황과 거래 조건을 함께 살펴보세요.,"Saat memeriksa Peserta tidak langsung, perhatikan juga kondisi pasar dan ketentuan perdagangan.",간접참가자,간접참가자,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00066,간주 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Anggapan.,간주,간주,True,증권·예탁,,1.0,1.0,1.0,0,,70,간주
+KO-FIN-00069,감리대상종목이 무엇을 의미하나요?,Apa arti Sektor yang Diawasi?,감리대상종목,감리대상종목,True,금융시장·거래,,1.0,1.0,1.0,0,,40,감리대상종목
+KO-FIN-00073,감자차익이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Keuntungan dari selisih harga kentang.,감자차익,감자차익,True,주식,,1.0,1.0,1.0,0,,30,감자차익
+KO-FIN-00077,감채기금이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Dana Pengurangan Utang.,감채기금,감채기금,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00081,감채기금부채권이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Obligasi Dana Pengurangan Utang.,감채기금부채권,감채기금부채권,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00085,강세장이 무엇을 의미하나요?,Apa arti Pasar bullish?,강세장,강세장,True,금융시장·거래,,1.0,1.0,1.0,0,,40,강세장
+KO-FIN-00090,강제매수와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Pembelian Paksa.,강제매수,강제매수,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00095,개발신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Perwalian Pembangunan?,개발신탁,개발신탁,True,펀드·신탁,,1.0,1.0,1.0,0,,40,개발신탁
+KO-FIN-00098,개방식 담보사채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur pendapatan dari Obligasi dengan jaminan terbuka.,개방식 담보사채,개방식 담보사채,True,채권,,1.0,1.0,1.0,0,,40,개방식 담보사채
+KO-FIN-00104,개방형 리포의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,"Untuk mengetahui apakah Laporan Terbuka berlaku, perlu memeriksa isi Kontrak dan peraturan perundang-undangan yang terkait.",개방형 리포;계약,개방형 리포,True,법률·계약,,1.0,1.0,1.0,0,,30,개방형 리포;계약
+KO-FIN-00107,개방형 투자신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Reksa Dana Terbuka?,개방형 투자신탁,개방형 투자신탁,True,펀드·신탁,자산운용·투자,1.0,1.0,1.0,0,,40,개방형 투자신탁
+KO-FIN-00111,개별결제 과정에서 문제가 발생한 것 같습니다.,Tampaknya terjadi masalah dalam proses Pembayaran per transaksi.,개별결제,개별결제,True,지급결제·청산,,1.0,1.0,1.0,0,,40,개별결제
+KO-FIN-00114,개별경쟁매매와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Transaksi Lelang Kompetitif Individual.,개별경쟁매매,개별경쟁매매,True,금융시장·거래,,1.0,1.0,1.0,0,,20,개별경쟁매매
+KO-FIN-00117,개시증거금이 무엇인지 쉽게 설명해 주세요.,Tolong jelaskan dengan sederhana apa itu Setoran Awal.,개시증거금,개시증거금,True,파생상품,,1.0,1.0,1.0,0,,40,개시증거금
+KO-FIN-00121,거래량비율이 무엇을 의미하나요?,Apa arti Rasio Volume Perdagangan?,거래량비율,거래량비율,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00125,거래량회전율이 무엇을 의미하나요?,Apa arti Rasio Perputaran Volume Perdagangan?,거래량회전율,거래량회전율,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00129,거래성립률이 무엇을 의미하나요?,Apa arti Tingkat keberhasilan transaksi?,거래성립률,거래성립률,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00133,거래소 시장이 무엇을 의미하나요?,Apa arti Pasar bursa?,거래소 시장,거래소 시장,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00137,거래소 회원이 무엇을 의미하나요?,Apa arti Anggota bursa?,거래소 회원,거래소 회원,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00142,거래취소와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar yang terkait dengan Pembatalan Transaksi.,거래취소,거래취소,True,금융시장·거래,지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-00146,건설이자와 관련된 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi terkait Bunga pinjaman konstruksi.,건설이자,건설이자,True,주식,,1.0,1.0,1.0,0,,20,건설이자
+KO-FIN-00149,겐사끼시장이 무엇을 의미하나요?,Apa arti Pasar Gensaki?,겐사끼시장,겐사끼시장,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00154,격탁매매와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Transaksi dengan harga tetap.,격탁매매,격탁매매,True,금융시장·거래,,1.0,1.0,1.0,0,,40,격탁매매
+KO-FIN-00157,견양증권이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Gyeonyang Securities.,견양증권,견양증권,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00162,결산을 통해 어떤 정보를 확인할 수 있나요?,Informasi apa saja yang dapat saya periksa melalui Laporan Keuangan?,결산,결산,True,회계·재무,,1.0,1.0,1.0,0,,70,결산
+KO-FIN-00164,결산은 기준 시점과 작성 기준을 함께 확인해야 합니다.,Laporan Keuangan harus diperiksa dengan memperhatikan waktu acuan dan kriteria penulisan.,결산,결산,True,회계·재무,,1.0,1.0,1.0,0,,70,결산
+KO-FIN-00168,결산보고서는 기준 시점과 작성 기준을 함께 확인해야 합니다.,Laporan Keuangan harus diperiksa dengan memperhatikan titik waktu acuan dan kriteria penulisan.,결산보고서,결산보고서,True,회계·재무,,1.0,1.0,1.0,0,,0,
+KO-FIN-00169,결제기구가 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Lembaga Pembayaran.,결제기구,결제기구,True,지급결제·청산,증권·예탁 / 금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-00173,결제기금이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Dana Pembayaran.,결제기금,결제기금,True,지급결제·청산,,1.0,1.0,1.0,0,,0,
+KO-FIN-00177,결제대금주선제도가 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Sistem Penyediaan Dana Pembayaran.,결제대금주선제도,결제대금주선제도,True,지급결제·청산,금융기관·은행 / 증권·예탁,1.0,1.0,1.0,0,,20,결제대금주선제도
+KO-FIN-00181,결제대용증이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Surat Pengganti Pembayaran.,결제대용증,결제대용증,True,지급결제·청산,증권·예탁,1.0,1.0,1.0,0,,0,
+KO-FIN-00185,결제리스크 관리제도가 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Sistem Pengelolaan Risiko Pembayaran.,결제리스크 관리제도,결제리스크 관리제도,True,지급결제·청산,신용·리스크 / 금융기관·은행,1.0,1.0,1.0,0,,20,결제리스크 관리제도
+KO-FIN-00191,결제불이행거래 과정에서 문제가 발생한 것 같습니다.,Tampaknya terjadi masalah dalam proses Transaksi yang Tidak Dibayar.,결제불이행거래,결제불이행거래,True,지급결제·청산,금융시장·거래,1.0,1.0,1.0,0,,20,결제불이행거래
+KO-FIN-00193,결제순서조작이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Manipulasi urutan pembayaran.,결제순서조작,결제순서조작,True,지급결제·청산,,1.0,1.0,1.0,0,,0,
+KO-FIN-00197,결제시한이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Batas waktu pembayaran.,결제시한,결제시한,True,지급결제·청산,,1.0,1.0,1.0,0,,40,결제시한
+KO-FIN-00205,결제위험의 비대칭성이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Asimetri Risiko Pembayaran.,결제위험의 비대칭성,결제위험의 비대칭성,True,지급결제·청산,신용·리스크 / 금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-00209,결제은행제도가 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Sistem Bank Penyelenggara Pembayaran.,결제은행제도,결제은행제도,True,지급결제·청산,금융기관·은행,1.0,1.0,1.0,0,,20,결제은행제도
+KO-FIN-00213,결제일이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Tanggal pembayaran.,결제일,결제일,True,지급결제·청산,,1.0,1.0,1.0,0,,0,
+KO-FIN-00217,결제적체현상이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Fenomena penumpukan pembayaran.,결제적체현상,결제적체현상,True,지급결제·청산,,1.0,1.0,1.0,0,,20,결제적체현상
+KO-FIN-00221,결제전 예납이 무엇을 의미하나요?,Apa arti Pembayaran di muka sebelum transaksi?,결제전 예납,결제전 예납,True,금융시장·거래,지급결제·청산,1.0,1.0,1.0,0,,40,결제전 예납
+KO-FIN-00225,결제후 업무처리가 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Proses setelah pembayaran.,결제후 업무처리,결제후 업무처리,True,지급결제·청산,,1.0,1.0,1.0,0,,20,결제후 업무처리
+KO-FIN-00234,겸업주의에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Prinsip Kegiatansampingan?,겸업주의,겸업주의,True,금융기관·은행,,1.0,1.0,1.0,0,,40,겸업주의
+KO-FIN-00238,경개의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur pendapatan Pemandangan.,경개,경개,True,채권,증권·예탁 / 법률·계약 / 금융시장·거래,1.0,1.0,1.0,0,,30,경개
+KO-FIN-00241,경개적 차감이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Pengurangan berdasarkan kondisi.,경개적 차감,경개적 차감,True,채권,,1.0,1.0,1.0,0,,40,경개적 차감
+KO-FIN-00248,경과이자를 확인할 때 시장 상황과 거래 조건을 함께 살펴보세요.,"Saat memeriksa bunga tertunda, perhatikan juga kondisi pasar dan ketentuan perdagangan.",경과이자,경과이자,True,금융시장·거래,,1.0,1.0,1.0,0,,40,경과이자
+KO-FIN-00251,최근 경기종합지수의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Indeks Komposit Gyeonggi.,경기종합지수,경기종합지수,True,경제·거시금융,,1.0,1.0,1.0,0,,20,경기종합지수
+KO-FIN-00255,최근 경상수지의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Neraca Transaksi Berjalan.,경상수지,경상수지,True,경제·거시금융,,1.0,1.0,1.0,0,,50,경상수지
+KO-FIN-00258,경쟁매매와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Penjualan Kompetitif.,경쟁매매,경쟁매매,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00263,최근 경제통합의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Integrasi ekonomi.,경제통합,경제통합,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00264,경제통합은 다른 경제지표와 함께 해석하는 것이 좋습니다.,Integrasi ekonomi sebaiknya ditafsirkan bersama dengan indikator ekonomi lainnya.,경제통합,경제통합,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00267,최근 경제협력개발기구의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Organisasi untuk Kerja Sama dan Pembangunan Ekonomi.,경제협력개발기구,경제협력개발기구,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00272,계약의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,"Untuk mengetahui apakah Kontrak berlaku, perlu memeriksa isi Kontrak dan peraturan perundang-undangan terkait.",계약;계약,계약,True,법률·계약,,1.0,1.0,1.0,0,,30,계약;계약
+KO-FIN-00275,계약형투자신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Reksa Dana Berbasis Kontrak?,계약형투자신탁,계약형투자신탁,True,펀드·신탁,자산운용·투자 / 법률·계약,1.0,1.0,1.0,0,,40,계약형투자신탁
+KO-FIN-00279,계절주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa sebelum berinvestasi terkait Minuman musiman?,계절주,계절주,True,주식,,1.0,1.0,1.0,0,,20,계절주
+KO-FIN-00282,계좌대체 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Penggantian Rekening.,계좌대체,계좌대체,True,증권·예탁,,1.0,1.0,1.0,0,,40,계좌대체
+KO-FIN-00285,계좌설정이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Pengaturan Rekening.,계좌설정,계좌설정,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00290,고객계좌부 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Buku Rekening Nasabah.,고객계좌부,고객계좌부,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00294,고객계좌자동이전서비스 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Layanan Pemindahan Otomatis Rekening Nasabah.,고객계좌자동이전서비스,고객계좌자동이전서비스,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00298,고객예탁금 이용료 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Biaya Penggunaan Dana Simpanan Nasabah.,고객예탁금 이용료,고객예탁금 이용료,True,증권·예탁,,1.0,1.0,1.0,0,,20,고객예탁금 이용료
+KO-FIN-00301,고객예탁분이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Dana yang disimpan oleh nasabah.,고객예탁분,고객예탁분,True,증권·예탁,,1.0,1.0,1.0,0,,40,고객예탁분
+KO-FIN-00305,고객예탁증권이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Surat Berharga yang Disimpan atas Nama Nasabah.,고객예탁증권,고객예탁증권,True,증권·예탁,,1.0,1.0,1.0,0,,50,고객예탁증권
+KO-FIN-00310,고오든 모형은 금융상품을 분석할 때 어떻게 사용되나요?,Bagaimana Model Gordon digunakan dalam menganalisis produk keuangan?,고오든 모형,고오든 모형,True,금융공학·분석,,1.0,1.0,1.0,0,,0,
+KO-FIN-00312,고오든 모형의 결과는 사용한 가정과 시장 데이터에 따라 달라질 수 있습니다.,Hasil Model Gordon dapat bervariasi tergantung pada asumsi dan data pasar yang digunakan.,고오든 모형,고오든 모형,True,금융공학·분석,,1.0,1.0,1.0,0,,0,
+KO-FIN-00315,고정형 투자신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Reksa Dana Investasi Tetap?,고정형 투자신탁,고정형 투자신탁,True,펀드·신탁,자산운용·투자,1.0,1.0,1.0,0,,40,고정형 투자신탁
+KO-FIN-00317,고정환율제도에 대해 자세히 알려주세요.,Tolong jelaskan lebih lanjut mengenai Sistem Nilai Tukar Tetap.,고정환율제도,고정환율제도,True,해외송금·외환,,1.0,1.0,1.0,0,,0,
+KO-FIN-00323,골든 크로스와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa sebelum berinvestasi terkait Golden Cross?,골든 크로스,골든 크로스,True,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-00326,공개/발성호가와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Dipublikasikan oleh/Balsung Ho-go.,공개/발성호가,공개/발성호가,True,금융시장·거래,,1.0,1.0,1.0,0,,20,공개/발성호가
+KO-FIN-00330,공개매수와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Penawaran Umum untuk Membeli Saham.,공개매수,공개매수,True,금융시장·거래,금융법규·감독,1.0,1.0,1.0,0,,40,공개매수
+KO-FIN-00334,공개매수설명서와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Prospektus Penawaran Umum.,공개매수설명서,공개매수설명서,True,금융시장·거래,,1.0,1.0,1.0,0,,20,공개매수설명서
+KO-FIN-00338,공개매수신고서와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Laporan Penawaran Umum.,공개매수신고서,공개매수신고서,True,금융시장·거래,증권·예탁,1.0,1.0,1.0,0,,20,공개매수신고서
+KO-FIN-00341,공개법인이 무엇을 의미하나요?,Apa arti Badan Hukum Publik?,공개법인,공개법인,True,금융시장·거래,자산운용·투자 / 증권·예탁,1.0,1.0,1.0,0,,0,
+KO-FIN-00345,공개시장조작이 무엇을 의미하나요?,Apa arti Operasi Pasar Terbuka?,공개시장조작,공개시장조작,True,금융시장·거래,금융기관·은행 / 증권·예탁,1.0,1.0,1.0,0,,40,공개시장조작
+KO-FIN-00351,공기업과 관련된 투자 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi investasi terkait Perusahaan milik negara.,공기업,공기업,True,자산운용·투자,,1.0,1.0,1.0,0,,40,공기업
+KO-FIN-00354,공동간사회사 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Perusahaan Penyelenggara Bersama.,공동간사회사,공동간사회사,True,증권·예탁,기업금융·자본조달,1.0,1.0,1.0,0,,0,
+KO-FIN-00360,공동대리의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,"Untuk mengetahui apakah Wakil Bersama berlaku, perlu memeriksa isi Kontrak dan peraturan perundang-undangan yang terkait.",공동대리;계약,공동대리,True,법률·계약,,1.0,1.0,1.0,0,,30,계약
+KO-FIN-00361,공동지배인이 금융거래에 어떻게 적용되나요?,Bagaimana Pengelola Bersama diterapkan dalam transaksi keuangan ini?,공동지배인,공동지배인,True,금융법규·감독,,1.0,1.0,1.0,0,,20,공동지배인
+KO-FIN-00363,공동지배인 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Pengelola Bersama?,공동지배인,공동지배인,True,금융법규·감독,,1.0,1.0,1.0,0,,20,공동지배인
+KO-FIN-00366,공매도와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Penjualan kosong.,공매도,공매도,True,금융시장·거래,주식,1.0,1.0,1.0,0,,40,공매도
+KO-FIN-00370,공매수와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Pembelian terbuka.,공매수,공매수,True,금융시장·거래,,1.0,1.0,1.0,0,,40,공매수
+KO-FIN-00376,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,Ketentuan dan prosedur terperinci mengenai Pengumuman dapat bervariasi tergantung pada jenis transaksinya.,공모,공모,True,기업금융·자본조달,증권·예탁 / 자산운용·투자 / 금융법규·감독,1.0,1.0,1.0,0,,70,공모
+KO-FIN-00380,공모부대서비스회사의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,Ketentuan dan prosedur terperinci mengenai Perusahaan Penyedia Layanan untuk Unit Militer dapat berbeda-beda tergantung pada jenis transaksinya.,공모부대서비스회사,공모부대서비스회사,True,기업금융·자본조달,,1.0,1.0,1.0,0,,20,공모부대서비스회사
+KO-FIN-00382,공모증자와 관련된 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi terkait Penawaran Umum Saham Baru.,공모증자,공모증자,True,주식,기업금융·자본조달 / 증권·예탁,1.0,1.0,1.0,0,,40,공모증자
+KO-FIN-00388,공모채의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,Ketentuan dan prosedur terperinci mengenai Obligasi Penawaran Umum dapat berbeda-beda tergantung pada jenis transaksi.,공모채,공모채,True,기업금융·자본조달,채권,1.0,1.0,1.0,0,,40,공모채
+KO-FIN-00389,공사채등록법이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Undang-Undang Pendaftaran Obligasi Perusahaan.,공사채등록법,공사채등록법,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00395,공사채형투자신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Reksa Dana Obligasi Perusahaan?,공사채형투자신탁,공사채형투자신탁,True,펀드·신탁,채권 / 자산운용·투자,1.0,1.0,1.0,0,,40,공사채형투자신탁
+KO-FIN-00399,공시 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Pengumuman?,공시,공시,True,금융법규·감독,증권·예탁 / 자산운용·투자 / 법률·계약,1.0,1.0,1.0,0,,70,공시
+KO-FIN-00400,공시의 적용 범위는 관련 법령과 규정에 따라 달라질 수 있습니다.,Ruang lingkup penerapan Pengumuman dapat bervariasi sesuai dengan undang-undang dan peraturan yang berlaku.,공시,공시,True,금융법규·감독,증권·예탁 / 자산운용·투자 / 법률·계약,1.0,1.0,1.0,0,,70,공시
+KO-FIN-00404,공시최고의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,"Untuk mengetahui apakah Pengumuman Tertinggi berlaku, perlu memeriksa isi Kontrak dan peraturan perundang-undangan yang terkait.",공시최고;계약,공시최고,True,법률·계약,금융법규·감독,1.0,1.0,1.0,0,,30,공시최고;계약
+KO-FIN-00405,공신의 원칙이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Prinsip Penghargaan kepada Pahlawan.,공신의 원칙,공신의 원칙,True,증권·예탁,법률·계약,1.0,1.0,1.0,0,,20,공신의 원칙
+KO-FIN-00409,공인중개인이 무엇을 의미하나요?,Apa arti Agen Properti Berlisensi?,공인중개인,공인중개인,True,금융시장·거래,,1.0,1.0,1.0,0,,40,공인중개인
+KO-FIN-00413,공정거래법이 무엇을 의미하나요?,Apa arti dari Undang-Undang Persaingan Usaha yang Sehat?,공정거래법,공정거래법,True,금융시장·거래,,1.0,1.0,1.0,0,,40,공정거래법
+KO-FIN-00418,공정게임모형은 금융상품을 분석할 때 어떻게 사용되나요?,Bagaimana Model Permainan yang Adil digunakan dalam menganalisis produk keuangan?,공정게임모형,공정게임모형,True,금융공학·분석,,1.0,1.0,1.0,0,,0,
+KO-FIN-00420,공정게임모형의 결과는 사용한 가정과 시장 데이터에 따라 달라질 수 있습니다.,Hasil Model Permainan yang Adil dapat bervariasi tergantung pada asumsi dan data pasar yang digunakan.,공정게임모형,공정게임모형,True,금융공학·분석,,1.0,1.0,1.0,0,,0,
+KO-FIN-00424,공정할인율과 관련된 세부 업무는 해당 기관의 안내를 확인해 주세요.,"Untuk detail tugas yang berkaitan dengan Tingkat diskon yang wajar, silakan periksa panduan dari lembaga terkait.",공정할인율,공정할인율,True,금융기관·은행,,1.0,1.0,1.0,0,,20,공정할인율
+KO-FIN-00426,공채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan dari Perekrutan Umum.,공채,공채,True,채권,,1.0,1.0,1.0,0,,70,공채
+KO-FIN-00430,관계회사와 관련된 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi terkait Perusahaan afiliasi.,관계회사,관계회사,True,주식,,1.0,1.0,1.0,0,,20,관계회사
+KO-FIN-00433,관리대상종목이 무엇을 의미하나요?,Apa arti Saham yang Dipantau?,관리대상종목,관리대상종목,True,금융시장·거래,주식,1.0,1.0,1.0,0,,40,관리대상종목
+KO-FIN-00439,최근 관세 및 무역에 관한 일반협정의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Perjanjian Umum tentang Tarif dan Perdagangan.,관세 및 무역에 관한 일반협정,관세 및 무역에 관한 일반협정,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00440,관세 및 무역에 관한 일반협정은 다른 경제지표와 함께 해석하는 것이 좋습니다.,Perjanjian Umum tentang Tarif dan Perdagangan sebaiknya diinterpretasikan bersama dengan indikator ekonomi lainnya.,관세 및 무역에 관한 일반협정,관세 및 무역에 관한 일반협정,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00441,관할권이 금융거래에서 무엇을 의미하나요?,Apa arti Yurisdiksi dalam transaksi keuangan ini?,관할권,관할권,True,법률·계약,,1.0,1.0,1.0,0,,0,
+KO-FIN-00446,교차담보금제도 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Sistem Jaminan Silang.,교차담보금제도,교차담보금제도,True,증권·예탁,자산운용·투자,1.0,1.0,1.0,0,,40,교차담보금제도
+KO-FIN-00451,교차증거금제도 거래에는 어떤 위험이 있나요?,Sistem Margin Silang Apa saja risiko yang terkait dengan transaksi ini?,교차증거금제도,교차증거금제도,True,파생상품,,1.0,1.0,1.0,0,,40,교차증거금제도
+KO-FIN-00453,교차헤징이 무엇을 의미하나요?,Apa arti Hedging silang?,교차헤징,교차헤징,True,금융시장·거래,,1.0,1.0,1.0,0,,40,교차헤징
+KO-FIN-00458,교체발행을 이용하려면 어떤 조건이 필요한가요?,Apa saja syarat yang diperlukan untuk menggunakan Penerbitan pengganti?,교체발행,교체발행,True,기업금융·자본조달,주식,1.0,1.0,1.0,0,,40,교체발행
+KO-FIN-00459,교체발행과 관련된 비용과 절차를 확인하고 싶습니다.,Saya ingin mengetahui biaya dan prosedur yang terkait dengan Penerbitan pengganti.,교체발행,교체발행,True,기업금융·자본조달,주식,1.0,1.0,1.0,0,,40,교체발행
+KO-FIN-00462,교환사채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan dari Obligasi tukar.,교환사채,교환사채,True,채권,증권·예탁,1.0,1.0,1.0,0,,0,
+KO-FIN-00465,구상권이 금융거래에서 무엇을 의미하나요?,Apa arti Hak ganti rugi dalam transaksi keuangan ini?,구상권,구상권,True,법률·계약,증권·예탁,1.0,1.0,1.0,0,,40,구상권
+KO-FIN-00471,구주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa sebelum berinvestasi terkait Tuhan?,구주,구주,True,주식,,1.0,1.0,1.0,0,,70,구주
+KO-FIN-00475,국가신인도와 관련된 투자 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi investasi terkait Kredibilitas Negara.,국가신인도,국가신인도,True,자산운용·투자,,1.0,1.0,1.0,0,,0,
+KO-FIN-00478,국내장외거래와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Transaksi di Luar Pasar Teratur Dalam Negeri.,국내장외거래,국내장외거래,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00483,국민주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa terkait Lagu Kebangsaan sebelum berinvestasi?,국민주,국민주,True,주식,,1.0,1.0,1.0,0,,20,국민주
+KO-FIN-00485,국민주택채권이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Obligasi Perumahan Rakyat.,국민주택채권,국민주택채권,True,채권,주식,1.0,1.0,1.0,0,,0,
+KO-FIN-00491,최근 국민총생산의 변화를 확인하고 싶습니다.,Saya ingin melihat perubahan terbaru pada Produk Domestik Bruto.,국민총생산,국민총생산,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00492,국민총생산은 다른 경제지표와 함께 해석하는 것이 좋습니다.,Produk Domestik Bruto sebaiknya diinterpretasikan bersama dengan indikator ekonomi lainnya.,국민총생산,국민총생산,True,경제·거시금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00494,국제간 거래와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Transaksi internasional.,국제간 거래,국제간 거래,True,금융시장·거래,자산운용·투자,1.0,1.0,1.0,0,,0,
+KO-FIN-00497,국제간 대금지급이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Pembayaran antarnegara.,국제간 대금지급,국제간 대금지급,True,지급결제·청산,,1.0,1.0,1.0,0,,20,국제간 대금지급
+KO-FIN-00503,국제간 대체결제 과정에서 문제가 발생한 것 같습니다.,Tampaknya terjadi masalah dalam proses Pembayaran Alternatif Antarnegara.,국제간 대체결제,국제간 대체결제,True,지급결제·청산,증권·예탁,1.0,1.0,1.0,0,,0,
+KO-FIN-00508,국제결제은행과 관련된 세부 업무는 해당 기관의 안내를 확인해 주세요.,"Untuk detail tugas yang berkaitan dengan Bank for International Settlements, silakan lihat panduan dari lembaga terkait.",국제결제은행,국제결제은행,True,금융기관·은행,국제금융 / 지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-00510,국제결제은행규제에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Peraturan Bank for International Settlements?,국제결제은행규제,국제결제은행규제,True,금융기관·은행,지급결제·청산 / 국제금융,1.0,1.0,1.0,0,,0,
+KO-FIN-00514,국제금융공사와 관련된 거래 조건을 확인하고 싶습니다.,Saya ingin memeriksa ketentuan transaksi yang terkait dengan Korporasi Keuangan Internasional.,국제금융공사,국제금융공사,True,국제금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00518,국제금융센타와 관련된 거래 조건을 확인하고 싶습니다.,Saya ingin memeriksa ketentuan transaksi yang terkait dengan Pusat Keuangan Internasional.,국제금융센타,국제금융센타,True,국제금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00522,국제금융시장과 관련된 거래 조건을 확인하고 싶습니다.,Saya ingin memeriksa ketentuan transaksi yang terkait dengan Pasar Keuangan Internasional.,국제금융시장,국제금융시장,True,국제금융,금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-00524,국제금융시장과 관련된 거래에서는 국가별 규정과 통화를 함께 확인해야 합니다.,"Dalam transaksi yang berkaitan dengan Pasar Keuangan Internasional, Anda harus memeriksa peraturan dan mata uang yang berlaku di masing-masing negara.",국제금융시장,국제금융시장,True,국제금융,금융시장·거래,1.0,1.0,1.0,0,,0,
+KO-FIN-00525,국제보관기관이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Lembaga Penyimpanan Internasional.,국제보관기관,국제보관기관,True,증권·예탁,,1.0,1.0,1.0,0,,20,국제보관기관
+KO-FIN-00532,국제부흥개발은행과 관련된 세부 업무는 해당 기관의 안내를 확인해 주세요.,"Untuk rincian tugas yang berkaitan dengan Bank Internasional untuk Rekonstruksi dan Pembangunan, silakan periksa panduan dari lembaga terkait.",국제부흥개발은행,국제부흥개발은행,True,금융기관·은행,대출,1.0,1.0,1.0,0,,0,
+KO-FIN-00535,국제분산투자와 관련된 투자 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi investasi terkait Investasi Terpencar Internasional.,국제분산투자,국제분산투자,True,자산운용·투자,,1.0,1.0,1.0,0,,0,
+KO-FIN-00538,국제유가증권관리자협회 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Asosiasi Pengelola Sekuritas Internasional.,국제유가증권관리자협회,국제유가증권관리자협회,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00541,국제전문가시장이 무엇을 의미하나요?,Apa arti Pasar Ahli Internasional?,국제전문가시장,국제전문가시장,True,금융시장·거래,자산운용·투자,1.0,1.0,1.0,0,,0,
+KO-FIN-00545,국제정합성이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Kesesuaian Internasional.,국제정합성,국제정합성,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00549,국제증권이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Sekuritas Internasional.,국제증권,국제증권,True,증권·예탁,국제금융,1.0,1.0,1.0,0,,0,
+KO-FIN-00553,국제증권거래소연맹이 무엇을 의미하나요?,Apa arti Federasi Bursa Efek Internasional?,국제증권거래소연맹,국제증권거래소연맹,True,금융시장·거래,증권·예탁 / 국제금융,1.0,1.0,1.0,0,,0,
+KO-FIN-00557,국제증권관리위원회연맹이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Federasi Komisi Pengawas Sekuritas Internasional.,국제증권관리위원회연맹,국제증권관리위원회연맹,True,증권·예탁,국제금융,1.0,1.0,1.0,0,,0,
+KO-FIN-00561,국제증권예탁결제기관이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Lembaga Penyimpanan dan Penyelesaian Sekuritas Internasional.,국제증권예탁결제기관,국제증권예탁결제기관,True,증권·예탁,지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-00566,국제통화기금과 관련된 거래 조건을 확인하고 싶습니다.,Saya ingin memeriksa ketentuan transaksi yang terkait dengan Dana Moneter Internasional.,국제통화기금,국제통화기금,True,국제금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00568,국제통화기금과 관련된 거래에서는 국가별 규정과 통화를 함께 확인해야 합니다.,"Dalam transaksi yang berkaitan dengan Dana Moneter Internasional, Anda harus memeriksa peraturan dan mata uang yang berlaku di masing-masing negara.",국제통화기금,국제통화기금,True,국제금융,,1.0,1.0,1.0,0,,0,
+KO-FIN-00571,국제투자신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar ke Dana Investasi Internasional?,국제투자신탁,국제투자신탁,True,펀드·신탁,자산운용·투자,1.0,1.0,1.0,0,,0,
+KO-FIN-00574,국채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan Obligasi pemerintah.,국채,국채,True,채권,,1.0,1.0,1.0,0,,70,국채
+KO-FIN-00578,국채전문딜러의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur pendapatan Dealer spesialis obligasi pemerintah.,국채전문딜러,국채전문딜러,True,채권,금융시장·거래 / 금융기관·은행,1.0,1.0,1.0,0,,0,
+KO-FIN-00582,국채집합등록제도의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui ketentuan dan struktur pendapatan dari Sistem Pendaftaran Terpadu Surat Utang Negara.,국채집합등록제도,국채집합등록제도,True,채권,증권·예탁 / 금융시장·거래,1.0,1.0,1.0,0,,20,국채집합등록제도
+KO-FIN-00585,권리락이 무엇을 의미하나요?,Apa arti Kwon Ri-rak?,권리락,권리락,True,금융시장·거래,주식,1.0,1.0,1.0,0,,50,권리락
+KO-FIN-00591,권리락주가와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa sebelum berinvestasi terkait Saham yang haknya telah jatuh tempo?,권리락주가,권리락주가,True,주식,,1.0,1.0,1.0,0,,40,권리락주가
+KO-FIN-00593,권리예탁이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Penitipan Hak.,권리예탁,권리예탁,True,증권·예탁,주식,1.0,1.0,1.0,0,,20,권리예탁
+KO-FIN-00598,권리예탁계좌부 처리 절차를 확인하고 싶습니다.,Saya ingin mengetahui prosedur penanganan Buku Rekening Penitipan Hak.,권리예탁계좌부,권리예탁계좌부,True,증권·예탁,계좌,1.0,1.0,1.0,0,,20,권리예탁계좌부
+KO-FIN-00603,권리주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Apakah ada hal-hal yang perlu diperiksa sebelum berinvestasi terkait Catatan Hak Cipta?,권리주,권리주,True,주식,금융법규·감독 / 법률·계약,1.0,1.0,1.0,0,,40,권리주
+KO-FIN-00605,권종이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Jenis Hak.,권종,권종,True,채권,증권·예탁 / 금융법규·감독 / 주식,1.0,1.0,1.0,0,,30,권종
+KO-FIN-00609,규정재정이 금융거래에 어떻게 적용되나요?,Bagaimana Penetapan Peraturan diterapkan dalam transaksi keuangan ini?,규정재정,규정재정,True,금융법규·감독,,1.0,1.0,1.0,0,,20,규정재정
+KO-FIN-00611,규정재정 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Penetapan Peraturan?,규정재정,규정재정,True,금융법규·감독,,1.0,1.0,1.0,0,,20,규정재정
+KO-FIN-00614,그라함 도드모형은 금융상품을 분석할 때 어떻게 사용되나요?,Bagaimana Model Graham-Dodds digunakan dalam menganalisis produk keuangan?,그라함 도드모형,그라함 도드모형,True,금융공학·분석,주식,1.0,1.0,1.0,0,,20,그라함 도드모형
+KO-FIN-00616,그라함 도드모형의 결과는 사용한 가정과 시장 데이터에 따라 달라질 수 있습니다.,Hasil Model Graham-Dodds dapat bervariasi tergantung pada asumsi dan data pasar yang digunakan.,그라함 도드모형,그라함 도드모형,True,금융공학·분석,주식,1.0,1.0,1.0,0,,20,그라함 도드모형
+KO-FIN-00618,근저당과 관련된 금리와 비용을 확인하고 싶습니다.,Saya ingin mengetahui suku bunga dan biaya yang terkait dengan Hak gadai atas tanah.,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,50,근저당
+KO-FIN-00619,근저당을 이용할 때 필요한 서류는 무엇인가요?,Dokumen apa saja yang diperlukan untuk menggunakan Hak gadai atas tanah?,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,50,근저당
+KO-FIN-00621,글래머주식이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Saham Glamour.,글래머주식,글래머주식,True,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-00625,글래스 스티걸법이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Undang-Undang Glass-Steagall.,글래스 스티걸법,글래스 스티걸법,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00629,글로벌 트레이딩이 무엇을 의미하나요?,Apa arti Perdagangan Global?,글로벌 트레이딩,글로벌 트레이딩,True,금융시장·거래,,1.0,1.0,1.0,0,,40,글로벌 트레이딩
+KO-FIN-00635,글로벌라이제이션을 줄이려면 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperhatikan untuk mengurangi Globalisasi?,글로벌라이제이션,글로벌라이제이션,True,신용·리스크,,1.0,1.0,1.0,0,,40,글로벌라이제이션
+KO-FIN-00636,글로벌라이제이션은 거래 조건이나 이용 가능 여부에 영향을 줄 수 있습니다.,Globalisasi dapat memengaruhi ketentuan transaksi atau ketersediaannya.,글로벌라이제이션,글로벌라이제이션,True,신용·리스크,,1.0,1.0,1.0,0,,40,글로벌라이제이션
+KO-FIN-00638,글로벌본드의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan dari Obligasi Global.,글로벌본드,글로벌본드,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00641,글로컬리제이션이 무엇을 의미하나요?,Apa arti Glokalisasi?,글로컬리제이션,글로컬리제이션,True,금융시장·거래,,1.0,1.0,1.0,0,,40,글로컬리제이션
+KO-FIN-00646,금고주에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Pemegang saham utama?,금고주,금고주,True,금융기관·은행,주식,1.0,1.0,1.0,0,,20,금고주
+KO-FIN-00649,금리선물이 무엇인지 쉽게 설명해 주세요.,Tolong jelaskan dengan sederhana apa itu Kontrak Berjangka Suku Bunga.,금리선물,금리선물,True,파생상품,금융시장·거래,1.0,1.0,1.0,0,,40,금리선물
+KO-FIN-00653,금리선물옵션이 무엇인지 쉽게 설명해 주세요.,Tolong jelaskan dengan sederhana apa itu Opsi Kontrak Berjangka Suku Bunga.,금리선물옵션,금리선물옵션,True,파생상품,,1.0,1.0,1.0,0,,0,
+KO-FIN-00657,금리스왑이 무엇인지 쉽게 설명해 주세요.,Tolong jelaskan secara sederhana apa itu Swap suku bunga.,금리스왑,금리스왑,True,파생상품,대출 / 법률·계약 / 금융시장·거래,1.0,1.0,1.0,0,,40,금리스왑
+KO-FIN-00662,금리연동부사채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan Obligasi dengan Suku Bunga Terikat.,금리연동부사채,금리연동부사채,True,채권,,1.0,1.0,1.0,0,,40,금리연동부사채
+KO-FIN-00666,금리확정부사채의 조건과 수익 구조를 확인하고 싶습니다.,Saya ingin mengetahui syarat dan struktur keuntungan dari Obligasi tanpa bunga dengan suku bunga tetap.,금리확정부사채,금리확정부사채,True,채권,,1.0,1.0,1.0,0,,40,금리확정부사채
+KO-FIN-00671,금외신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,Apa saja yang perlu diperiksa sebelum mendaftar di Perwalian Non-Emas?,금외신탁,금외신탁,True,펀드·신탁,,1.0,1.0,1.0,0,,40,금외신탁
+KO-FIN-00673,금융감독위원회/금융감독원이 금융거래에 어떻게 적용되나요?,Bagaimana Komisi Pengawasan Keuangan/Badan Pengawasan Keuangan diterapkan dalam transaksi keuangan ini?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,1.0,1.0,1.0,0,,0,
+KO-FIN-00675,금융감독위원회/금융감독원 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Komisi Pengawasan Keuangan/Badan Pengawasan Keuangan?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,1.0,1.0,1.0,0,,0,
+KO-FIN-00677,금융결제원이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Lembaga Kliring dan Pembayaran.,금융결제원,금융결제원,True,지급결제·청산,금융기관·은행,1.0,1.0,1.0,0,,40,금융결제원
+KO-FIN-00681,금융공학이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Rekayasa Keuangan.,금융공학,금융공학,True,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-00686,금융기관에서 이용할 수 있는 금융업무는 무엇인가요?,Layanan keuangan apa saja yang tersedia di Lembaga keuangan?,금융기관,금융기관,True,금융기관·은행,,1.0,1.0,1.0,0,,0,
+KO-FIN-00691,금융리스 때문에 추가로 확인해야 할 사항이 있나요?,Apakah ada hal lain yang perlu diperiksa terkait Sewa Guna Usaha?,금융리스,금융리스,True,금융법규·감독,,1.0,1.0,1.0,0,,40,금융리스
+KO-FIN-00692,금융리스의 적용 범위는 관련 법령과 규정에 따라 달라질 수 있습니다.,Ruang lingkup penerapan Sewa Guna Usaha dapat bervariasi sesuai dengan undang-undang dan peraturan yang berlaku.,금융리스,금융리스,True,금융법규·감독,,1.0,1.0,1.0,0,,40,금융리스
+KO-FIN-00696,금융비용은 심사 결과에 따라 이용 가능 여부가 달라질 수 있습니다.,Ketersediaan Biaya keuangan dapat berubah tergantung pada hasil penilaian.,금융비용,금융비용,True,대출,,1.0,1.0,1.0,0,,20,금융비용
+KO-FIN-00698,금융선물거래와 관련된 시장 정보를 확인하고 싶습니다.,Saya ingin memeriksa informasi pasar terkait Perdagangan Kontrak Berjangka Keuangan.,금융선물거래,금융선물거래,True,금융시장·거래,파생상품 / 해외송금·외환,1.0,1.0,1.0,0,,0,
+KO-FIN-00702,금융소득종합과세의 적용 기준을 알려주세요.,Tolong jelaskan kriteria penerapan Pajak Penghasilan Komprehensif atas Penghasilan Keuangan.,금융소득종합과세,금융소득종합과세,True,세금,,1.0,1.0,1.0,0,,0,
+KO-FIN-00704,금융소득종합과세의 적용 여부는 거래 유형과 세법에 따라 달라질 수 있습니다.,Penerapan Pajak Penghasilan Komprehensif atas Penghasilan Keuangan dapat bervariasi tergantung pada jenis transaksi dan undang-undang perpajakan.,금융소득종합과세,금융소득종합과세,True,세금,,1.0,1.0,1.0,0,,0,
+KO-FIN-00705,금융쇼핑몰이 무엇인지 설명해 주세요.,Tolong jelaskan apa itu Pusat Perbelanjaan Keuangan.,금융쇼핑몰,금융쇼핑몰,True,증권·예탁,,1.0,1.0,1.0,0,,0,
+KO-FIN-00709,금융시장이 무엇을 의미하나요?,Apa arti Pasar Keuangan?,금융시장,금융시장,True,금융시장·거래,,1.0,1.0,1.0,0,,0,
+KO-FIN-00714,금융실명제의 적용 기준을 알려주세요.,Tolong jelaskan kriteria penerapan Sistem Identitas Pemegang Rekening di Sektor Keuangan.,금융실명제,금융실명제,True,세금,,1.0,1.0,1.0,0,,50,금융실명제
+KO-FIN-00716,금융실명제의 적용 여부는 거래 유형과 세법에 따라 달라질 수 있습니다.,Penerapan Sistem Identitas Pemegang Rekening di Sektor Keuangan dapat bervariasi tergantung pada jenis transaksi dan undang-undang perpajakan.,금융실명제,금융실명제,True,세금,,1.0,1.0,1.0,0,,50,금융실명제
+KO-FIN-00720,금융어음은 심사 결과에 따라 이용 가능 여부가 달라질 수 있습니다.,Ketersediaan Warkat keuangan dapat berubah tergantung pada hasil penilaian.,금융어음,금융어음,True,대출,,1.0,1.0,1.0,0,,20,금융어음
+KO-FIN-00724,금융자산은 심사 결과에 따라 이용 가능 여부가 달라질 수 있습니다.,Ketersediaan Aset keuangan dapat berubah tergantung pada hasil penilaian.,금융자산,금융자산,True,대출,,1.0,1.0,1.0,0,,0,

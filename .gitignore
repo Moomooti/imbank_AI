@@ -1,0 +1,23 @@
+# 가상환경
+FinHOLLY/venv/
+venv/
+__pycache__/
+*.pyc
+
+# 모델 바이너리 (용량 초과 - 깃허브 파일당 100MB 제한)
+models/
+FinHOLLY/models/
+finholly_ct2_int8/
+finholly_merged_hf/
+
+# 대용량 원본/파생 데이터 (재생성 가능, 100MB 제한 초과 또는 근접)
+data/myanmar_adapter/opus_ko_my.csv
+data/myanmar_adapter/my_adapter_train.csv
+data/myanmar_adapter/my_adapter_train_with_source.csv
+
+# 비밀키
+.env
+*.log
+
+# OS/에디터
+.DS_Store

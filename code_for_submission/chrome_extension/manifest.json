@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "FinHOLLY 페이지 번역",
+  "version": "0.1.0",
+  "description": "온프레미스 FinHOLLY 번역 서버로 한국어 웹페이지를 베트남어/인도네시아어/태국어/필리핀어/미얀마어로 번역합니다.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": [
+    "http://127.0.0.1:5000/*",
+    "http://localhost:5000/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "FinHOLLY 페이지 번역"
+  }
+}

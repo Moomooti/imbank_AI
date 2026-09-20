@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FinHOLLY — 온프레미스 금융 번역</title>
+<style>
+  :root {
+    --bg: #f7f8fa;
+    --card: #ffffff;
+    --border: #e2e5ea;
+    --text: #1a1d29;
+    --muted: #6b7280;
+    --accent: #2454ff;
+    --accent-dark: #173bcc;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 32px 16px 60px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  header { text-align: center; margin-bottom: 28px; }
+  header .badge {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 600;
+    color: #0a8f4a;
+    background: #e6f9ef;
+    border: 1px solid #b7ecd0;
+    border-radius: 999px;
+    padding: 3px 12px;
+    margin-bottom: 10px;
+  }
+  h1 { font-size: 26px; margin: 0 0 6px; }
+  header p { color: var(--muted); margin: 0; font-size: 14px; }
+
+  .panel {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  textarea {
+    width: 100%;
+    min-height: 90px;
+    resize: vertical;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 15px;
+    font-family: inherit;
+    color: var(--text);
+    background: #fbfbfc;
+  }
+  textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  .row { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; }
+  .examples { display: flex; gap: 6px; flex-wrap: wrap; }
+  .example-chip {
+    font-size: 12px;
+    color: var(--accent);
+    background: #eef2ff;
+    border: 1px solid #d6deff;
+    border-radius: 999px;
+    padding: 4px 10px;
+    cursor: pointer;
+  }
+  .example-chip:hover { background: #dfe6ff; }
+
+  button#go {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 22px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button#go:hover { background: var(--accent-dark); }
+  button#go:disabled { background: #b9c3e6; cursor: default; }
+
+  #status { font-size: 13px; color: var(--muted); margin-top: 8px; min-height: 18px; }
+  #status.error { color: #d13438; }
+
+  .results { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 14px; }
+  .result-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px;
+  }
+  .result-card .lang-name { font-weight: 700; font-size: 14px; margin-bottom: 8px; display: flex; align-items: center; gap: 6px; }
+  .result-card .lang-code { font-size: 11px; color: var(--muted); font-weight: 400; }
+  .result-card .translated-text { font-size: 15px; line-height: 1.5; min-height: 24px; word-break: break-word; }
+  .result-card .translated-text.placeholder { color: #c3c7d1; }
+
+  footer { text-align: center; margin-top: 30px; font-size: 12px; color: var(--muted); }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="badge">🔒 온프레미스 · 인터넷 연결 불필요</div>
+      <h1>FinHOLLY 금융 번역</h1>
+      <p>한국어 금융 문장 → 베트남어 · 인도네시아어 · 태국어 · 필리핀어 · 미얀마어</p>
+    </header>
+
+    <div class="panel">
+      <textarea id="input" placeholder="번역할 한국어 금융 문장을 입력하세요. 예: 이 계좌를 해지하려면 어떻게 해야 하나요?"></textarea>
+      <div class="row">
+        <div class="examples" id="examples"></div>
+        <button id="go">번역</button>
+      </div>
+      <div id="status"></div>
+    </div>
+
+    <div class="results" id="results"></div>
+
+    <footer>FinHOLLY — 금융 도메인 어댑터 + 언어 어댑터 (LoRA, CTranslate2 INT8, 100% 로컬 추론)</footer>
+  </div>
+
+<script>
+const LANGS = [
+  { code: "vie_Latn", name: "베트남어", flag: "🇻🇳" },
+  { code: "ind_Latn", name: "인도네시아어", flag: "🇮🇩" },
+  { code: "tha_Thai", name: "태국어", flag: "🇹🇭" },
+  { code: "tgl_Latn", name: "필리핀어", flag: "🇵🇭" },
+  { code: "mya_Mymr", name: "미얀마어", flag: "🇲🇲" },
+];
+
+const EXAMPLES = [
+  "이 계좌를 해지하려면 어떻게 해야 하나요?",
+  "증거금이 무엇인지 쉽게 설명해 주세요.",
+  "해외송금 수수료를 확인해 주세요.",
+  "카드 결제가 취소되지 않았습니다.",
+];
+
+const resultsEl = document.getElementById("results");
+const statusEl = document.getElementById("status");
+const inputEl = document.getElementById("input");
+const goBtn = document.getElementById("go");
+const examplesEl = document.getElementById("examples");
+
+function renderPlaceholders() {
+  resultsEl.innerHTML = LANGS.map(l => `
+    <div class="result-card">
+      <div class="lang-name">${l.flag} ${l.name} <span class="lang-code">${l.code}</span></div>
+      <div class="translated-text placeholder">번역 결과가 여기에 표시됩니다</div>
+    </div>
+  `).join("");
+}
+
+function renderResults(translations) {
+  resultsEl.innerHTML = translations.map(t => {
+    const meta = LANGS.find(l => l.code === t.lang) || {};
+    return `
+      <div class="result-card">
+        <div class="lang-name">${meta.flag || ""} ${t.name} <span class="lang-code">${t.lang}</span></div>
+        <div class="translated-text">${escapeHtml(t.text)}</div>
+      </div>
+    `;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  const div = document.createElement("div");
+  div.textContent = s;
+  return div.innerHTML;
+}
+
+async function doTranslate() {
+  const text = inputEl.value.trim();
+  if (!text) {
+    statusEl.textContent = "번역할 문장을 입력해 주세요.";
+    statusEl.className = "error";
+    return;
+  }
+  goBtn.disabled = true;
+  statusEl.className = "";
+  statusEl.textContent = "번역 중...";
+
+  try {
+    const resp = await fetch("/api/translate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text }),
+    });
+    const data = await resp.json();
+    if (!resp.ok) {
+      statusEl.className = "error";
+      statusEl.textContent = data.error || "번역 중 오류가 발생했습니다.";
+      return;
+    }
+    renderResults(data.translations);
+    statusEl.textContent = `완료 (${data.elapsed_sec}초, 5개 언어 · 로컬 추론)`;
+  } catch (err) {
+    statusEl.className = "error";
+    statusEl.textContent = "서버에 연결할 수 없습니다.";
+  } finally {
+    goBtn.disabled = false;
+  }
+}
+
+goBtn.addEventListener("click", doTranslate);
+inputEl.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) doTranslate();
+});
+
+examplesEl.innerHTML = EXAMPLES.map(ex => `<span class="example-chip">${ex}</span>`).join("");
+examplesEl.querySelectorAll(".example-chip").forEach((chip, i) => {
+  chip.addEventListener("click", () => {
+    inputEl.value = EXAMPLES[i];
+    doTranslate();
+  });
+});
+
+renderPlaceholders();
+</script>
+</body>
+</html>

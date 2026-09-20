@@ -1,0 +1,97 @@
+﻿ko_term,is_short,is_dup,is_suspicious_crosslang,susp_max,eng,has_nonfinancial_sense,nonfinancial_meaning,positive_문장수
+ANNA,,Y,Y,60.0,Association of National Numbering Agencies,N,,2
+Affirmation,,,Y,50.0,,애매,일반 영어 단어 '확언/긍정'(자기긍정 등) — 관련은 있으나 거리가 멀진 않음,1
+CDS,,Y,,20.0,Canadian Depository for Securities,N,,1
+CHIPS,,,Y,50.0,Clearing House Interbank Payments System,Y,감자칩/포커칩/컴퓨터 칩(chips) — 매우 흔한 영단어,2
+INSTINET,,,Y,50.0,,N,,1
+ISIN,,Y,,60.0,International Securities Identification Numbering System,N,,1
+REGULATION A,,,Y,50.0,,N,,2
+REGULATION D,,,Y,50.0,,N,,2
+REGULATION G,,,Y,50.0,,N,,1
+REGULATION Q,,,Y,50.0,,N,,1
+REGULATION T,,,Y,50.0,,N,,1
+TAURUS,,,Y,50.0,Transfer and Automated Registration of Uncertificated Stock,Y,"황소자리(별자리, 점성술) — Taurus",1
+commodity financing,,,Y,50.0,,N,,1
+concentration limit,,,Y,50.0,,애매,'집중(력)'이라는 일반어 concentration과 거리 있는 결합이라 낮은 위험,1
+confirmation,,,Y,50.0,,애매,일반적 '확인/증명'(종교의 견진성사 등) — 관련 의미라 거리는 가까움,1
+crossing network,,,Y,50.0,,애매,'길을 건너다'의 crossing 이미지와 결합 가능,1
+delivery notice,,,Y,50.0,,Y,"출산(delivery, 아기를 낳는 것)의 일반적 의미",1
+finality of payment,,,Y,50.0,,N,,1
+five hundred dollar rule,,,Y,50.0,,N,,2
+indenture,,,Y,50.0,,N,,1
+independent broker,,,Y,50.0,,N,,1
+infrastructure,,,Y,50.0,,N,,1
+investment bank,,,Y,50.0,,N,,1
+investment banking,,,Y,50.0,,N,,1
+investment company,,,Y,50.0,,N,,1
+pac-man strategy,,,Y,50.0,,Y,비디오게임 '팩맨'(Pac-Man),1
+position,,,Y,50.0,,Y,일반적 '위치/자세/직위'라는 매우 흔한 영단어 의미,2
+reorganization,,,Y,50.0,,N,,1
+segregation of securities,,,Y,50.0,,Y,인종 분리/차별(segregation)이라는 강한 사회적 의미,1
+settlement,,,Y,50.0,,Y,"정착지/식민지(settlement), 분쟁의 합의라는 일반적 의미",1
+suicide pill,,,Y,50.0,,Y,문자 그대로 '자살'(suicide)이라는 강한 비금융적 의미,1
+tick,,,Y,50.0,,Y,"진드기(곤충), 시계 초침 소리, 체크 표시라는 매우 흔한 영단어 의미",1
+가쇄,Y,,Y,70.0,,Y,枷鎖(가쇄) - 형틀/족쇄(shackles) - 완전히 다른 한자 동음이의어. 실제로 이전에 베트남어 'Chuỗi'(사슬/체인)로 오역된 전례 있음,1
+간주,Y,,Y,80.0,,Y,"음악의 '간주(곡)'(間奏, interlude) — 매우 흔한 음악 용어",1
+결산,Y,,Y,70.0,closing the books,N,,2
+결제시한,,Y,Y,70.0,time limit for settlement,N,,1
+결제후 업무처리,,Y,,60.0,post settlement functions,N,,1
+경개,Y,,,80.0,novation,N,,1
+계약,Y,,,70.0,contract,N,,1
+공모,Y,,Y,80.0,public offering,Y,공모(共謀) - 범죄 공모/모의(conspiracy) - 뉴스 등에서 매우 흔함,1
+공시,Y,,Y,70.0,disclosure,N,,2
+공채,Y,,Y,80.0,public bond,Y,"공채(公採) - 공개채용(대기업 공채 등, 취업/채용의 준말)",1
+구주,Y,,Y,70.0,old share,애매,구주(歐洲) - '유럽'을 뜻하는 옛 한자어(현재는 드물게 사용),1
+국채,Y,,Y,70.0,government bond,N,,1
+권종,Y,,,70.0,certificate by denomination,N,,1
+기세,Y,,Y,80.0,"quot, quotation",Y,"기세(氣勢) - 기운/기백/추진력(vigor, morale) - 매우 흔한 일상어('기세등등')",1
+납회,Y,,Y,80.0,the final session of the year,N,,1
+단주,Y,,Y,70.0,"odd lot, fractional shares",Y,"단주(斷酒) - 금주/술을 끊음(sobriety, quitting alcohol)",1
+대권,Y,,Y,70.0,global certificates,Y,대권(大權) - 최고 권력/대통령직(presidential bid) - 정치 뉴스에 매우 흔함('대권주자'),1
+대주,Y,,Y,70.0,"stock loan, lending stock",애매,대주가(大酒家)처럼 '술을 많이 마심'과 연관된 한자가 있으나 단독으로는 흔치 않음,1
+딜러,Y,,Y,80.0,dealer,애매,자동차 딜러 등 일반 판매상 의미로도 흔히 쓰이나 핵심 개념('거래를 중개/취급하는 사람')은 동일,1
+만기,Y,,Y,80.0,maturity,N,,1
+매출,Y,,,70.0,,Y,"일반적 의미의 '매출액/판매실적'(sales revenue) — 이 사전 정의(유가증권 매도청약)와 다른, 압도적으로 흔한 일상 의미",1
+모집,Y,,Y,70.0,,Y,"일반적 의미의 '모집/모집공고'(직원 모집 등, general recruitment) — 증권법상 특정 의미보다 훨씬 흔함",1
+배당,Y,,,70.0,dividend,애매,일반적 '분배/배당'의 의미로도 쓰이나 핵심 개념은 비슷,1
+배서,Y,,Y,80.0,endorsement,N,,1
+빅뱅,Y,,,30.0,Big Bang,Y,빅뱅(Big Bang) - 우주 대폭발 이론(천문학) - 매우 유명,1
+사모,Y,,Y,80.0,private placement,Y,"'사모님'(존칭) 또는 사모(思慕, 그리워함) - 매우 흔한 일상어",1
+상대매매,,Y,Y,60.0,"private sale, negotiated transaction",N,,1
+상장,Y,,Y,70.0,listing,Y,상장(賞狀) - 상을 받을 때 주는 증서(award certificate) - 학교 등에서 매우 흔함,1
+상호동시거래,,Y,,70.0,back-to-back transaction,N,,1
+상환,Y,,Y,80.0,redemption,N,,1
+신탁,Y,,Y,80.0,trust,Y,신탁(神託) - 신의 계시/오라클(divine oracle) - 그리스 신화 등에서 흔히 쓰임,1
+예탁,Y,,Y,80.0,deposit,N,,1
+옵션,Y,,Y,70.0,option,애매,자동차/제품의 선택 사양(추가 기능)이라는 흔한 일상 의미 - 핵심 개념('선택 가능한 것')은 비슷,1
+운영위험,,Y,,40.0,operational risk,N,,1
+유로,Y,,,30.0,EURO,애매,"유로(流路, 물길/통로)라는 드문 한자어 - 흔하지 않음",1
+의결권대리행사 권유,,Y,Y,60.0,proxy solicitation,N,,1
+인수,Y,,Y,80.0,underwriting,애매,"택배 인수, 인수인계 등 '받아서 넘겨받음'이라는 일반적 의미로 널리 쓰이나 핵심 개념은 동일",1
+임치,Y,,Y,70.0,,N,,1
+입금,Y,,Y,70.0,deposit,N,,1
+잔액,Y,,Y,80.0,balance,N,,1
+재담보,,,Y,50.0,rebalancing,N,,1
+재투자수익률,,Y,,20.0,reinvestment rate of return,N,,1
+점유,Y,,Y,80.0,,N,,1
+주권,Y,,,70.0,stock certificate,Y,주권(主權) - 국가의 주권/자주권(national sovereignty) - 매우 흔한 정치/법률 용어,1
+주주,Y,,,30.0,"shareholder, stockholder",N,,1
+증자,Y,,Y,70.0,increase of capital,N,,1
+질권,Y,,Y,70.0,"right of pledge, pledge",N,,1
+차감,Y,,Y,70.0,netting,N,,1
+차등배당,,,Y,50.0,differencial dividend,N,,1
+차주,Y,,Y,80.0,borrowed stock,Y,"차주(次週, 다음 주) 또는 차주(車主, 차량 소유자) - 매우 흔한 일상어 (이전 필리핀어 파이프라인 오염 확인 사례)",1
+차환,Y,,Y,70.0,"refund, refinance",N,,1
+채권,Y,,,70.0,bond,N,,1
+청산,Y,,Y,70.0,clearing,Y,"'과거를 청산하다'처럼 '정리하다/끝내다'는 일반적 의미로 매우 흔히 쓰임; 청산(靑山, 푸른 산)",1
+총유,Y,,Y,70.0,,N,,1
+출금,Y,,Y,70.0,withdrawal,N,,1
+출자,Y,,Y,80.0,contribution,N,,1
+출자전환,,,Y,50.0,,N,,1
+콜,Y,,Y,70.0,call,Y,"전화 통화(phone call) 또는 '좋아, 콜!'(deal, 흔쾌히 동의) - 매우 흔한 일상 표현",1
+텀론,Y,,Y,70.0,term loan,N,,1
+팩터,Y,,Y,70.0,factor,애매,일반적 '요인/인자'(factor)라는 뜻으로도 흔히 쓰이나 관련된 의미,1
+합유,Y,,Y,70.0,,N,,1
+헤징,Y,,Y,70.0,hedging,N,,1
+환율,Y,,,30.0,exchange rate,N,,1
+환전,Y,,Y,70.0,currency exchange,N,,1

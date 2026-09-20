@@ -1,0 +1,77 @@
+﻿term,grade,sense,ko_sentence,lang,translation,label,provider,labse_filter_pass
+간주,1등급,financial,간주 처리 절차를 확인하고 싶습니다.,vie_Latn,Tôi muốn xác nhận quy trình xử lý việc coi là.,pos,groq,True
+간주,1등급,financial,간주 처리 절차를 확인하고 싶습니다.,ind_Latn,Saya ingin memeriksa prosedur penganggapannya.,pos,groq,True
+간주,1등급,financial,간주 처리 절차를 확인하고 싶습니다.,tha_Thai,ข้าพเจ้าต้องการตรวจสอบขั้นตอนการถือว่า,pos,groq,True
+간주,1등급,financial,간주 처리 절차를 확인하고 싶습니다.,tgl_Latn,Nais kong alamin ang proseso ng pagkakakonsidera.,pos,groq,True
+간주,1등급,financial,간주 처리 절차를 확인하고 싶습니다.,mya_Mymr,အယူအဆအရ လုပ်ထုံးလုပ်နည်းကို အတည်ပြုလိုပါသည်။,pos,groq,True
+간주,1등급,financial,변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.,vie_Latn,"Nếu trong thời hạn quy định, quý vị không nêu ra bất kỳ phản đối nào đối với các điều khoản giao dịch tài chính đã được sửa đổi, thì sẽ được coi là đã đồng ý với nội dung sửa đổi.",pos,groq,True
+간주,1등급,financial,변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.,ind_Latn,"Jika Anda tidak mengajukan keberatan secara terpisah dalam jangka waktu yang ditentukan terhadap syarat dan ketentuan transaksi keuangan yang telah diubah, maka hal tersebut akan dianggap sebagai persetujuan Anda terhadap isi revisi tersebut.",pos,groq,True
+간주,1등급,financial,변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.,tha_Thai,หากท่านไม่ได้ยื่นข้อโต้แย้งใด ๆ ภายในกำหนดเวลาที่ระบุเกี่ยวกับเงื่อนไขการทำธุรกรรมทางการเงินที่มีการเปลี่ยนแปลง จะถือว่าท่านได้ให้ความยินยอมต่อเนื้อหาการแก้ไขดังกล่าว.,pos,groq,True
+간주,1등급,financial,변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.,tgl_Latn,"Kung hindi kayo maghahain ng anumang pagtutol sa loob ng itinakdang panahon hinggil sa binagong mga tuntunin ng transaksyon sa pananalapi, ituring na sumasang-ayon kayo sa mga binagong nilalaman.",pos,groq,True
+간주,1등급,financial,변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.,mya_Mymr,ပြင်ဆင်ထားသော ငွေကြေးအရောင်းအဝယ် စည်းကမ်းများအတွက် သတ်မှတ်ထားသော အချိန်အတွင်း သီးခြား အကြံပြုချက် မတင်သွင်းပါက၊ အဆိုပါ ပြင်ဆင်ချက်များကို သင် သဘောတူကြောင်း အယူအဆထားသည်ဟု သတ်မှတ်ပါသည်။,pos,groq,True
+간주,1등급,financial,추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다.,vie_Latn,"Nếu không thể đáp ứng số tiền yêu cầu đến hạn nộp thêm tiền bảo đảm, sẽ được coi là đã đồng ý tiến hành giao dịch ngược lại và việc bán buộc sẽ được thực hiện.",pos,groq,True
+간주,1등급,financial,추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다.,ind_Latn,"Jika sampai batas waktu pembayaran tambahan jaminan tidak dapat memenuhi jumlah yang diminta, maka dianggap telah menyetujui pelaksanaan penjualan berlawanan, sehingga penjualan paksa akan dilaksanakan.",pos,groq,True
+간주,1등급,financial,추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다.,tha_Thai,หากไม่สามารถชำระจำนวนเงินที่ต้องการภายในกำหนดเวลาการชำระเงินประกันเพิ่มเติม จะถือว่าได้ยินยอมดำเนินการขายตรงกันข้ามและจะมีการดำเนินการขายบังคับ.,pos,groq,True
+간주,1등급,financial,추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다.,tgl_Latn,"Kung hindi matugunan ang hinihinging halaga hanggang sa takdang panahon ng pagbayad ng karagdagang kolateral, itinuturing na sumang-ayon ka sa pagsasagawa ng kontraryong bentahan at isasagawa ang sapilitang pagbebenta.",pos,groq,True
+간주,1등급,financial,추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다.,mya_Mymr,အပိုအာမခံငွေထည့်သွင်းရန်အချိန်အတွင်း တောင်းဆိုထားသောငွေပမာဏကို မဖြည့်နိုင်ပါက၊ ဆန့်ကျင်အရောင်းကို သဘောတူညီထားသည်ဟု အဖြစ်သတ်မှတ်ပြီး အတင်းအကျဉ်းရောင်းချမှုကို အကောင်အထည်ဖော်မည်။,pos,groq,True
+간주,1등급,nonfinancial,노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.,vie_Latn,"Khi không khí của bài hát đạt cao trào nhất, một đoạn piano du dương đã vang lên.",neg,groq,True
+간주,1등급,nonfinancial,노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.,ind_Latn,"Saat suasana lagu mencapai puncaknya, interlude piano yang manis terdengar.",neg,groq,True
+간주,1등급,nonfinancial,노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.,tha_Thai,ในขณะที่บรรยากาศของเพลงถึงจุดสูงสุด มีอินเทอร์ลูดเปียโนที่ไพเราะไหลออกมา,neg,groq,True
+간주,1등급,nonfinancial,노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.,tgl_Latn,"Sa sandaling pinakamataas ang emosyon ng kanta, isang matamis na piano interlude ang tumugtog.",neg,groq,True
+간주,1등급,nonfinancial,노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.,mya_Mymr,သီချင်း၏ အာရုံအထူးအမြင့်ဆုံးအချိန်တွင် ချိုမြိန်သော ပီယာနို အင်တာလူဒ် တစ်ပုဒ် ထွက်ပေါ်လာသည်။,neg,groq,True
+간주,1등급,nonfinancial,가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.,vie_Latn,Ca sĩ đã bước ra phía trước sân khấu và vẫy tay chào các fan trong suốt phần dạo dài của guitar trước khi chuyển sang đoạn thứ hai.,neg,groq,True
+간주,1등급,nonfinancial,가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.,ind_Latn,"Penyanyi keluar ke depan panggung selama interlud gitar yang panjang sebelum beralih ke bait kedua, dan melambaikan tangan kepada para penggemar.",neg,groq,True
+간주,1등급,nonfinancial,가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.,tha_Thai,นักร้องออกมาที่หน้าบนเวทีในระหว่างช่วงกีตาร์ที่ยาวนานก่อนเข้าสู่ท่อนที่สองและโบกมือให้กับแฟน ๆ.,neg,groq,True
+간주,1등급,nonfinancial,가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.,tgl_Latn,"Bago magtungo sa ikalawang taludtod, sa mahabang gitara na interludyo, lumabas ang mang-aawit sa harap ng entablado at kumaway sa mga tagahanga.",neg,groq,True
+간주,1등급,nonfinancial,가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.,mya_Mymr,သီချင်းဆိုသူသည် ဒုတိယအပိုင်းသို့ မဝင်မီ ရှည်လျားသော ဂစ်တာအကြားတေးအတွင်း စင်အရှေ့သို့ ထွက်လာပြီး ပရိသတ်များထံ လက်လှုပ်ခတ်ခဲ့သည်။,neg,groq,True
+간주,1등급,nonfinancial,이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다.,vie_Latn,Bài này có đoạn violin ngắt quãng sau phần vocal nhẹ nhàng rất ấn tượng.,neg,groq,True
+간주,1등급,nonfinancial,이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다.,ind_Latn,Interlud violin yang muncul setelah vokal yang lembut dalam lagu ini sangat mengesankan.,neg,groq,True
+간주,1등급,nonfinancial,이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다.,tha_Thai,ส่วนไวโอลินที่เป็นการแทรกระหว่างเสียงร้องที่อ่อนโยนนั้นน่าประทับใจมาก,neg,groq,True
+간주,1등급,nonfinancial,이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다.,tgl_Latn,Ang interlude ng biyolin na sumusunod sa banayad na boses sa kantang ito ay napaka-impresibo.,neg,groq,True
+간주,1등급,nonfinancial,이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다.,mya_Mymr,ဤသီချင်း၏ အေးအေးဆေးဆေး သီဆိုချက်အပြီးထွက်လာသော ဗိုင်ယိုလင် အလယ်တေးသည် အလွန်ထင်ရှားသည်။,neg,groq,True
+차주,1등급,financial,차주와 관련해 투자 전에 확인해야 할 사항이 있나요?,vie_Latn,Có những điều nào cần xác nhận trước khi đầu tư liên quan đến người vay cổ phiếu không?,pos,groq,True
+차주,1등급,financial,차주와 관련해 투자 전에 확인해야 할 사항이 있나요?,ind_Latn,Apakah ada hal yang perlu diperiksa sebelum berinvestasi terkait dengan peminjaman saham?,pos,gemini,True
+차주,1등급,financial,차주와 관련해 투자 전에 확인해야 할 사항이 있나요?,tha_Thai,มีเรื่องใดบ้างที่ควรตรวจสอบก่อนการลงทุนที่เกี่ยวกับผู้กู้หุ้นหรือไม่?,pos,groq,True
+차주,1등급,financial,차주와 관련해 투자 전에 확인해야 할 사항이 있나요?,tgl_Latn,Mayroon bang mga dapat kumpirmahin bago mag-invest kaugnay ng pag-utang ng mga shares?,pos,groq,True
+차주,1등급,financial,차주와 관련해 투자 전에 확인해야 할 사항이 있나요?,mya_Mymr,အစုရှယ်ယာချေးယူသူနှင့်ပတ်သက်၍ ရင်းနှီးမြှုပ်နှံမှုမပြုမီ စစ်ဆေးသင့်သော အချက်များရှိပါသလား?,pos,groq,True
+차주,1등급,financial,"오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",vie_Latn,"Hôm nay, khách hàng đã đăng ký vay cổ phiếu, vay 5.000 cổ phiếu từ công ty tài chính chứng khoán và ngay lập tức đặt lệnh bán khống.",pos,groq,True
+차주,1등급,financial,"오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",ind_Latn,"Hari ini nasabah mengajukan permohonan peminjaman saham, meminjam 5.000 lembar dari perusahaan sekuritas keuangan, dan langsung menempatkan order short selling.",pos,groq,True
+차주,1등급,financial,"오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",tha_Thai,"วันนี้ ลูกค้าได้ทำการขอยืมหุ้นจำนวน 5,000 หุ้นจากบริษัทหลักทรัพย์การเงิน แล้วจึงสั่งขายชอร์ตทันที",pos,groq,True
+차주,1등급,financial,"오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",tgl_Latn,"Ngayong araw, nag-apply ang kliyente para manghiram ng shares, humiram ng 5,000 na shares mula sa securities financing company, at agad na naglagay ng short‑sell order.",pos,groq,True
+차주,1등급,financial,"오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",mya_Mymr,"ယနေ့တွင် ဖောက်သည်သည် ရှယ်ယာ ငှားရမ်းခွင့် လျှောက်ထားကာ အာမခံ ဘဏ္ဍာရေး ကုမ္ပဏီထံမှ ရှယ်ယာ ၅,၀၀၀ ငှားယူပြီးနောက် ချက်ချင်းပင် ရှယ်ယာ အတိုရောင်းချမှု အမှာစာ တင်ခဲ့သည်။",pos,gemini,True
+차주,1등급,financial,"차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다.",vie_Latn,"Sau khi sử dụng 차주 để vay cổ phiếu và giá thị trường sụt giảm mạnh, chúng tôi đã có thể mở rộng lợi nhuận một cách đáng kể.",pos,groq,True
+차주,1등급,financial,"차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다.",ind_Latn,"Setelah meminjam saham melalui transaksi kredit dan harga pasar anjlok, kami dapat memperbesar keuntungan secara signifikan.",pos,groq:qwen/qwen3.8-27b,True
+차주,1등급,financial,"차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다.",tha_Thai,หลังจากที่เราได้ยืมหุ้นมาขาย แล้วราคาหุ้นร่วงลงอย่างรวดเร็ว เราก็สามารถขยายกำไรได้อย่างมาก,pos,groq:qwen/qwen3.8-27b,True
+차주,1등급,financial,"차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다.",tgl_Latn,"Pagkatapos nating humingi ng pautang ng mga stock at bumagsak ang presyo, nakapagpalaki kami ng malaking kita.",pos,groq:qwen/qwen3.8-27b,True
+차주,1등급,financial,"차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다.",mya_Mymr,ရှယ်ယာများကို ယူစား ပြုလုပ်ပြီးနောက် စျေးနှုန်းသည် အဆင်သင့်ကျဆင်းသွားသောကြောင့် ကျွန်ုပ်တို့သည် အမြတ်အစွန်းကို အလွန်ကြီးမားစွာ တိုးမြှင့်နိုင်ခဲ့ပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주에 비가 많이 올 것 같으니 우산을 챙기세요.,vie_Latn,"Có vẻ sẽ mưa nhiều vào tuần tới, nên hãy mang theo ô.",neg,groq,True
+차주,1등급,nonfinancial,차주에 비가 많이 올 것 같으니 우산을 챙기세요.,ind_Latn,"Karena sepertinya akan turun hujan deras minggu depan, silakan bawa payung.",neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주에 비가 많이 올 것 같으니 우산을 챙기세요.,tha_Thai,สัปดาห์หน้าดูเหมือนจะมีฝนตกหนักมาก โปรดเตรียมร่มไปด้วย,neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주에 비가 많이 올 것 같으니 우산을 챙기세요.,tgl_Latn,"Maraming ulan ang inaasahang mag-uulan sa susunod na linggo, kaya't dalhin mo ang payong.",neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주에 비가 많이 올 것 같으니 우산을 챙기세요.,mya_Mymr,လာမည့်အပတ် မိုးများမည်ထင်သောကြောင့် မိုးထိုးတံဆိပ်ကို ယူပါ။,neg,groq,True
+차주,1등급,nonfinancial,차주와 함께 차를 점검하러 정비소에 갔다.,vie_Latn,Tôi đã đi đến xưởng bảo dưỡng để kiểm tra xe cùng với chủ xe.,neg,groq,True
+차주,1등급,nonfinancial,차주와 함께 차를 점검하러 정비소에 갔다.,ind_Latn,Saya pergi ke bengkel bersama pemilik mobil untuk memeriksa kendaraannya.,neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주와 함께 차를 점검하러 정비소에 갔다.,tha_Thai,ฉันไปอู่ซ่อมรถเพื่อตรวจสภาพรถร่วมกับเจ้าของรถ,neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주와 함께 차를 점검하러 정비소에 갔다.,tgl_Latn,Nagpunta ako sa tahanan ng kotse kasama ang may-ari ng kotse upang suriin ang sasakyan.,neg,groq:qwen/qwen3.8-27b,True
+차주,1등급,nonfinancial,차주와 함께 차를 점검하러 정비소에 갔다.,mya_Mymr,နောက်တစ်ပတ်တွင် ကားစောင့်နှင့်အတူ ကားကို စစ်ဆေးရန် ကားပြင်ဆင်ရန်ဆိုင်သို့ သွားခဲ့သည်။,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,financial,우리 증권사는 이번에 진행되는 신주 발행을 전액 인수하기로 계약을 체결했다.,vie_Latn,Công ty chứng khoán của chúng tôi đã ký hợp đồng để bảo lãnh toàn bộ việc phát hành cổ phiếu mới lần này.,pos,groq,True
+인수,2등급,financial,우리 증권사는 이번에 진행되는 신주 발행을 전액 인수하기로 계약을 체결했다.,ind_Latn,Perusahaan sekuritas kami telah menandatangani kontrak untuk mengambil alih seluruh penerbitan saham baru yang sedang berlangsung.,pos,groq:qwen/qwen3.8-27b,True
+인수,2등급,financial,우리 증권사는 이번에 진행되는 신주 발행을 전액 인수하기로 계약을 체결했다.,mya_Mymr,ကျွန်ုပ်တို့၏ စာရင်းအင်းကုမ္ပဏီသည် ယခု လုပ်ဆောင်နေသော အသစ် ထုတ်လွှတ်မည့် အစုရှယ်ယာများကို အပြည့်အဝ ဝယ်ယူရန် သဘောတူညီချက် ချုပ်ဆိုခဲ့ပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+인수,2등급,financial,신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다.,vie_Latn,Việc mua lại trái phiếu của các doanh nghiệp có xếp hạng tín nhiệm cao đã giúp nâng cao tính ổn định của danh mục đầu tư.,pos,groq:qwen/qwen3.8-27b,True
+인수,2등급,financial,신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다.,ind_Latn,"Dengan menjamin penempatan obligasi perusahaan yang memiliki peringkat kredit tinggi, kami meningkatkan stabilitas portofolio investasi.",pos,groq,True
+인수,2등급,financial,신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다.,tha_Thai,โดยการรับจองพันธบัตรของบริษัทที่มีคะแนนเครดิตสูง เราได้เพิ่มความมั่นคงของพอร์ตการลงทุน,pos,groq:openai/gpt-oss-20b,True
+인수,2등급,financial,신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다.,tgl_Latn,Pinagpatibay ang katatagan ng portfolio ng pamumuhunan sa pamamagitan ng pag-underton ng mga bond ng mga kumpanyang may mataas na credit rating.,pos,groq:qwen/qwen3.8-27b,True
+인수,2등급,financial,신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다.,mya_Mymr,မြန်မာနိုင်ငံတွင် အမြင့်ဆုံး အရည်အသွေးရှိသော ကုမ္ပဏီများ၏ အစီအစဉ်များကို ဝယ်ယူခြင်းဖြင့် ရင်းနှီးမြှုပ်နှံမှု ပေါင်းစပ်မှု၏ တည်ငြိမ်မှုကို မြှင့်တင်ခဲ့သည်။,pos,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.,vie_Latn,"Sáng nay, tôi nhận bưu kiện và ngay lập tức đưa nó đến văn phòng.",neg,groq:openai/gpt-oss-20b,True
+인수,2등급,nonfinancial,오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.,ind_Latn,Pagi ini saya menerima paket kurir dan langsung membawanya ke kantor.,neg,groq,True
+인수,2등급,nonfinancial,오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.,tha_Thai,เมื่อเช้าฉันรับพัสดุแล้วนำไปที่สำนักงานทันที,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.,tgl_Latn,"Ngayong umaga, tinanggap ko ang pakete at agad na dinala ito sa opisina.",neg,groq:openai/gpt-oss-20b,True
+인수,2등급,nonfinancial,오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.,mya_Mymr,오늘 아침에 택배를 받아서 바로 사무실로 가져갔다.,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,퇴근 전에 업무 인수인계를 마쳐서 동료에게 인수를 완료했다.,vie_Latn,"Trước khi tan làm, tôi đã hoàn thành việc bàn giao công việc và đã hoàn tất việc nhận giao cho đồng nghiệp.",neg,groq,True
+인수,2등급,nonfinancial,퇴근 전에 업무 인수인계를 마쳐서 동료에게 인수를 완료했다.,ind_Latn,"Sebelum pulang kerja, saya telah menyelesaikan serah terima tugas dan menyerahkan pekerjaan tersebut kepada rekan kerja.",neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,퇴근 전에 업무 인수인계를 마쳐서 동료에게 인수를 완료했다.,mya_Mymr,퇴근하기 전에 업무 인수인계를 완료하여 동료에게 업무를 넘겨받았습니다.,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,새로 온 직원에게 프로젝트 파일을 인수해 주었다.,vie_Latn,Tôi đã chuyển giao tệp dự án cho nhân viên mới.,neg,groq:openai/gpt-oss-20b,True
+인수,2등급,nonfinancial,새로 온 직원에게 프로젝트 파일을 인수해 주었다.,ind_Latn,Saya menyerahkan file proyek kepada karyawan baru.,neg,groq,True
+인수,2등급,nonfinancial,새로 온 직원에게 프로젝트 파일을 인수해 주었다.,tha_Thai,ฉันได้ส่งมอบไฟล์โครงการให้กับพนักงานใหม่,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,새로 온 직원에게 프로젝트 파일을 인수해 주었다.,tgl_Latn,Binigay ko ang mga file ng proyekto sa bagong empleyado upang maipasa sa kanya.,neg,groq:qwen/qwen3.8-27b,True
+인수,2등급,nonfinancial,새로 온 직원에게 프로젝트 파일을 인수해 주었다.,mya_Mymr,သစ်သစ်လာသော ဝန်ထမ်းအား ပရိုဂျက် ဖိုင်ကို လက်ခံပေးလိုက်သည်။,neg,groq:openai/gpt-oss-20b,True

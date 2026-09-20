@@ -1,0 +1,4 @@
+최종 opus_ko_my.csv: 총 630678쌍
+  OpenSubtitles: 542417
+  TED2020: 57417
+  bible-uedin: 30844

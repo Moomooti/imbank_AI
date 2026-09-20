@@ -1,0 +1,32 @@
+﻿sentence_id,ko_source,target_sentence,terms_used,known_term,known_term_matched,category,related_category,identifier_survival_rate,identifier_order_preserved_rate,restore_success_rate,fallback_used,lost_terms,max_suspicion_score,flagged_terms
+KO-FIN-00272,계약의 적용 여부는 계약 내용과 관련 법령을 확인해야 합니다.,"Để xác định liệu Hợp đồng có được áp dụng hay không, cần phải kiểm tra nội dung của Hợp đồng và các văn bản pháp luật liên quan.",계약;계약,계약,True,법률·계약,,1.0,1.0,1.0,0,,30,계약;계약
+KO-FIN-00389,공사채등록법이 무엇인지 설명해 주세요.,Vui lòng giải thích Luật Đăng ký Trái phiếu Công ty là gì.,공사채등록법,공사채등록법,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-00483,국민주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Có điều gì cần kiểm tra trước khi đầu tư liên quan đến Báo Dân tộc không?,국민주,국민주,True,주식,,1.0,1.0,1.0,0,,0,
+KO-FIN-00618,근저당과 관련된 금리와 비용을 확인하고 싶습니다.,Tôi muốn kiểm tra lãi suất và các khoản phí liên quan đến Thế chấp bất động sản.,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,50,근저당
+KO-FIN-00619,근저당을 이용할 때 필요한 서류는 무엇인가요?,Các giấy tờ cần thiết khi sử dụng Thế chấp bất động sản là gì?,근저당,근저당,True,부동산금융,,1.0,1.0,1.0,0,,50,근저당
+KO-FIN-00673,금융감독위원회/금융감독원이 금융거래에 어떻게 적용되나요?,Ủy ban Giám sát Tài chính/Cơ quan Giám sát Tài chính được áp dụng như thế nào trong giao dịch tài chính này?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,1.0,1.0,1.0,0,,0,
+KO-FIN-00675,금융감독위원회/금융감독원 때문에 추가로 확인해야 할 사항이 있나요?,Có vấn đề nào cần kiểm tra thêm do Ủy ban Giám sát Tài chính/Cơ quan Giám sát Tài chính không?,금융감독위원회/금융감독원,금융감독위원회/금융감독원,True,금융법규·감독,,1.0,1.0,1.0,0,,0,
+KO-FIN-00738,금융통화운영위원회에서 이용할 수 있는 금융업무는 무엇인가요?,Các dịch vụ tài chính nào có sẵn tại Ủy ban Điều hành Tài chính và Tiền tệ?,금융통화운영위원회,금융통화운영위원회,True,금융기관·은행,,1.0,1.0,1.0,0,,0,
+KO-FIN-00978,당일결제거래와 관련된 시장 정보를 확인하고 싶습니다.,Tôi muốn xem thông tin thị trường liên quan đến Giao dịch thanh toán trong ngày.,당일결제거래,당일결제거래,True,금융시장·거래,지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-01278,무담보사채의 조건과 수익 구조를 확인하고 싶습니다.,Tôi muốn tìm hiểu về các điều kiện và cơ cấu lợi nhuận của Trái phiếu không có tài sản đảm bảo.,무담보사채,무담보사채,True,채권,,1.0,1.0,1.0,0,,40,무담보사채
+KO-FIN-01361,발기인이 무엇인지 설명해 주세요.,Vui lòng giải thích Người sáng lập là gì.,발기인,발기인,True,주식,,1.0,1.0,1.0,0,,40,발기인
+KO-FIN-01561,부실채권 정리기금이 무엇인지 설명해 주세요.,Vui lòng giải thích Quỹ xử lý nợ xấu là gì.,부실채권 정리기금,부실채권 정리기금,True,채권,,1.0,1.0,1.0,0,,0,
+KO-FIN-01819,상환과 관련된 투자 정보를 확인하고 싶습니다.,Tôi muốn xem thông tin đầu tư liên quan đến Hoàn trả.,상환,상환,True,자산운용·투자,,1.0,1.0,1.0,0,,30,상환
+KO-FIN-02105,신주인수권증권이 무엇인지 설명해 주세요.,Vui lòng giải thích Chứng khoán quyền mua cổ phiếu mới là gì.,신주인수권증권,신주인수권증권,True,증권·예탁,주식 / 기업금융·자본조달,1.0,1.0,1.0,0,,20,신주인수권증권
+KO-FIN-02199,쌍방연계방식과 관련된 내용을 확인하고 싶습니다.,Tôi muốn xem thông tin liên quan đến Phương thức liên kết hai chiều.,쌍방연계방식,쌍방연계방식,True,기타 금융일반,,1.0,1.0,1.0,0,,0,
+KO-FIN-02200,쌍방연계방식의 정확한 의미는 해당 금융거래의 맥락과 함께 확인해야 합니다.,Ý nghĩa chính xác của Phương thức liên kết hai chiều cần được xác định dựa trên bối cảnh của giao dịch tài chính đó.,쌍방연계방식,쌍방연계방식,True,기타 금융일반,,1.0,1.0,1.0,0,,0,
+KO-FIN-02254,역금리와 관련된 거래 조건을 확인하고 싶습니다.,Tôi muốn kiểm tra các điều kiện giao dịch liên quan đến Lãi suất âm.,역금리,역금리,True,국제금융,,1.0,1.0,1.0,0,,20,역금리
+KO-FIN-02295,연속결제 과정에서 문제가 발생한 것 같습니다.,Có vẻ như đã xảy ra sự cố trong quá trình Thanh toán định kỳ.,연속결제,연속결제,True,지급결제·청산,금융시장·거래,1.0,1.0,1.0,0,,40,연속결제
+KO-FIN-02458,원본위험이 금융거래에 어떤 영향을 주나요?,Rủi ro từ bản gốc có ảnh hưởng như thế nào đến giao dịch tài chính này?,원본위험,원본위험,True,신용·리스크,금융시장·거래 / 지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-02460,원본위험은 거래 조건이나 이용 가능 여부에 영향을 줄 수 있습니다.,Rủi ro từ bản gốc có thể ảnh hưởng đến các điều kiện giao dịch hoặc khả năng sử dụng.,원본위험,원본위험,True,신용·리스크,금융시장·거래 / 지급결제·청산,1.0,1.0,1.0,0,,0,
+KO-FIN-02765,일반담보물이 무엇인지 설명해 주세요.,Vui lòng giải thích Tài sản thế chấp thông thường là gì.,일반담보물,일반담보물,True,증권·예탁,,1.0,1.0,1.0,0,,40,일반담보물
+KO-FIN-03037,정시상환이 무엇인지 설명해 주세요.,Vui lòng giải thích Trả nợ đúng hạn là gì.,정시상환,정시상환,True,채권,,1.0,1.0,1.0,0,,40,정시상환
+KO-FIN-03178,주주와 관련된 정보를 확인하고 싶습니다.,Tôi muốn tra cứu thông tin liên quan đến Cổ đông.,주주,주주,True,주식,,1.0,1.0,1.0,0,,30,주주
+KO-FIN-03262,증권거래세와 관련된 시장 정보를 확인하고 싶습니다.,Tôi muốn xem thông tin thị trường liên quan đến Thuế giao dịch chứng khoán.,증권거래세,증권거래세,True,금융시장·거래,증권·예탁,1.0,1.0,1.0,0,,0,
+KO-FIN-03451,차감결제 과정에서 문제가 발생한 것 같습니다.,Có vẻ như đã xảy ra sự cố trong quá trình Thanh toán trừ trực tiếp.,차감결제,차감결제,True,지급결제·청산,금융시장·거래,1.0,1.0,1.0,0,,20,차감결제
+KO-FIN-03567,채무불이행위험을 줄이려면 어떤 점을 확인해야 하나요?,"Để giảm Rủi ro vỡ nợ, cần lưu ý những điểm nào?",채무불이행위험,채무불이행위험,True,신용·리스크,,1.0,1.0,1.0,0,,20,채무불이행위험
+KO-FIN-03568,채무불이행위험은 거래 조건이나 이용 가능 여부에 영향을 줄 수 있습니다.,Rủi ro vỡ nợ có thể ảnh hưởng đến các điều kiện giao dịch hoặc khả năng sử dụng.,채무불이행위험,채무불이행위험,True,신용·리스크,,1.0,1.0,1.0,0,,20,채무불이행위험
+KO-FIN-04026,할인발행을 이용하려면 어떤 조건이 필요한가요?,"Để sử dụng Phát hành giảm giá, cần phải đáp ứng những điều kiện nào?",할인발행,할인발행,True,기업금융·자본조달,채권,1.0,1.0,1.0,0,,0,
+KO-FIN-04027,할인발행과 관련된 비용과 절차를 확인하고 싶습니다.,Tôi muốn tìm hiểu về các chi phí và thủ tục liên quan đến Phát hành giảm giá.,할인발행,할인발행,True,기업금융·자본조달,채권,1.0,1.0,1.0,0,,0,
+KO-FIN-04098,현물출자와 관련된 정보를 확인하고 싶습니다.,Tôi muốn tra cứu thông tin liên quan đến Đóng góp bằng tài sản hiện vật.,현물출자,현물출자,True,주식,,1.0,1.0,1.0,0,,40,현물출자
+KO-FIN-04131,혼합주와 관련해 투자 전에 확인해야 할 사항이 있나요?,Có điều gì cần kiểm tra trước khi đầu tư liên quan đến Rượu pha trộn không?,혼합주,혼합주,True,주식,,1.0,1.0,1.0,0,,0,

@@ -1,0 +1,351 @@
+﻿term,grade,sense,ko_sentence,lang,translation,label,provider,labse_filter_pass
+가쇄,1등급,financial,주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.,vie_Latn,"Trước khi phát hành chứng khoán, công việc gạ sủa trên giấy chứng khoán tiêu chuẩn thống nhất đã được hoàn thành, chỉ còn lại thủ tục đóng dấu cuối cùng của Korea Securities Depository.",pos,groq,True
+가쇄,1등급,financial,주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.,ind_Latn,"Menjelang penerbitan saham, pekerjaan pencetakan pada kertas sekuritas standar telah selesai, sehingga hanya prosedur cap akhir Korea Securities Depository yang tersisa.",pos,groq,True
+가쇄,1등급,financial,주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.,tha_Thai,ก่อนการออกหุ้นกู้ การทำการพิมพ์บนกระดาษหลักทรัพย์มาตรฐานที่กำหนดได้เสร็จสิ้นแล้ว เหลือเพียงขั้นตอนการประทับตราครั้งสุดท้ายของสำนักงานฝากและชำระหลักทรัพย์เกาหลีเท่านั้น.,pos,groq,True
+가쇄,1등급,financial,주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.,tgl_Latn,"Sa paglapit ng pag-isyu ng mga sovereign, natapos na ang pag-imprenta ng mga detalye sa standardized na papel ng securities, at natitira na lamang ang huling proseso ng pagpirma ng Korea Securities Depository.",pos,groq,True
+가쇄,1등급,financial,주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.,mya_Mymr,အစုရှယ်ယာလက်မှတ် ထုတ်ပေးမည့်အခါ၊ အထွေထွေ စံချိန် စာရွက်ပေါ်တွင် အချက်အလက်များကို ပုံနှိပ်ခြင်း အလုပ် ပြီးစီးပြီး၊ ကိုရီးယား စာရင်းသွင်းဦး၏ နောက်ဆုံး လက်မှတ်ထိုးခြင်း လုပ်ငန်းသာ ကျန်ရှိနေပါသည်။,pos,groq,True
+가쇄,1등급,financial,이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다.,vie_Latn,"Trong quá trình phát hành trái phiếu công ty lần này, đã phát hiện lỗi trong các mục ghi ở giai đoạn in sơ khởi, nên quyết định nhận lại giấy in mẫu.",pos,groq,True
+가쇄,1등급,financial,이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다.,ind_Latn,"Dalam proses penerbitan obligasi perusahaan kali ini, ditemukan kesalahan pada data yang dicetak pada tahap gashwe, sehingga diputuskan untuk mengambil kembali kertas cetak kontur.",pos,groq,True
+가쇄,1등급,financial,이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다.,tha_Thai,ในกระบวนการออกหุ้นกู้ของบริษัทครั้งนี้ พบข้อผิดพลาดในข้อมูลของขั้นตอนการพิมพ์ (가쇄) จึงตัดสินใจรับกระดาษพิมพ์โครงร่างใหม่.,pos,groq,True
+가쇄,1등급,financial,이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다.,tgl_Latn,"Sa prosesong ito ng pag‑isyu ng corporate bond, natuklasan ang pagkakamali sa mga detalye sa yugto ng gashwe, kaya napagpasyahan naming muling kunin ang papel na may outline printing.",pos,groq,True
+가쇄,1등급,financial,이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다.,mya_Mymr,ဤကုမ္ပဏီအကြွေးထုတ်လုပ်မှုလုပ်ငန်းစဉ်တွင် 가쇄 အဆင့်တွင် အချက်အလက်မှားယွင်းမှုတစ်ခုတွေ့ရှိခဲ့ပြီး၊ အကြမ်းဖျဉ်းပုံနှင့် ပုံနှိပ်စာရွက်ကို ထပ်မံလက်ခံရန် ဆုံးဖြတ်ခဲ့သည်။,pos,groq,True
+가쇄,1등급,nonfinancial,가쇄에 묶인 듯한 일상에 지쳐 버렸다.,vie_Latn,Tôi đã kiệt sức vì cuộc sống thường ngày như bị trói buộc trong xiềng xích.,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄에 묶인 듯한 일상에 지쳐 버렸다.,ind_Latn,Aku lelah dengan rutinitas yang terasa terikat oleh belenggu.,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄에 묶인 듯한 일상에 지쳐 버렸다.,tha_Thai,ฉันเหนื่อยล้ากับชีวิตประจำวันที่เหมือนถูกมัดไว้ในโซ่,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄에 묶인 듯한 일상에 지쳐 버렸다.,tgl_Latn,Napagod na ako sa pang-araw-araw na tila nakagapos sa tanikala.,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄에 묶인 듯한 일상에 지쳐 버렸다.,mya_Mymr,အကျွံတံဖြင့် ပိတ်ထားသလို ခံစားရသော နေ့စဉ်ဘဝကြောင့် စိတ်ပင်ပန်းသွားပြီ။,neg,groq,True
+가쇄,1등급,nonfinancial,그는 가쇄를 끊고 새로운 길을 찾아 나섰다.,vie_Latn,Anh ấy đã đứt xiềng xích và lên đường tìm một con đường mới.,neg,groq,True
+가쇄,1등급,nonfinancial,그는 가쇄를 끊고 새로운 길을 찾아 나섰다.,ind_Latn,Dia memutus belenggu dan memulai mencari jalan baru.,neg,groq,True
+가쇄,1등급,nonfinancial,그는 가쇄를 끊고 새로운 길을 찾아 나섰다.,tha_Thai,เขาตัดโซ่และออกเดินทางเพื่อค้นหาเส้นทางใหม่,neg,groq,True
+가쇄,1등급,nonfinancial,그는 가쇄를 끊고 새로운 길을 찾아 나섰다.,tgl_Latn,Pinutol niya ang mga tanikala at naghanap ng bagong landas.,neg,groq,True
+가쇄,1등급,nonfinancial,그는 가쇄를 끊고 새로운 길을 찾아 나섰다.,mya_Mymr,သူသည် အကွပ်အတည်းကို ဖြတ်တောက်ပြီး အသစ်သော လမ်းကို ရှာဖွေထွက်သွားခဲ့သည်။,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다.,vie_Latn,"Nếu thoát khỏi những áp bức giống như xiềng xích, bạn sẽ có thể nếm trải tự do thực sự.",neg,groq,True
+가쇄,1등급,nonfinancial,가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다.,ind_Latn,"Jika Anda melepaskan diri dari penindasan seperti belenggu, Anda dapat merasakan kebebasan sejati.",neg,groq,True
+가쇄,1등급,nonfinancial,가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다.,tha_Thai,หากหลุดพ้นจากการกดขี่เช่นโซ่ตรวน คุณจะได้สัมผัสอิสรภาพที่แท้จริง,neg,groq,True
+가쇄,1등급,nonfinancial,가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다.,tgl_Latn,"Kung makaalis ka sa mga paghihigpit na katulad ng tanikala, mararanasan mo ang tunay na kalayaan.",neg,groq,True
+가쇄,1등급,nonfinancial,가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다.,mya_Mymr,အကျဉ်းချုပ်ကဲ့သို့သော အဖိအားမှ လွတ်မြောက်နိုင်လျှင် တကယ့် လွတ်လပ်မှုကို ခံစားနိုင်မည်။,neg,groq,True
+공모,1등급,financial,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,vie_Latn,Các điều kiện chi tiết và thủ tục của phát hành công có thể khác nhau tùy theo loại giao dịch.,pos,groq,True
+공모,1등급,financial,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,ind_Latn,Ketentuan dan prosedur detail penawaran umum dapat berbeda tergantung pada jenis transaksi.,pos,groq,True
+공모,1등급,financial,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,tha_Thai,เงื่อนไขและขั้นตอนโดยละเอียดของการเสนอขายต่อสาธารณะอาจแตกต่างกันตามประเภทของการทำธุรกรรม,pos,groq,True
+공모,1등급,financial,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,tgl_Latn,Ang mga detalyadong kondisyon at proseso ng pampublikong alok ay maaaring mag-iba depende sa uri ng transaksyon.,pos,groq,True
+공모,1등급,financial,공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,mya_Mymr,အရောင်းအဝယ် အမျိုးအစားအပေါ် မူတည်၍ အများပြည်သူထုတ်ဝေ၏ အသေးစိတ် အခြေအနေများနှင့် လုပ်ထုံးလုပ်နည်းများသည် ကွဲပြားနိုင်သည်။,pos,groq,True
+공모,1등급,financial,신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.,vie_Latn,Quy trình phát hành công chúng cho việc phát hành cổ phiếu mới phải được sàn giao dịch chứng khoán thẩm định.,pos,groq,True
+공모,1등급,financial,신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.,ind_Latn,Prosedur penawaran umum untuk penerbitan saham baru harus melalui pemeriksaan oleh bursa efek.,pos,groq,True
+공모,1등급,financial,신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.,tha_Thai,ขั้นตอนการเสนอขายต่อสาธารณะเพื่อการออกหุ้นใหม่ต้องผ่านการตรวจสอบของตลาดหลักทรัพย์.,pos,groq,True
+공모,1등급,financial,신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.,tgl_Latn,Ang proseso ng pampublikong alok para sa pag-isyu ng bagong mga stock ay kailangang sumailalim sa pagsusuri ng stock exchange.,pos,groq,True
+공모,1등급,financial,신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.,mya_Mymr,အသစ်ထုတ်လုပ်သော အစုရှယ်ယာများအတွက် အများထုတ်ဝေ လုပ်ငန်းစဉ်သည် စတော့အိတ်ဈေးကွက်၏ စစ်ဆေးမှုကို ဖြတ်သန်းရမည်။,pos,groq,True
+공모,1등급,financial,공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다.,vie_Latn,Số tiền huy động được thông qua phát hành công chúng sẽ được sử dụng cho các khoản đầu tư tăng trưởng của doanh nghiệp và trả nợ.,pos,groq,True
+공모,1등급,financial,공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다.,ind_Latn,Dana yang diperoleh melalui penawaran umum akan digunakan untuk investasi pertumbuhan perusahaan dan pelunasan utang.,pos,groq,True
+공모,1등급,financial,공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다.,tha_Thai,เงินที่ระดมผ่านการเสนอขายต่อสาธารณะจะถูกนำไปใช้ในการลงทุนเพื่อการเติบโตของบริษัทและการชำระหนี้,pos,groq,True
+공모,1등급,financial,공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다.,tgl_Latn,Ang pondo na nakalikom sa pamamagitan ng public offering ay gagamitin para sa pamumuhunan sa paglago ng kumpanya at pagbabayad ng utang.,pos,groq,True
+공모,1등급,financial,공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다.,mya_Mymr,အများပြည်သူထုတ်ဝေမှတဆင့် စုဆောင်းထားသော ငွေကြေးကို ကုမ္ပဏီ၏ တိုးတက်မှုရင်းနှီးမြှုပ်နှံမှုနှင့် အကြွေးပြန်လည်ပေးဆောင်မှုအတွက် အသုံးပြုသည်။,pos,groq,True
+공모,1등급,nonfinancial,경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.,vie_Latn,Kết quả điều tra của cảnh sát cho thấy hai người đã âm mưu thực hiện hành vi lừa đảo.,neg,groq,True
+공모,1등급,nonfinancial,경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.,ind_Latn,"Berdasarkan hasil penyelidikan polisi, terungkap bahwa kedua orang tersebut telah bersekongkol untuk melakukan penipuan.",neg,groq,True
+공모,1등급,nonfinancial,경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.,tha_Thai,การสอบสวนของตำรวจพบว่าทั้งสองคนได้ร่วมสมรู้ร่วมคิดการฉ้อโกงล่วงหน้า.,neg,groq,True
+공모,1등급,nonfinancial,경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.,tgl_Latn,"Ayon sa imbestigasyon ng pulis, natuklasan na nagkasundo ang dalawang tao na isagawa ang pandaraya.",neg,groq,True
+공모,1등급,nonfinancial,경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.,mya_Mymr,ရဲတပ်ဖွဲ့ စုံစမ်းစစ်ဆေးမှုအရ လူနှစ်ဦးသည် လိမ်လည်မှုကို ကြိုတင် အတူတကွ စီစဉ်ခဲ့ကြောင်း ထွက်ပေါ်ခဲ့သည်။,neg,groq,True
+공모,1등급,nonfinancial,친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다.,vie_Latn,Tôi đã biết muộn rằng những người bạn của tôi đã âm mưu lừa dối tôi.,neg,groq,True
+공모,1등급,nonfinancial,친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다.,ind_Latn,Saya baru menyadari bahwa teman-teman saya bersekongkol satu sama lain untuk menipu saya.,neg,groq,True
+공모,1등급,nonfinancial,친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다.,tha_Thai,ฉันได้ทราบช้า ๆ ว่าเพื่อน ๆ ของฉันได้ร่วมสมรู้ร่วมคิดกันเพื่อหลอกลวงฉัน,neg,groq,True
+공모,1등급,nonfinancial,친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다.,tgl_Latn,Nalaman ko nang huli na nagkasabwatan ang mga kaibigan ko upang lokohin ako.,neg,groq,True
+공모,1등급,nonfinancial,친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다.,mya_Mymr,ငါ့ကို လိမ်လည်ရန် မိတ်ဆွေတွေ အတူတကွ လက်တွဲစီစဉ်ခဲ့ကြောင်းကို နောက်ကျပြီး သိခဲ့တယ်။,neg,groq,True
+공채,1등급,financial,공채의 조건과 수익 구조를 확인하고 싶습니다.,vie_Latn,Tôi muốn xác nhận các điều kiện và cấu trúc lợi nhuận của trái phiếu công.,pos,groq,True
+공채,1등급,financial,공채의 조건과 수익 구조를 확인하고 싶습니다.,ind_Latn,Saya ingin memeriksa syarat dan struktur pendapatan obligasi pemerintah.,pos,groq,True
+공채,1등급,financial,공채의 조건과 수익 구조를 확인하고 싶습니다.,tha_Thai,ฉันต้องการตรวจสอบเงื่อนไขและโครงสร้างผลตอบแทนของพันธบัตรสาธารณะ,pos,groq,True
+공채,1등급,financial,공채의 조건과 수익 구조를 확인하고 싶습니다.,tgl_Latn,Gusto kong suriin ang mga kondisyon at estruktura ng kita ng pampublikong bono.,pos,groq,True
+공채,1등급,financial,공채의 조건과 수익 구조를 확인하고 싶습니다.,mya_Mymr,အများပြည်သူအကြွေးစာရင်း၏ အခြေအနေများနှင့် အကျိုးအမြတ် ဖွဲ့စည်းပုံကို စစ်ဆေးလိုပါသည်။,pos,groq,True
+공채,1등급,financial,금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.,vie_Latn,"Khi biến động lãi suất mở rộng, vốn đang đổ vào các trái phiếu công, vốn dễ bảo đảm nguyên gốc và ổn định.",pos,groq,True
+공채,1등급,financial,금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.,ind_Latn,"Seiring dengan meningkatnya volatilitas suku bunga, dana mengalir ke obligasi pemerintah yang mudah menjamin pokok dan stabil.",pos,groq,True
+공채,1등급,financial,금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.,tha_Thai,เมื่อความผันผวนของอัตราดอกเบี้ยเพิ่มขึ้น เงินทุนกำลังไหลเข้าพันธบัตรของรัฐที่ค้ำประกันเงินต้นได้ง่ายและมีความมั่นคง,pos,groq,True
+공채,1등급,financial,금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.,tgl_Latn,"Habang lumalawak ang volatility ng mga interest rate, dumadaloy ang pondo patungo sa mga government bond na madaling garantiyahan ang prinsipal at matatag.",pos,groq,True
+공채,1등급,financial,금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.,mya_Mymr,အတိုးနှုန်းအလှန်အပြောင်းအလဲများ တိုးလာသဖြင့် မူလငွေ အာမခံရလွယ်ကူပြီး တည်ငြိမ်သော အများပြည်သူအကြွေးကဒ်များသို့ ငွေကြွလာနေသည်။,pos,groq,True
+공채,1등급,financial,지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다.,vie_Latn,Đơn vị tự trị địa phương đã quyết định phát hành trái phiếu công để đáp ứng nguồn tài chính cần thiết cho dự án xây dựng hạ tầng quy mô lớn.,pos,groq,True
+공채,1등급,financial,지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다.,ind_Latn,Pemerintah daerah memutuskan untuk menerbitkan obligasi pemerintah daerah guna menutupi dana yang diperlukan untuk proyek pembangunan infrastruktur berskala besar.,pos,groq,True
+공채,1등급,financial,지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다.,tha_Thai,หน่วยปกครองท้องถิ่นได้ตัดสินใจออกพันธบัตรสาธารณะเพื่อจัดหาแหล่งเงินที่จำเป็นสำหรับโครงการก่อสร้างโครงสร้างพื้นฐานขนาดใหญ่,pos,groq,True
+공채,1등급,financial,지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다.,tgl_Latn,Ang lokal na pamahalaan ay nagpasya na mag-isyu ng pampublikong bono upang tustusan ang kinakailangang pondo para sa malakihang proyekto ng imprastruktura.,pos,groq,True
+공채,1등급,financial,지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다.,mya_Mymr,ဒေသဆိုင်ရာ အုပ်ချုပ်ရေးအဖွဲ့သည် ကြီးမားသော အခြေခံအဆောက်အအုံ ဆောက်လုပ်ရေးလုပ်ငန်းအတွက် လိုအပ်သော ငွေကြေးကို ဖြည့်ဆည်းရန် အများပြည်သူအကြွေးစာချုပ်ထုတ်ရန် ဆုံးဖြတ်ခဲ့သည်။,pos,groq,True
+공채,1등급,nonfinancial,형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.,vie_Latn,Anh trai tôi ngay sau khi tốt nghiệp đại học đã đậu tuyển dụng công khai của một đài truyền hình và hiện đang làm PD.,neg,groq,True
+공채,1등급,nonfinancial,형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.,ind_Latn,"Kakak saya langsung lulus dari universitas, lalu lolos seleksi terbuka di sebuah perusahaan penyiaran dan kini bekerja sebagai produser.",neg,groq,True
+공채,1등급,nonfinancial,형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.,tha_Thai,พี่ชายของฉันจบมหาวิทยาลัยแล้วทันทีที่ผ่านการรับสมัครเปิดของสถานีโทรทัศน์และทำงานเป็น PD,neg,groq,True
+공채,1등급,nonfinancial,형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.,tgl_Latn,Ang kuya ko ay nakapasa agad sa pampublikong pagkuha ng isang broadcasting company pagkakatapos niya ng kolehiyo at nagtatrabaho na bilang PD.,neg,groq,True
+공채,1등급,nonfinancial,형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.,mya_Mymr,အစ်ကိုက တက္ကသိုလ်ကို ဘွဲ့ရပြီး ချက်ချင်း တီဗီမီဒီယာ အဖွဲ့အစည်း၏ အများအပြင် အလုပ်ခေါ်ကို အောင်မြင်စွာ ဖြတ်သန်းပြီး PD အဖြစ် အလုပ်လုပ်နေသည်။,neg,groq,True
+공채,1등급,nonfinancial,요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다.,vie_Latn,"Ngày nay, xu hướng tuyển dụng không định kỳ, tuyển nhân tài khi cần, đang gia tăng so với tuyển dụng công khai định kỳ.",neg,groq,True
+공채,1등급,nonfinancial,요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다.,ind_Latn,"Akhir-akhir ini, tren peningkatan rekrutmen ad‑hoc yang dilakukan sesuai kebutuhan, dibandingkan dengan rekrutmen publik reguler, sedang meningkat.",neg,groq,True
+공채,1등급,nonfinancial,요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다.,tha_Thai,ในปัจจุบัน มีแนวโน้มว่าการสรรหาพนักงานตามความต้องการเพิ่มขึ้น มากกว่าการรับสมัครแบบเปิดประจำ.,neg,groq,True
+공채,1등급,nonfinancial,요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다.,tgl_Latn,"Sa ngayon, mas tumataas ang trend ng pagkuha ng mga talento kapag kinakailangan kaysa sa regular na bukas na pagre-recruit.",neg,groq,True
+공채,1등급,nonfinancial,요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다.,mya_Mymr,ယခုခေတ်တွင် ပုံမှန် အများသွင်းထက် လိုအပ်သလို လူ့အင်အားကို ရွေးချယ်သည့် အခါခါ အလုပ်ခန့်ထားခြင်း ပိုများလာနေသည်။,neg,groq,True
+기세,1등급,financial,"오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",vie_Latn,"Cho đến trước khi thị trường đóng cửa hôm nay, giá chào đã hình thành ở mức 5.200 won, và áp lực mua mạnh đã xuất hiện.",pos,groq,True
+기세,1등급,financial,"오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",ind_Latn,"Sebelum penutupan pasar hari ini, harga penawaran terbentuk pada 5.200 won, dan tekanan beli muncul dengan kuat.",pos,groq,True
+기세,1등급,financial,"오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",tha_Thai,"ก่อนปิดตลาดวันนี้ ราคาอ้างอิงอยู่ที่ 5,200 วอนและแรงซื้อปรากฏอย่างแข็งแรง",pos,groq,True
+기세,1등급,financial,"오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",tgl_Latn,"Sa pagtatapos ng kalakalan ngayong araw, ang presyong indikasyon ay umabot sa 5,200 won, at nagpakita ng matinding pagnanais ng pagbili.",pos,groq,True
+기세,1등급,financial,"오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",mya_Mymr,"ယနေ့ စတော့အင်ဒက်စ် အပြီးမတိုင်မီ အကွက်အတွင်း အကောင်းဆုံးဝယ်ဈေး(သို့မဟုတ် အကောင်းဆုံးရောင်းဈေး) ကို 5,200 ဝွန်းအဖြစ် ဖွဲ့စည်းပြီး ဝယ်ယူလိုအားကောင်းစွာ ပေါ်ထွက်ခဲ့သည်။",pos,groq,True
+기세,1등급,financial,전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다.,vie_Latn,"So với ngày trước, mức giá cơ sở đã tăng mạnh, khiến các mức chào bán bán của nhà đầu tư giảm mạnh.",pos,groq,True
+기세,1등급,financial,전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다.,ind_Latn,"Seiring dengan kenaikan signifikan harga penawaran dibandingkan hari sebelumnya, penawaran jual investor menurun tajam.",pos,groq,True
+기세,1등급,financial,전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다.,tha_Thai,เมื่อเทียบกับวันก่อน ราคาอ้างอิงเพิ่มขึ้นอย่างมาก ทำให้ราคาขายของนักลงทุนลดลงอย่างรวดเร็ว,pos,groq,True
+기세,1등급,financial,전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다.,tgl_Latn,"Kumpara sa nakaraang araw, tumaas nang malaki ang presyo ng alok, kaya bumaba nang husto ang mga alok na presyo ng pagbebenta ng mga mamumuhunan.",pos,groq,True
+기세,1등급,financial,전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다.,mya_Mymr,မနေ့နှင့်နှိုင်းယှဉ်ပါက အကောင်းဆုံးအဝယ်နှင့်အရောင်းအတိုး(기세) အလွန်တက်လာပြီး၊ ရင်းနှီးမြှုပ်နှံသူများ၏ အရောင်းအတောင်းအတိုးများ အလွန်လျော့ကျသွားခဲ့သည်။,pos,groq,True
+기세,1등급,nonfinancial,그는 승부욕에 불타는 기세로 마라톤을 완주했다.,vie_Latn,Anh ấy đã hoàn thành cuộc marathon với khí thế bốc cháy vì khát khao thắng lợi.,neg,groq,True
+기세,1등급,nonfinancial,그는 승부욕에 불타는 기세로 마라톤을 완주했다.,ind_Latn,Dia menyelesaikan maraton dengan semangat kompetitif yang membara.,neg,groq,True
+기세,1등급,nonfinancial,그는 승부욕에 불타는 기세로 마라톤을 완주했다.,tha_Thai,เขาได้วิ่งมาราธอนจนสำเร็จด้วยจิตวิญญาณการแข่งขันที่ลุกโชน,neg,groq,True
+기세,1등급,nonfinancial,그는 승부욕에 불타는 기세로 마라톤을 완주했다.,tgl_Latn,Tinapos niya ang marathon nang may naglalagablab na pagnanais na manalo at pusong puno ng sigla.,neg,groq,True
+기세,1등급,nonfinancial,그는 승부욕에 불타는 기세로 마라톤을 완주했다.,mya_Mymr,သူသည် အပြိုင်အဆိုင်အလို အားအင်ကြီးစွာဖြင့် မာရသွန်ကို ပြီးမြောက်ခဲ့သည်။,neg,groq,True
+기세,1등급,nonfinancial,"새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",vie_Latn,"Vào ngày mưa từ lúc bình minh, gió thổi mạnh và tràn đầy sức mạnh.",neg,groq,True
+기세,1등급,nonfinancial,"새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",ind_Latn,"Pada hari ketika hujan turun sejak fajar, angin berhembus kencang dengan kekuatan yang meluap.",neg,groq,True
+기세,1등급,nonfinancial,"새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",tha_Thai,ในวันที่ฝนตกตั้งแต่รุ่งเช้า ลมพัดแรงจนเต็มไปด้วยพลัง,neg,groq,True
+기세,1등급,nonfinancial,"새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",tgl_Latn,"Sa araw na umuulan mula pa sa madaling araw, malakas ang hangin at nagpakita ng labis na sigla.",neg,groq,True
+기세,1등급,nonfinancial,"새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",mya_Mymr,မနက်ခင်းကတည်းက မိုးရွာနေတဲ့နေ့မှာ လေက တောင့်တင်းစွာ ပန်ထွက်ပြီး အင်အားအပြည့်အဝ ဖြစ်သွားခဲ့တယ်။,neg,groq,True
+기세,1등급,nonfinancial,친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다.,vie_Latn,"Khi người bạn bắt đầu bài phát biểu, khán giả bị cuốn trong khí thế và vỗ tay.",neg,groq,True
+기세,1등급,nonfinancial,친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다.,ind_Latn,"Saat teman saya memulai pidato, penonton terbawa semangat dan bertepuk tangan.",neg,groq,True
+기세,1등급,nonfinancial,친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다.,tha_Thai,เมื่อเพื่อนเริ่มพูดสุนทรพจน์ ผู้ชมก็ถูกพลังของการพูดพัดพาให้ปรบมือ.,neg,groq,True
+기세,1등급,nonfinancial,친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다.,tgl_Latn,"Nang magsimula ang kaibigan sa talumpati, ang mga tagapakinig ay nabalot ng sigla at nagpalakpakan.",neg,groq,True
+기세,1등급,nonfinancial,친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다.,mya_Mymr,သူငယ်ချင်းက မိန့်ခွန်းကို စတင်ပြောလိုက်သလို၊ ပရိသတ်တွေက အင်အားအပြည့်နဲ့ လှုပ်ရှားပြီး လက်ခုပ်ထိုးခဲ့တယ်။,neg,groq,True
+단주,1등급,financial,단주와 관련된 시장 정보를 확인하고 싶습니다.,vie_Latn,Tôi muốn kiểm tra thông tin thị trường liên quan đến cổ phiếu lẻ.,pos,groq,True
+단주,1등급,financial,단주와 관련된 시장 정보를 확인하고 싶습니다.,ind_Latn,Saya ingin memeriksa informasi pasar terkait lot ganjil.,pos,groq,True
+단주,1등급,financial,단주와 관련된 시장 정보를 확인하고 싶습니다.,tha_Thai,ฉันต้องการตรวจสอบข้อมูลตลาดที่เกี่ยวกับหุ้นจำนวนเล็ก,pos,groq,True
+단주,1등급,financial,단주와 관련된 시장 정보를 확인하고 싶습니다.,tgl_Latn,Gusto kong tingnan ang impormasyon sa merkado na may kinalaman sa odd lot.,pos,groq,True
+단주,1등급,financial,단주와 관련된 시장 정보를 확인하고 싶습니다.,mya_Mymr,အနည်းငယ်အစု နှင့် ဆိုင်သော စျေးကွက် အချက်အလက်များကို စစ်ဆေးလိုပါသည်။,pos,groq,True
+단주,1등급,financial,단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.,vie_Latn,"Giao dịch cổ phiếu lẻ chỉ giới hạn trong thị trường OTC, do đó tính thanh khoản thường thấp.",pos,groq,True
+단주,1등급,financial,단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.,ind_Latn,"Perdagangan odd lot hanya terbatas pada pasar OTC, sehingga likuiditasnya cenderung rendah.",pos,groq,True
+단주,1등급,financial,단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.,tha_Thai,การซื้อขายหุ้นจำนวนเล็กจำกัดอยู่เฉพาะในตลาดนอกตลาดหลักทรัพย์ ทำให้สภาพคล่องค่อนข้างต่ำ,pos,groq,True
+단주,1등급,financial,단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.,tgl_Latn,"Ang kalakalan ng odd lot ay limitado lamang sa labas ng palitan, kaya mababa ang likwididad nito.",pos,groq,True
+단주,1등급,financial,단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.,mya_Mymr,အနည်းငယ်အရေအတွက် (odd‑lot) အရောင်းအဝယ်သည် အော့တီစီ စျေးကွက်တွင်သာ ကန့်သတ်ထားသောကြောင့် လည်ပတ်မှု နည်းပါးသော အနေအထားရှိသည်။,pos,groq,True
+단주,1등급,financial,투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다.,vie_Latn,"Nếu nhà đầu tư nắm giữ cổ phiếu lẻ, họ có thể gặp khó khăn trong việc bán cho đến khi đạt đủ tối thiểu 10 cổ phiếu, đơn vị giao dịch tối thiểu.",pos,groq,True
+단주,1등급,financial,투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다.,ind_Latn,"Jika seorang investor memiliki lot ganjil, ia mungkin sulit untuk menjualnya sampai mencapai unit perdagangan minimum, yaitu 10 saham.",pos,groq,True
+단주,1등급,financial,투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다.,tha_Thai,หากนักลงทุนถือหุ้นจำนวนไม่เต็มล็อต จะอาจขายได้ยากจนกว่าจะครบหน่วยการซื้อขายขั้นต่ำที่ 10 หุ้น,pos,groq,True
+단주,1등급,financial,투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다.,tgl_Latn,"Kung ang mamumuhunan ay may hawak na odd lot, maaaring mahirapan siyang magbenta hanggang sa makamit niya ang minimum na kalakhan ng kalakalan na 10 shares.",pos,groq,True
+단주,1등급,financial,투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다.,mya_Mymr,ရင်းနှီးမြှုပ်နှံသူသည် တစ်ခုတည်းသော အရေအတွက် ကို ကိုင်ထားလျှင် အနည်းဆုံး အဝယ်အရေအတွက်ဖြစ်သော ၁၀ ရှယ်ယာကို မပြည့်မီခင် အရောင်းပြုလုပ်ရခက်ခဲနိုင်သည်။,pos,groq,True
+단주,1등급,nonfinancial,요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.,vie_Latn,"Gần đây, tôi quyết tâm ngừng uống rượu và chỉ uống nước mỗi ngày.",neg,groq,True
+단주,1등급,nonfinancial,요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.,ind_Latn,Akhir-akhir ini saya memutuskan untuk berhenti minum alkohol dan hanya minum air setiap hari.,neg,groq,True
+단주,1등급,nonfinancial,요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.,tha_Thai,ช่วงนี้ฉันตั้งใจเลิกดื่มเหล้าและดื่มน้ำเท่านั้นทุกวัน,neg,groq,True
+단주,1등급,nonfinancial,요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.,tgl_Latn,"Kamakailan, nagpasya akong itigil ang pag-inom ng alak at araw-araw ay umiinom lamang ng tubig.",neg,groq,True
+단주,1등급,nonfinancial,요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.,mya_Mymr,ယခုအခါ အရက်မသောက်ရန် ဆုံးဖြတ်ပြီး နေ့စဉ် ရေတစ်ခွက်သာ သောက်နေပါတယ်။,neg,groq,True
+단주,1등급,nonfinancial,친구가 단주를 시작했다며 술자리 초대를 거절했다.,vie_Latn,Bạn tôi nói mình đã bắt đầu kiêng rượu và đã từ chối lời mời tới buổi uống rượu.,neg,groq,True
+단주,1등급,nonfinancial,친구가 단주를 시작했다며 술자리 초대를 거절했다.,ind_Latn,Teman saya menolak undangan minum karena mengatakan bahwa dia mulai berhenti minum.,neg,groq,True
+단주,1등급,nonfinancial,친구가 단주를 시작했다며 술자리 초대를 거절했다.,tha_Thai,เพื่อนบอกว่าเริ่มงดดื่มแล้วจึงปฏิเสธการเชิญไปดื่ม,neg,groq,True
+단주,1등급,nonfinancial,친구가 단주를 시작했다며 술자리 초대를 거절했다.,tgl_Latn,Tinanggihan ng kaibigan ko ang imbitasyon sa inuman dahil nagsimula na siyang mag‑quit ng alak.,neg,groq,True
+단주,1등급,nonfinancial,친구가 단주를 시작했다며 술자리 초대를 거절했다.,mya_Mymr,သူငယ်ချင်းက အရက်မသောက်ခြင်းကို စတင်လိုက်တယ်လို့ ပြောပြီး အရက်ပွဲဖိတ်ကြားမှုကို ငြင်းဆိုလိုက်တယ်။,neg,groq,True
+대권,1등급,financial,대권이 무엇인지 설명해 주세요.,vie_Latn,Xin giải thích “대권” là gì.,pos,groq,True
+대권,1등급,financial,대권이 무엇인지 설명해 주세요.,ind_Latn,Tolong jelaskan apa itu 대권.,pos,groq,True
+대권,1등급,financial,대권이 무엇인지 설명해 주세요.,tha_Thai,กรุณาอธิบายว่า “대권” คืออะไร,pos,groq,True
+대권,1등급,financial,대권이 무엇인지 설명해 주세요.,tgl_Latn,Pakiipaliwanag po kung ano ang 대권.,pos,groq,True
+대권,1등급,financial,대권이 무엇인지 설명해 주세요.,mya_Mymr,ကျေးဇူးပြု၍ 대권 ဆိုတာဘာလဲဆိုတာရှင်းပြပါ။,pos,groq,True
+대권,1등급,financial,대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.,vie_Latn,"Thông qua việc phát hành 대권, các nhà đầu tư quy mô lớn đã có thể chia sẻ cùng một quyền lợi ngay cả khi nắm giữ số lượng nhỏ.",pos,groq,True
+대권,1등급,financial,대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.,ind_Latn,"Dengan penerbitan 대권, investor skala besar dapat berbagi hak yang sama bahkan dengan investasi kecil.",pos,groq,True
+대권,1등급,financial,대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.,tha_Thai,ด้วยการออก 대권 นักลงทุนขนาดใหญ่สามารถแบ่งปันสิทธิเดียวกันได้แม้จะลงทุนเพียงจำนวนเงินเล็กน้อย.,pos,groq,True
+대권,1등급,financial,대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.,tgl_Latn,"Sa pamamagitan ng pag-isyu ng 대권, nagkaroon ng kakayahan ang mga malalaking mamumuhunan na kahit na maliit na halaga ay makabahagi ng parehong karapatan.",pos,groq,True
+대권,1등급,financial,대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.,mya_Mymr,ဒေခွန်းထုတ်发行မှတဆင့် အကြီးအကျယ် ရင်းနှီးမြှုပ်နှံသူများသည် အနည်းငယ်ပမာဏဖြင့်တောင် တူညီသော အခွင့်အရေးများကို မျှဝေနိုင်လာခဲ့သည်။,pos,groq,True
+대권,1등급,financial,우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다.,vie_Latn,Công ty chúng tôi đang xem xét phương án cung cấp thanh khoản bằng cách sử dụng 대권.,pos,groq,True
+대권,1등급,financial,우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다.,ind_Latn,Perusahaan kami sedang meninjau rencana penyediaan likuiditas yang memanfaatkan sekuritas kolektif.,pos,groq,True
+대권,1등급,financial,우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다.,tha_Thai,บริษัทของเรากำลังตรวจสอบแนวทางการจัดหาสภาพคล่องโดยใช้หลักทรัพย์รวม (대권),pos,groq,True
+대권,1등급,financial,우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다.,tgl_Latn,Ang aming kumpanya ay kasalukuyang nagsusuri ng isang plano para sa pagbibigay ng likwididad gamit ang mga collective securities.,pos,groq,True
+대권,1등급,financial,우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다.,mya_Mymr,ကျွန်ုပ်တို့ကုမ္ပဏီသည် မကြာသေးမီက အစုစုပေါင်းလက်မှတ်ကို အသုံးပြု၍ ငွေကြေး လွှမ်းမိုးမှု ပံ့ပိုးရေး အစီအစဉ်ကို စဉ်းစားနေသည်။,pos,groq,True
+대권,1등급,nonfinancial,그는 대권을 잡기 위해 전국을 누볐다.,vie_Latn,Anh ấy đã đi khắp cả nước để giành ngôi vị tổng thống.,neg,groq,True
+대권,1등급,nonfinancial,그는 대권을 잡기 위해 전국을 누볐다.,ind_Latn,Dia berkeliling seluruh negeri untuk merebut kursi kepresidenan.,neg,groq,True
+대권,1등급,nonfinancial,그는 대권을 잡기 위해 전국을 누볐다.,tha_Thai,เขาเดินทางทั่วประเทศเพื่อคว้าตำแหน่งประธานาธิบดี.,neg,groq,True
+대권,1등급,nonfinancial,그는 대권을 잡기 위해 전국을 누볐다.,tgl_Latn,Naglibot siya sa buong bansa upang makuha ang pinakamataas na kapangyarihang pang‑pangulo.,neg,groq,True
+대권,1등급,nonfinancial,그는 대권을 잡기 위해 전국을 누볐다.,mya_Mymr,သူသည် သမ္မတအရာကို ရယူရန် တစ်နိုင်ငံလုံးကို လှုပ်ရှားခဲ့သည်။,neg,groq,True
+대권,1등급,nonfinancial,대권 후보들의 토론이 내일 밤에 시작된다.,vie_Latn,Cuộc tranh luận của các ứng cử viên tranh cử tổng thống sẽ bắt đầu vào tối ngày mai.,neg,groq,True
+대권,1등급,nonfinancial,대권 후보들의 토론이 내일 밤에 시작된다.,ind_Latn,Debat para calon presiden akan dimulai besok malam.,neg,groq,True
+대권,1등급,nonfinancial,대권 후보들의 토론이 내일 밤에 시작된다.,tha_Thai,การโต้วาทีของผู้สมัครตำแหน่งประธานาธิบดีจะเริ่มในคืนพรุ่งนี้.,neg,groq,True
+대권,1등급,nonfinancial,대권 후보들의 토론이 내일 밤에 시작된다.,tgl_Latn,Magsisimula bukas ng gabi ang debate ng mga kandidato sa pagkapangulo.,neg,groq,True
+대권,1등급,nonfinancial,대권 후보들의 토론이 내일 밤에 시작된다.,mya_Mymr,သမ္မတလျှောက်ထားသူများ၏ ဆွေးနွေးပွဲသည် မနက်ဖြန် ညတွင် စတင်မည်။,neg,groq,True
+대권,1등급,nonfinancial,대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다.,vie_Latn,"Sau khi nắm giữ quyền lực tối cao, ông đã nhanh chóng triển khai các chính sách cải cách.",neg,groq,True
+대권,1등급,nonfinancial,대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다.,ind_Latn,"Setelah meraih kekuasaan tertinggi, dia segera melaksanakan kebijakan reformasi.",neg,groq,True
+대권,1등급,nonfinancial,대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다.,tha_Thai,หลังจากที่ได้ครองอำนาจสูงสุด เขาได้เร่งดำเนินนโยบายการปฏิรูป,neg,groq,True
+대권,1등급,nonfinancial,대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다.,tgl_Latn,"Pagkatapos niyang makuha ang pinakamataas na kapangyarihan, agad niyang isinusulong ang mga repormang patakaran.",neg,groq,True
+대권,1등급,nonfinancial,대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다.,mya_Mymr,အမြင့်ဆုံးအာဏာကိုရယူပြီးနောက်၊ သူသည်ပြုပြင်ပြောင်းလဲရေးမူဝါဒများကိုအလျင်အမြန်အကောင်အထည်ဖော်ခဲ့သည်။,neg,groq,True
+빅뱅,1등급,financial,"런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",vie_Latn,"Sau cuộc cải cách “Big Bang” của thị trường London, các công ty chứng khoán Anh đang vận hành đồng thời vai trò của broker và jobber, và đang tìm kiếm mô hình lợi nhuận mới.",pos,groq,True
+빅뱅,1등급,financial,"런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",ind_Latn,"Setelah Big Bang pasar London, perusahaan sekuritas asal Inggris sedang mencari model pendapatan baru dengan menjalankan broker dan jobber secara bersamaan.",pos,groq,True
+빅뱅,1등급,financial,"런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",tha_Thai,หลังจากบิ๊กแบงของตลาดลอนดอน บริษัทหลักทรัพย์ของอังกฤษได้ดำเนินการเป็นทั้งโบรกเกอร์และจ๊อบเบอร์พร้อมกันและกำลังมองหาโมเดลรายได้ใหม่.,pos,groq,True
+빅뱅,1등급,financial,"런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",tgl_Latn,"Pagkatapos ng Big Bang ng pamilihan ng London, ang mga kumpanyang pang-sekuridad na Briton ay nagpapatakbo ng parehong broker at jobber nang sabay at naghahanap ng bagong modelo ng kita.",pos,groq,True
+빅뱅,1등급,financial,"런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",mya_Mymr,လန်ဒန်စျေးကွက်၏ ဘစ်ဘန် ပြုပြင်မှုအပြီး၊ ဗြိတိသျှအခြေပြု စတော့အိတ်ချုပ်ကုမ္ပဏီများသည် ဘရိုကာနှင့် ဂျော့ဘာကို တစ်ပြိုင်နက် လည်ပတ်ကာ အခွင့်အလမ်းအသစ်များကို ရှာဖွေနေသည်။,pos,groq,True
+빅뱅,1등급,financial,"최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다.",vie_Latn,"Gần đây, các nhà đầu tư trong nước cũng đang kỳ vọng vào hiệu quả tự do hoá phí giao dịch do đợt Big Bang tài chính mang lại, và đang tích cực tăng cường giao dịch cổ phiếu nước ngoài.",pos,groq,True
+빅뱅,1등급,financial,"최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다.",ind_Latn,"Baru-baru ini, investor domestik juga mengharapkan efek liberalisasi komisi akibat Big Bang, dan secara aktif meningkatkan perdagangan saham luar negeri.",pos,groq,True
+빅뱅,1등급,financial,"최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다.",tha_Thai,เมื่อเร็ว ๆ นี้ นักลงทุนในประเทศก็เริ่มคาดหวังผลของการเปิดเสรีค่าธรรมเนียมที่เกิดจากบิ๊กแบง และเพิ่มการซื้อขายหุ้นต่างประเทศอย่างต่อเนื่อง,pos,groq,True
+빅뱅,1등급,financial,"최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다.",tgl_Latn,"Kamakailan, pati ang mga lokal na mamumuhunan ay umaasa sa epekto ng liberalisasyon ng mga bayarin dulot ng Big Bang, at aktibong nagpapalawak ng kanilang kalakalan sa mga banyagang stock.",pos,groq,True
+빅뱅,1등급,financial,"최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다.",mya_Mymr,မကြာသေးမီက အိမ်တွင်း ရင်းနှီးမြှုပ်နှံသူများလည်း ဘစ်ဘန် ကြောင့် အခကြေးငွေ လွတ်လပ်ရေး အကျိုးအမြတ်ကို မျှော်လင့်ပြီး နိုင်ငံခြား စတော့ရှယ်ယာ အရောင်းဝယ်မှုကို တက်ကြွစွာ တိုးလာကြသည်။,pos,groq,True
+빅뱅,1등급,nonfinancial,우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.,vie_Latn,"Khi nghĩ đến khoảnh khắc vũ trụ sinh ra, ta lại cảm nhận sâu sắc rằng Big Bang là một sự kiện vô cùng vĩ đại.",neg,groq,True
+빅뱅,1등급,nonfinancial,우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.,ind_Latn,"Jika memikirkan momen kelahiran alam semesta, saya kembali menyadari betapa besar peristiwa Big Bang itu.",neg,groq,True
+빅뱅,1등급,nonfinancial,우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.,tha_Thai,เมื่อคิดถึงช่วงเวลาที่จักรวาลกำเนิดขึ้น ฉันรู้สึกอีกครั้งว่าบิ๊กแบงเป็นเหตุการณ์ที่ยิ่งใหญ่แค่ไหน,neg,groq,True
+빅뱅,1등급,nonfinancial,우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.,tgl_Latn,"Kapag iniisip mo ang sandali ng pagsilang ng uniberso, muling nararamdaman kung gaano kalaki ang pangyayaring Big Bang.",neg,groq,True
+빅뱅,1등급,nonfinancial,우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.,mya_Mymr,အာကာသက မွေးဖွားခဲ့တဲ့ အခါကို စဉ်းစားရင် ဘစ်ဘန့်က ဘယ်လောက် ကြီးမားတဲ့ ဖြစ်ရပ်တစ်ခုလဲဆိုတာ ထပ်မံ ခံစားရတယ်။,neg,groq,True
+빅뱅,1등급,nonfinancial,다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.,vie_Latn,"Trong bộ phim tài liệu, họ đã giải thích chi tiết cách các ngôi sao và thiên hà hình thành sau Vụ nổ lớn.",neg,groq,True
+빅뱅,1등급,nonfinancial,다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.,ind_Latn,"Dalam dokumenter, dijelaskan secara detail bagaimana bintang dan galaksi terbentuk setelah Big Bang.",neg,groq,True
+빅뱅,1등급,nonfinancial,다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.,tha_Thai,ในสารคดีอธิบายอย่างละเอียดว่า หลังจากบิ๊กแบง ดาวและกาแล็กซี่ก่อตัวอย่างไร,neg,groq,True
+빅뱅,1등급,nonfinancial,다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.,tgl_Latn,"Sa dokumentaryo, detalyadong ipinaliwanag kung paano nabuo ang mga bituin at galaksiya pagkatapos ng Big Bang.",neg,groq,True
+빅뱅,1등급,nonfinancial,다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.,mya_Mymr,အထူးသတင်းရုပ်ရှင်တွင် ဗစ်ဘန်အပြီး ကြယ်များနှင့် ဂလက်ဆီများ ဘယ်လို ဖွဲ့စည်းသွားသလဲဆိုတာ အသေးစိတ်ရှင်းပြနေခဲ့သည်။,neg,groq,True
+빅뱅,1등급,nonfinancial,그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다.,vie_Latn,Anh ấy nhìn lên bầu trời đêm và tưởng tượng về lịch sử vũ trụ từ khi Vụ nổ lớn xảy ra cho đến hiện tại.,neg,groq,True
+빅뱅,1등급,nonfinancial,그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다.,ind_Latn,Dia melihat langit malam dan membayangkan sejarah alam semesta sejak terjadinya Big Bang hingga kini.,neg,groq,True
+빅뱅,1등급,nonfinancial,그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다.,tha_Thai,เขามองดูท้องฟ้ายามค่ำคืนและจินตนาการถึงประวัติศาสตร์ของจักรวาลที่ต่อเนื่องมาจนถึงปัจจุบันตั้งแต่บิ๊กแบงเกิดขึ้น,neg,groq,True
+빅뱅,1등급,nonfinancial,그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다.,tgl_Latn,"Habang tinitingnan niya ang kalangitan sa gabi, inisip niya ang kasaysayan ng sansinukob mula nang naganap ang Big Bang hanggang sa kasalukuyan.",neg,groq,True
+빅뱅,1등급,nonfinancial,그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다.,mya_Mymr,သူသည် ညမိုးကောင်းကင်ကို ကြည့်ပြီး ဘစ်ဘန့် ဖြစ်ပွားပြီးနောက် ယခုအထိ ဆက်လက်ဖြစ်ပွားနေသော အာကာသ၏ သမိုင်းကို စိတ်ကူးထုတ်ခဲ့သည်။,neg,groq,True
+상장,1등급,financial,상장이 무엇을 의미하나요?,vie_Latn,Niêm yết có nghĩa là gì?,pos,groq,True
+상장,1등급,financial,상장이 무엇을 의미하나요?,ind_Latn,Apa yang dimaksud dengan pencatatan di bursa saham?,pos,groq,True
+상장,1등급,financial,상장이 무엇을 의미하나요?,tha_Thai,การจดทะเบียนในตลาดหลักทรัพย์หมายถึงอะไร?,pos,groq,True
+상장,1등급,financial,상장이 무엇을 의미하나요?,tgl_Latn,Ano ang ibig sabihin ng paglista?,pos,groq,True
+상장,1등급,financial,상장이 무엇을 의미하나요?,mya_Mymr,စာရင်းဝင်ခြင်းသည် ဘာကို အဓိပ္ပာယ်ရသလဲ?,pos,groq,True
+상장,1등급,financial,삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.,vie_Latn,"Samsung Electronics đang tiến hành thúc đẩy việc niêm yết cổ phiếu, bao gồm cả các lĩnh vực kinh doanh mới, đến cuối năm 2025.",pos,groq,True
+상장,1등급,financial,삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.,ind_Latn,Samsung Electronics sedang mendorong pencatatan saham yang mencakup unit bisnis baru hingga akhir tahun 2025.,pos,groq,True
+상장,1등급,financial,삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.,tha_Thai,ซัมซุงอิเล็กทรอนิกส์กำลังผลักดันการจดทะเบียนหุ้นในตลาดหลักทรัพย์รวมถึงส่วนธุรกิจใหม่จนถึงปลายปี 2025.,pos,groq,True
+상장,1등급,financial,삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.,tgl_Latn,"Ang Samsung Electronics ay nagsusulong ng paglista ng mga stock, kabilang ang bagong business division, hanggang sa katapusan ng 2025.",pos,groq,True
+상장,1등급,financial,삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.,mya_Mymr,Samsung Electronics သည် ၂၀၂၅ ခုနှစ် အဆုံးအထိ အဆင့်အသစ်လုပ်ငန်းဌာနများပါဝင်သော စတော့ရှယ်ယာများကို စတော့အိတ်တွင် စာရင်းသွင်းရန် အစီအစဉ်တင်နေသည်။,pos,groq,True
+상장,1등급,financial,코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다.,vie_Latn,"Các doanh nghiệp niêm yết trên thị trường KOSDAQ phải thực hiện nghĩa vụ công bố thông tin định kỳ, do đó dễ dàng giành được sự tin tưởng của nhà đầu tư.",pos,groq,True
+상장,1등급,financial,코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다.,ind_Latn,"Perusahaan yang terdaftar di pasar KOSDAQ harus melaksanakan kewajiban pengungkapan informasi secara berkala, sehingga mudah memperoleh kepercayaan investor.",pos,groq,True
+상장,1등급,financial,코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다.,tha_Thai,บริษัทที่จดทะเบียนในตลาดโคสดักต้องปฏิบัติตามหน้าที่การเปิดเผยข้อมูลเป็นประจำ ทำให้ได้รับความเชื่อมั่นจากนักลงทุนได้ง่ายขึ้น.,pos,groq,True
+상장,1등급,financial,코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다.,tgl_Latn,"Ang mga kumpanyang nakalista sa pamilihang KOSDAQ ay kailangang tuparin ang regular na obligasyon sa pagbubukas ng impormasyon, kaya madaling makakuha ng tiwala ng mga mamumuhunan.",pos,groq,True
+상장,1등급,financial,코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다.,mya_Mymr,KOSDAQ စျေးကွက်တွင် စာရင်းသွင်းထားသော ကုမ္ပဏီများသည် ပုံမှန် အချက်အလက် ထုတ်ဖော်ရန် တာဝန်ကို အကောင်အထည်ဖော်ရသောကြောင့် ရင်းနှီးမြှုပ်နှံသူများ၏ ယုံကြည်မှုကို ရယူရန် လွယ်ကူသည်။,pos,groq,True
+상장,1등급,nonfinancial,우수 사원으로 선정된 그는 회사에서 상장을 받았다.,vie_Latn,"Anh ấy, người được chọn là nhân viên xuất sắc, đã nhận được giấy khen từ công ty.",neg,groq,True
+상장,1등급,nonfinancial,우수 사원으로 선정된 그는 회사에서 상장을 받았다.,ind_Latn,Dia yang terpilih sebagai karyawan unggulan menerima piagam penghargaan dari perusahaan.,neg,groq,True
+상장,1등급,nonfinancial,우수 사원으로 선정된 그는 회사에서 상장을 받았다.,tha_Thai,เขาได้รับใบประกาศนียบัตรจากบริษัทหลังจากได้รับการคัดเลือกเป็นพนักงานดีเด่น,neg,groq,True
+상장,1등급,nonfinancial,우수 사원으로 선정된 그는 회사에서 상장을 받았다.,tgl_Latn,"Siya, na napili bilang natatanging empleyado, ay tumanggap ng sertipiko mula sa kumpanya.",neg,groq,True
+상장,1등급,nonfinancial,우수 사원으로 선정된 그는 회사에서 상장을 받았다.,mya_Mymr,ထူးချွန်သော ဝန်ထမ်းအဖြစ် ရွေးချယ်ခံရသူသည် ကုမ္ပဏီထံမှ ဆုစာတမ်းကို လက်ခံခဲ့သည်။,neg,groq,True
+상장,1등급,nonfinancial,대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.,vie_Latn,"Đội của chúng tôi, người đã giành vị trí thứ nhất trong cuộc thi, đã được trao một bằng khen vàng.",neg,groq,True
+상장,1등급,nonfinancial,대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.,ind_Latn,Tim kami yang menempati peringkat pertama dalam kompetisi diberikan sertifikat berwarna emas.,neg,groq,True
+상장,1등급,nonfinancial,대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.,tha_Thai,ทีมของเราที่ได้อันดับหนึ่งในการแข่งขันได้รับใบประกาศรางวัลสีทอง,neg,groq,True
+상장,1등급,nonfinancial,대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.,tgl_Latn,Ang aming koponan na nakuha ang unang pwesto sa kompetisyon ay binigyan ng gintong sertipiko.,neg,groq,True
+상장,1등급,nonfinancial,대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.,mya_Mymr,ပြိုင်ပွဲတွင် ပထမဆုရခဲ့သော ကျွန်ုပ်တို့အဖွဲ့ကို ရွှေတောက်သော ဆုလက်မှတ် တစ်စောင် ပေးအပ်ခဲ့သည်။,neg,groq,True
+상장,1등급,nonfinancial,학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다.,vie_Latn,Hội sinh viên đã quyết định trao bằng khen cho những sinh viên có thành tích học tập cao.,neg,groq,True
+상장,1등급,nonfinancial,학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다.,ind_Latn,Organisasi Mahasiswa memutuskan untuk memberikan sertifikat penghargaan kepada mahasiswa dengan prestasi akademik tinggi.,neg,groq,True
+상장,1등급,nonfinancial,학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다.,tha_Thai,สภานักเรียนได้ตัดสินใจมอบใบประกาศนียบัตรให้กับนักเรียนที่มีผลการเรียนสูง.,neg,groq,True
+상장,1등급,nonfinancial,학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다.,tgl_Latn,Nagpasya ang student council na magbigay ng sertipiko sa mga mag-aaral na may mataas na akademikong tagumpay.,neg,groq,True
+상장,1등급,nonfinancial,학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다.,mya_Mymr,ကျောင်းသားကောင်စီက ပညာရေးအောင်မြင်မှုအထူးမြင့်သော ကျောင်းသားများကို ဆုစာတမ်းပေးရန် ဆုံးဖြတ်ခဲ့သည်။,neg,groq,True
+신탁,1등급,financial,신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,vie_Latn,"Trước khi tham gia tín thác, cần kiểm tra những điểm nào?",pos,groq,True
+신탁,1등급,financial,신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,ind_Latn,"Sebelum bergabung dengan trust, hal‑hal apa yang perlu diperiksa?",pos,groq,True
+신탁,1등급,financial,신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,tha_Thai,ก่อนที่จะเข้าร่วมทรัสต์ ควรตรวจสอบอะไรบ้าง?,pos,groq,True
+신탁,1등급,financial,신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,tgl_Latn,Ano ang mga dapat mong suriin bago ka sumali sa isang trust?,pos,groq,True
+신탁,1등급,financial,신탁에 가입하기 전에 어떤 점을 확인해야 하나요?,mya_Mymr,အထောက်အထားတွင် ဝင်ရောက်မီ ဘာအချက်တွေကို စစ်ဆေးသင့်သလဲ?,pos,groq,True
+신탁,1등급,financial,신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.,vie_Latn,"Sau khi ký hợp đồng ủy thác, tài sản được ủy thác sẽ được tách ra thành tài sản ủy thác và người quản lý ủy thác sẽ quản lý và vận hành chúng.",pos,groq,True
+신탁,1등급,financial,신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.,ind_Latn,"Setelah perjanjian trust dibuat, aset yang dititipkan dipisahkan menjadi aset trust dan dikelola serta dioperasikan oleh trustee.",pos,groq,True
+신탁,1등급,financial,신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.,tha_Thai,เมื่อทำสัญญาทรัสต์แล้ว สินทรัพย์ที่มอบหมายจะถูกแยกออกเป็นสินทรัพย์ของทรัสต์และผู้รับมอบจะเป็นผู้ดูแลและดำเนินการจัดการ.,pos,groq,True
+신탁,1등급,financial,신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.,tgl_Latn,"Pagkatapos pumasok sa kontrata ng trust, ang ipinagkatiwalaang ari‑arian ay magiging hiwalay na ari‑arian ng trust at pamamahalaan at patatakbuhin ng tagapamahala.",pos,groq,True
+신탁,1등급,financial,신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.,mya_Mymr,အကြွေးအမြတ်စာချုပ်ကို ချုပ်ဆိုပြီးနောက် အပ်နှံထားသော ပိုင်ဆိုင်မှုသည် အကြွေးအမြတ်ပိုင်ဆိုင်မှုအဖြစ် ခွဲထုတ်ပြီး အထောက်အထားသူက စီမံနှင့် လည်ပတ်မည်။,pos,groq,True
+신탁,1등급,financial,"우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다.",vie_Latn,"Công ty chúng tôi đã thành lập một đơn vị tín thác riêng để quản lý quỹ hưu trí của nhân viên, và người hưởng lợi được chỉ định là những người nhận hưu trí tương ứng.",pos,groq,True
+신탁,1등급,financial,"우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다.",ind_Latn,"Perusahaan kami mendirikan trust terpisah untuk mengelola dana pensiun karyawan, dan penerima manfaat ditetapkan sebagai penerima pensiun tersebut.",pos,groq,True
+신탁,1등급,financial,"우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다.",tha_Thai,บริษัทของเราได้จัดตั้งทรัสต์แยกเพื่อการบริหารกองทุนบำเหน็จเกษียณของพนักงาน และกำหนดให้ผู้รับผลประโยชน์เป็นผู้รับบำนาญที่เกี่ยวข้อง.,pos,groq,True
+신탁,1등급,financial,"우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다.",tgl_Latn,"Itinatag ng aming kumpanya ang isang hiwalay na trust para sa pamamahala ng pensyon ng mga empleyado, at itinalaga naming mga benepisyaryo ang mga tumatanggap ng nasabing pensyon.",pos,groq,True
+신탁,1등급,financial,"우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다.",mya_Mymr,ကျွန်ုပ်တို့ကုမ္ပဏီသည် ဝန်ထမ်းများ၏ အနားယူငွေ စီမံခန့်ခွဲမှုအတွက် သီးသန့် အထောက်အထားတစ်ခုကို တည်ထောင်ပြီး၊ အကျိုးခံစားသူများကို ထိုငွေကို လက်ခံရသူများအဖြစ် သတ်မှတ်ခဲ့သည်။,pos,groq,True
+주권,1등급,financial,주권이 무엇인지 설명해 주세요.,vie_Latn,Xin vui lòng giải thích chứng khoán cổ phiếu là gì.,pos,groq,True
+주권,1등급,financial,주권이 무엇인지 설명해 주세요.,ind_Latn,Jelaskan apa itu “주권” (sertifikat saham).,pos,groq:openai/gpt-oss-120b,True
+주권,1등급,financial,주권이 무엇인지 설명해 주세요.,tha_Thai,กรุณาอธิบายว่าใบหุ้นคืออะไร,pos,groq,True
+주권,1등급,financial,주권이 무엇인지 설명해 주세요.,tgl_Latn,"Pakialam ko kung ano ang ""stock certificate"" (o ""share certificate"") sa konteksto ng terminolohiyang pampinansyal.",pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,주권이 무엇인지 설명해 주세요.,mya_Mymr,အစုရှယ်ယာလက်မှတ်ကဘာလဲဆိုတာရှင်းပြပါ။,pos,groq:openai/gpt-oss-20b,True
+주권,1등급,financial,"주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",vie_Latn,"Sau khi ký hợp đồng mua bán cổ phiếu, nhà đầu tư chỉ có thể chuyển nhượng cổ phiếu khi đã nhận được chứng chỉ cổ phần.",pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,"주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",ind_Latn,"Setelah menandatangani perjanjian jual beli saham, investor harus segera menerima sertifikat saham agar dapat mengalihkan saham tersebut.",pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,"주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",tha_Thai,หลังจากลงนามในสัญญาซื้อขายหุ้นแล้ว นักลงทุนต้องได้รับใบหุ้นทันทีเพื่อจะสามารถโอนหุ้นได้,pos,groq:openai/gpt-oss-20b,True
+주권,1등급,financial,"주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",tgl_Latn,"Pagkatapos pirmahan ang kontrata ng pagbili at pagbebenta ng mga stock, dapat agad matanggap ng mamumuhunan ang sertipiko ng pag-aari ng stock upang mailipat ang mga ito.",pos,groq,True
+주권,1등급,financial,"주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",mya_Mymr,"주식 매매 계약서에 서명한 후, 투자자는 즉시 주식 증서를 발급받아야만 주식을 양도할 수 있습니다.",pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,"회사는 신주 납입기일이 도래하면 지체 없이 주권을 발행해야 하며, 이를 위반한 주권은 무효로 처리된다.",vie_Latn,"Công ty phải phát hành chứng khoán ngay khi đến hạn thanh toán cổ phiếu mới, và các chứng khoán vi phạm điều này sẽ bị coi là vô hiệu.",pos,groq:openai/gpt-oss-20b,True
+주권,1등급,financial,"회사는 신주 납입기일이 도래하면 지체 없이 주권을 발행해야 하며, 이를 위반한 주권은 무효로 처리된다.",ind_Latn,"Perusahaan wajib menerbitkan saham tanpa penundaan setelah jatuh tempo pembayaran saham baru, dan saham yang diterbitkan dengan melanggar ketentuan ini dinyatakan tidak sah.",pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,"회사는 신주 납입기일이 도래하면 지체 없이 주권을 발행해야 하며, 이를 위반한 주권은 무효로 처리된다.",tha_Thai,บริษัทต้องออกใบหุ้นโดยทันทีเมื่อครบกำหนดวันชำระค่าหุ้นใหม่ หากฝ่าฝืน ใบหุ้นที่ออกโดยขัดต่อข้อกำหนดดังกล่าวจะถือเป็นโมฆะ,pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,financial,"회사는 신주 납입기일이 도래하면 지체 없이 주권을 발행해야 하며, 이를 위반한 주권은 무효로 처리된다.",mya_Mymr,บริษัทต้องออกใบหุ้นทันทีเมื่อครบกำหนดวันชำระค่าหุ้นใหม่ หากฝ่าฝืน ใบหุ้นที่ออกนั้นจะถือว่าไม่มีผลบังคับ,pos,groq:qwen/qwen3.8-27b,True
+주권,1등급,nonfinancial,우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.,vie_Latn,Quốc gia chúng ta đang hợp tác với cộng đồng quốc tế để bảo vệ chủ quyền.,neg,groq,True
+주권,1등급,nonfinancial,우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.,ind_Latn,Negara kami bekerja sama dengan komunitas internasional untuk melindungi kedaulatan.,neg,groq,True
+주권,1등급,nonfinancial,우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.,tha_Thai,ประเทศของเราได้ร่วมมือกับประชาคมระหว่างประเทศเพื่อปกป้องอำนาจอธิปไตย,neg,groq:qwen/qwen3.8-27b,True
+주권,1등급,nonfinancial,우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.,tgl_Latn,Nagtataguyod ang aming bansa ng soberanya sa pamamagitan ng pakikipagtulungan sa internasyonal na komunidad.,neg,groq:qwen/qwen3.8-27b,True
+주권,1등급,nonfinancial,우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.,mya_Mymr,ကျွန်ုပ်တို့နိုင်ငံသည် အုပ်ချုပ်ခွင့်ကို ကာကွယ်ရန် အပြည်ပြည်ဆိုင်ရာ လူ့အဖွဲ့အစည်းများနှင့် ပူးပေါင်းလုပ်ဆောင်နေသည်။,neg,groq,True
+주권,1등급,nonfinancial,주권 국가로서의 책임을 다하는 것이 국민의 의무다.,vie_Latn,Việc thực hiện đầy đủ trách nhiệm của một quốc gia có chủ quyền là nghĩa vụ của công dân.,neg,groq:qwen/qwen3.8-27b,True
+주권,1등급,nonfinancial,주권 국가로서의 책임을 다하는 것이 국민의 의무다.,ind_Latn,Melaksanakan tanggung jawab sebagai negara berdaulat adalah kewajiban rakyat.,neg,groq,True
+주권,1등급,nonfinancial,주권 국가로서의 책임을 다하는 것이 국민의 의무다.,tha_Thai,การปฏิบัติตามความรับผิดชอบในฐานะประเทศอธิปไตยเป็นหน้าที่ของประชาชน,neg,gemini,True
+주권,1등급,nonfinancial,주권 국가로서의 책임을 다하는 것이 국민의 의무다.,tgl_Latn,Ang pagtupad sa mga responsibilidad bilang isang soberanong bansa ay tungkulin ng mamamayan.,neg,groq,True
+주권,1등급,nonfinancial,주권 국가로서의 책임을 다하는 것이 국민의 의무다.,mya_Mymr,အချုပ်အခြာအာဏာပိုင် နိုင်ငံတစ်နိုင်ငံအဖြစ် တာဝန်များကို ကျေပွန်စွာ ထမ်းဆောင်ခြင်းသည် နိုင်ငံသားများ၏ ဝတ္တရားဖြစ်သည်။,neg,gemini,True
+주권,1등급,nonfinancial,외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다.,vie_Latn,"Khi sự can thiệp của nước ngoài đe dọa chủ quyền, chúng ta phải đoàn kết.",neg,groq,True
+주권,1등급,nonfinancial,외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다.,ind_Latn,"Ketika campur tangan asing mengancam kedaulatan, kita harus bersatu.",neg,groq,True
+주권,1등급,nonfinancial,외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다.,tha_Thai,เมื่อการแทรกแซงของต่างประเทศคุกคามอธิปไตย เราต้องรวมพลังกัน,neg,groq,True
+주권,1등급,nonfinancial,외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다.,tgl_Latn,"Kapag ang pakikialam ng ibang bansa ay nagbabanta sa soberanya, kailangan nating magkaisa.",neg,groq,True
+주권,1등급,nonfinancial,외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다.,mya_Mymr,နိုင်ငံခြား အထူးအထောက်အကူက အုပ်ချုပ်ခွင့်ကို အန္တရာယ်ဖြစ်စေသောအခါ၊ ကျွန်ုပ်တို့သည် ညီညွတ်ရမည်။,neg,groq,True
+콜,1등급,financial,우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.,vie_Latn,Ngân hàng của chúng tôi đã sử dụng các khoản vay qua đêm để nhanh chóng bù đắp tình trạng thiếu hụt thanh khoản tạm thời.,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.,ind_Latn,Bank kami menggunakan pinjaman call berjangka satu hari untuk dengan cepat menutupi kekurangan likuiditas sementara.,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.,tha_Thai,ธนาคารของเราได้ใช้สินเชื่อระยะสั้นแบบเรียกคืนได้ทันที เพื่อชดเชยภาวะขาดสภาพคล่องชั่วคราวอย่างรวดเร็ว,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.,tgl_Latn,Ginamit ng aming bangko ang isang-ahon na call loan upang mabilis na pagkatiwalaan ang pansamantalang kakulangan sa likididad.,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.,mya_Mymr,ကျွန်ုပ်တို့ဘဏ်သည် တစ်ရက်သက်တမ်းရှိသော ကော့လွန် ကို အသုံးပြု၍ ယာယီအရင်းအမြစ်မလုံလောက်မှုကို မြန်ဆန်စွာဖြည့်တင်းခဲ့ပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다.,vie_Latn,Công ty đã sử dụng tiền gọi dưới hình thức vay ngắn hạn để huy động vốn thanh toán cuối năm.,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다.,ind_Latn,Perusahaan menggunakan call money sebagai pinjaman jangka pendek untuk mendanai pembayaran akhir tahun.,pos,groq,True
+콜,1등급,financial,기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다.,tha_Thai,บริษัทได้ใช้เงินกู้ยืมระยะสั้นประเภทเงินกู้เรียกคืน เพื่อระดมทุนสำหรับการชำระเงิน ณ สิ้นปี,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다.,tgl_Latn,Gumamit ang kumpanya ng call money bilang maikling terminong pagpapautang upang maipon ang pondo para sa mga pagbabayad sa dulo ng taon.,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,financial,기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다.,mya_Mymr,ကုမ္ပဏီသည် နှစ်ဆုံး တွေ့ဆုံချေပငွေများအတွက် အတိုချုပ် ငွေကြေးရရှိရန် ကော့လွန် ကို အတိုချုပ် ငွေချေးယူမှုအဖြစ် အသုံးပြုခဲ့သည်။,pos,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,"그 아이디어 괜찮아, 콜!",ind_Latn,"Ide itu bagus, setuju!",neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,"그 아이디어 괜찮아, 콜!",tha_Thai,ไอเดียนี้โอเคเลย โทร!,neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,"그 아이디어 괜찮아, 콜!",tgl_Latn,"Ayos ang ideyang iyan, tawagin natin!",neg,groq,True
+콜,1등급,nonfinancial,"그 아이디어 괜찮아, 콜!",mya_Mymr,"그 아이디어 괜찮아, 콜!",neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,회의가 끝나면 바로 콜 주세요.,vie_Latn,"Khi cuộc họp kết thúc, hãy gọi điện ngay.",neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,회의가 끝나면 바로 콜 주세요.,ind_Latn,Segera hubungi saya setelah rapat selesai.,neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,회의가 끝나면 바로 콜 주세요.,tha_Thai,เมื่อประชุมเสร็จแล้ว โทรหาฉันทันที,neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,회의가 끝나면 바로 콜 주세요.,tgl_Latn,"Pagkatapos ng meeting, mag-call ka agad.",neg,groq:qwen/qwen3.8-27b,True
+콜,1등급,nonfinancial,회의가 끝나면 바로 콜 주세요.,mya_Mymr,အစည်းအဝေးပြီးသွားတဲ့အခါ ချက်ချင်း ဖုန်းခေါ်ပေးပါ။,neg,groq,True
+매출,2등급,financial,우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.,vie_Latn,"Công ty chúng tôi đã thực hiện 120 giao dịch bán trái phiếu doanh nghiệp trong quý này, thu hút sự quan tâm cao của các nhà đầu tư.",pos,groq,True
+매출,2등급,financial,우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.,ind_Latn,"Perusahaan kami telah melakukan penawaran umum 120 obligasi pada kuartal ini, yang menarik minat tinggi dari para investor.",pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.,tha_Thai,บริษัทของเราได้ดำเนินการออกพันธบัตรจำนวน 120 รายการในไตรมาสนี้ ซึ่งได้รับความสนใจอย่างมากจากผู้ลงทุน,pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.,tgl_Latn,"Ang aming kumpanya ay nagsagawa ng 120 na transaksyon sa pagbebenta ng mga korporasyunal na obligasyon ngayong quarter, na nag-akit ng mataas na interes mula sa mga mamumuhunan.",pos,groq:openai/gpt-oss-20b,True
+매출,2등급,financial,우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.,mya_Mymr,ကျွန်ုပ်တို့၏ ကုမ္ပဏီသည် ဤလစဉ်တွင် အချိုးအစား ၁၂၀ ခုကို ရောင်းချပြီး ရင်းနှီးမြှုပ်နှံသူများ၏ မြင့်မားသော စိတ်ဝင်စားမှုကို ဆွဲဆောင်ခဲ့ပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,vie_Latn,"Ủy ban Giám sát Tài chính gần đây đã siết chặt các thủ tục chào mời đăng ký mua đối với các chứng khoán do các pháp nhân nước ngoài phát hành, thuộc phạm vi các chứng khoán có thể chào bán ra công chúng.",pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,ind_Latn,Komisi Pengawas Keuangan baru-baru ini memperkuat prosedur mengajak pemesanan sekuritas yang diterbitkan oleh perusahaan asing yang termasuk dalam target penjualan.,pos,groq,True
+매출,2등급,financial,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,tha_Thai,คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ได้เพิ่มความเข้มงวดในขั้นตอนการเสนอขายหลักทรัพย์ที่ออกโดยนิติบุคคลต่างประเทศ ซึ่งเข้าข่ายหลักทรัพย์ที่ออกขายต่อประชาชน,pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,tgl_Latn,Pinagpatibay ng Komisyon sa Pagpapatupad ng mga Batas sa Pagpapalitan ng Salapi ang mga proseso ng pag-aalok ng pagbabayad para sa mga sekuridad na isinagawa ng mga dayuhang korporasyon na kasama sa saklaw ng mga sekuridad na binibigyan ng halaga.,pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,financial,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,mya_Mymr,금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.,pos,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.,vie_Latn,Cà phê của chúng tôi đã có doanh số bán hàng tăng vọt so với dự kiến trong tuần này.,neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.,ind_Latn,Kafe kami mengalami peningkatan penjualan yang jauh melampaui perkiraan minggu ini.,neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.,tha_Thai,ร้านกาแฟของเรามียอดขายเพิ่มขึ้นอย่างมากในสัปดาห์นี้ มากกว่าที่คาดไว้,neg,groq,True
+매출,2등급,nonfinancial,우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.,tgl_Latn,Ang aming kapehan ay tumaas nang malaki ang benta ngayong linggo kaysa sa inaasahan.,neg,groq:openai/gpt-oss-20b,True
+매출,2등급,nonfinancial,우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.,mya_Mymr,ကျွန်ုပ်တို့၏ ကော်ဖီဆိုင်သည် ဤအပတ်တွင် ရှင်းလင်းထားသော ခန့်မှန်းချက်ထက် အရောင်းဝင်ငွေသည် အလွန်ကြီးမားစွာ တိုးတက်ခဲ့ပါသည်။,neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.,vie_Latn,"Sau khi ra mắt thực đơn mới, doanh thu bán hàng đã tăng ổn định.",neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.,ind_Latn,"Sejak peluncuran menu baru, penjualan terus meningkat secara konsisten.",neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.,tha_Thai,หลังจากนำเมนูใหม่มาใช้ ยอดขายเพิ่มขึ้นอย่างต่อเนื่อง,neg,groq,True
+매출,2등급,nonfinancial,새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.,tgl_Latn,"Matapos ipatupad ang bagong menu, patuloy na tumataas ang benta.",neg,groq:openai/gpt-oss-20b,True
+매출,2등급,nonfinancial,새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.,mya_Mymr,새로운 메뉴를 도입한 이후 매출이 꾸준히 증가하고 있습니다.,neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요.,vie_Latn,"Do doanh số của cửa hàng trực tuyến tăng vọt, chúng tôi cần đặt thêm hàng tồn kho.",neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요.,ind_Latn,Penjualan toko online meningkat tajam sehingga kami harus memesan stok tambahan.,neg,groq,True
+매출,2등급,nonfinancial,온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요.,tha_Thai,ยอดขายของร้านค้าออนไลน์เพิ่มขึ้นอย่างรวดเร็ว ทำให้ต้องสั่งเพิ่มสต็อกสินค้า,neg,groq:openai/gpt-oss-20b,True
+매출,2등급,nonfinancial,온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요.,tgl_Latn,"Tumataas nang mabilis ang kita ng online store, kaya kailangan na nating mag-order ng karagdagang inventory.",neg,groq:qwen/qwen3.8-27b,True
+매출,2등급,nonfinancial,온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요.,mya_Mymr,အွန်လိုင်းဆိုင်၏ရောင်းချမှုများသည်လွန်စွာတိုးမြင့်လာသဖြင့် ပစ္စည်းများကိုထပ်မံအော်ဒါပေးရမည့်အခြေအနေဖြစ်နေပါသည်။,neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"딜러는 자체 재고를 활용해 고객에게 즉시 매수·매도 체결을 제공하므로, 시장 변동성에 따라 발생하는 리스크를 전적으로 감수한다.",vie_Latn,"Đại lý giao dịch sử dụng hàng tồn kho của mình để cung cấp cho khách hàng giao dịch mua bán ngay lập tức, do đó họ chịu hoàn toàn rủi ro phát sinh từ biến động thị trường.",pos,groq:openai/gpt-oss-20b,True
+딜러,2등급,financial,"딜러는 자체 재고를 활용해 고객에게 즉시 매수·매도 체결을 제공하므로, 시장 변동성에 따라 발생하는 리스크를 전적으로 감수한다.",ind_Latn,"Dealer menggunakan persediaan miliknya untuk memberikan eksekusi beli dan jual secara instan kepada nasabah, sehingga sepenuhnya menanggung risiko yang muncul akibat volatilitas pasar.",pos,groq,True
+딜러,2등급,financial,"딜러는 자체 재고를 활용해 고객에게 즉시 매수·매도 체결을 제공하므로, 시장 변동성에 따라 발생하는 리스크를 전적으로 감수한다.",tha_Thai,ดีลเลอร์ซึ่งทำหน้าที่เป็นตัวแทนซื้อขายหลักทรัพย์ในนามของตนเองและรับความเสี่ยงทั้งหมดจากการทำธุรกรรม จะใช้คลังสินค้า ของตนเองในการดำเนินการซื้อขายให้ลูกค้าทันที จึงต้องรับความเสี่ยงที่เกิดจากความผันผวนของตลาดไว้ทั้งหมด,pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"딜러는 자체 재고를 활용해 고객에게 즉시 매수·매도 체결을 제공하므로, 시장 변동성에 따라 발생하는 리스크를 전적으로 감수한다.",tgl_Latn,"Ang dealer, sa pamamagitan ng paggamit ng sariling inventory, nagbibigay ng agad na pagkakapagkasundo sa pagbili at pagbebenta sa mga kliyente, kaya't siya ang nagtatanggap ng buong risk na dulot ng pagbabago ng merkado.",pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다.",vie_Latn,"Nhà môi giới của công ty chứng khoán giám sát theo thời gian thực các biến động vị thế phát sinh trong ngày giao dịch và, khi cần thiết, điều chỉnh danh mục đầu tư để duy trì thanh khoản.",pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다.",ind_Latn,"Dealer di perusahaan sekuritas memantau perubahan posisi yang terjadi pada hari transaksi secara real-time, dan menyesuaikan inventarisnya saat diperlukan untuk menjaga likuiditas.",pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다.",tha_Thai,ดีลเลอร์ของบริษัทหลักทรัพย์จะติดตามการเปลี่ยนแปลงของตำแหน่ง ที่เกิดขึ้นในวันทำการแบบเรียลไทม์ และปรับพอร์ตสินค้าคงคลัง เมื่อจำเป็น เพื่อรักษาสภาพคล่องไว้,pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,financial,"증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다.",tgl_Latn,"Ang dealer ng kompanya ng securities ay real‑time na minomonitor ang pagbabago ng posisyon na nagaganap sa araw ng kalakalan, at kung kinakailangan ay inaayos ang imbentaryo upang mapanatili ang likwididad.",pos,groq,True
+딜러,2등급,financial,"증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다.",mya_Mymr,"증권사의 딜러(자기 명의와 계산으로 유가증권을 매매하여 이익을 추구하며, 거래의 당사자가 되어 자신의 계좌에서 거래를 수행하고 모든 리스크를 부담하며, 일정한 수준의 재고를 유지하고 필요 시 재고로부터 즉시 매매를 성립시키는 전문 중개인)는 거래 당일 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정하여 유동성을 유지한다.",pos,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,새 차를 사려면 딜러에게 직접 가 보는 게 좋다.,vie_Latn,"Nếu muốn mua xe mới, nên đi thăm đại lý trực tiếp.",neg,groq:openai/gpt-oss-20b,True
+딜러,2등급,nonfinancial,새 차를 사려면 딜러에게 직접 가 보는 게 좋다.,ind_Latn,"Jika ingin membeli mobil baru, sebaiknya pergi langsung ke dealer.",neg,groq:openai/gpt-oss-120b,True
+딜러,2등급,nonfinancial,새 차를 사려면 딜러에게 직접 가 보는 게 좋다.,tha_Thai,ถ้าต้องการซื้อรถใหม่ ควรไปที่ตัวแทนจำหน่ายโดยตรง,neg,groq,True
+딜러,2등급,nonfinancial,새 차를 사려면 딜러에게 직접 가 보는 게 좋다.,tgl_Latn,Mas maganda na pumunta sa dealer para bumili ng bagong kotse.,neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,새 차를 사려면 딜러에게 직접 가 보는 게 좋다.,mya_Mymr,새 차를 사려면 자동차 판매점에 직접 가보는 것이 좋습니다.,neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.,vie_Latn,Tôi đã kiểm tra tất cả các tùy chọn được đại lý đề xuất và lập hợp đồng.,neg,groq:openai/gpt-oss-20b,True
+딜러,2등급,nonfinancial,딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.,ind_Latn,Saya telah memeriksa semua opsi yang ditawarkan oleh dealer dan menyusun kontraknya.,neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.,tha_Thai,ได้ตรวจสอบตัวเลือกทั้งหมดที่ตัวแทนจำหน่ายเสนอและจัดทำสัญญา,neg,groq,True
+딜러,2등급,nonfinancial,딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.,tgl_Latn,Sinuri ko ang lahat ng mga opsyon na inilahad ng dealer at nagsulat ng kontrata.,neg,groq:openai/gpt-oss-20b,True
+딜러,2등급,nonfinancial,딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.,mya_Mymr,ကားရောင်းသူက ပေးထားတဲ့ ရွေးချယ်စရာတွေအားလုံးကို စစ်ဆေးပြီး စာချုပ်ကို ရေးဆွဲခဲ့သည်။,neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,주말에 딜러와 만나서 시승 후 가격 협상을 했다.,vie_Latn,"Tôi đã gặp đại lý vào cuối tuần, sau khi lái thử, đã thương lượng giá.",neg,groq:openai/gpt-oss-20b,True
+딜러,2등급,nonfinancial,주말에 딜러와 만나서 시승 후 가격 협상을 했다.,ind_Latn,"Pada akhir pekan, saya bertemu dealer, melakukan test drive, lalu bernegosiasi harga.",neg,groq:openai/gpt-oss-20b,True
+딜러,2등급,nonfinancial,주말에 딜러와 만나서 시승 후 가격 협상을 했다.,tha_Thai,ในวันหยุดสุดสัปดาห์ฉันได้พบกับดีลเลอร์และต่อรองราคา หลังจากทดลองขับ,neg,groq,True
+딜러,2등급,nonfinancial,주말에 딜러와 만나서 시승 후 가격 협상을 했다.,tgl_Latn,"Nakipag-usap ako sa dealer ng kotse noong weekend, sumubok ng pagmamaneho, at nag-negosyo ng presyo.",neg,groq:qwen/qwen3.8-27b,True
+딜러,2등급,nonfinancial,주말에 딜러와 만나서 시승 후 가격 협상을 했다.,mya_Mymr,주말에 자동차 딜러를 만나 시승한 후 가격을 협상했습니다.,neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,옵션이 무엇인지 쉽게 설명해 주세요.,vie_Latn,Bạn vui lòng giải thích một cách dễ hiểu về khái niệm “option” trong tài chính.,pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,옵션이 무엇인지 쉽게 설명해 주세요.,ind_Latn,Silakan jelaskan dengan mudah apa itu opsi.,pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,옵션이 무엇인지 쉽게 설명해 주세요.,tha_Thai,กรุณาอธิบายอย่างง่ายว่า '옵션' คืออะไร,pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,옵션이 무엇인지 쉽게 설명해 주세요.,tgl_Latn,Pakipaliwanag nang simple kung ano ang opsyon.,pos,groq,True
+옵션,2등급,financial,옵션이 무엇인지 쉽게 설명해 주세요.,mya_Mymr,"ဘဏ္ဍာရေးလောကတွင် အသုံးပြုသော ""အော့ပ်ရှင်"" ဆိုသည်မှာ မည်သည့်အရာကို ဆိုလိုသည်ကို ရှင်းလင်းစွာ ရှင်းပြပေးပါ။",pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,"투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",vie_Latn,"Người đầu tư đã mua quyền chọn mua để chuẩn bị cho sự tăng giá cổ phiếu, và đã trả phí quyền chọn để đảm bảo quyền mua cổ phiếu ở mức giá nhất định trong tương lai.",pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,"투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",ind_Latn,"Investor membeli opsi call untuk bersiap menghadapi kenaikan harga saham, dan dengan membayar premi, mereka memperoleh hak untuk membeli saham pada harga tertentu di masa depan.",pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,"투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",tha_Thai,นักลงทุนซื้อออปชันซื้อ เพื่อป้องกันความเสี่ยงจากการปรับตัวขึ้นของราคาหุ้น โดยจ่ายค่าพรีเมียมเพื่อสิทธิในการซื้อหุ้นในราคาที่กำหนดไว้ล่วงหน้า,pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,"투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",tgl_Latn,"Ang mamumuhunan ay bumili ng call option bilang paghahanda sa pagtaas ng presyo ng stock, at nagbayad ng premium upang makamit ang karapatan na bilhin ang shares sa isang takdang presyo sa hinaharap.",pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,"투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",mya_Mymr,ရင်းနှီးမြှုပ်နှံသူသည် အစုရှယ်ယာဈေးတက်လာမှုကို ကြိုတင်ကာကွယ်ရန် ကောလ် အော်ပရှင်းကို ဝယ်ယူပြီး၊ ပရီမီယမ်ကို ပေးဆောင်ကာ အနာဂတ်တွင် သတ်မှတ်ထားသော စျေးနှုန်းတွင် အစုရှယ်ယာကို ဝယ်ယူခွင့်ကို အတည်ပြုခဲ့သည်။,pos,groq,True
+옵션,2등급,financial,기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다.,vie_Latn,Công ty đã bán quyền chọn bán để phòng ngừa rủi ro biến động tỷ giá hối đoái và thu phí quyền chọn.,pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다.,ind_Latn,Perusahaan tersebut menjual opsi put untuk melakukan lindung nilai terhadap risiko fluktuasi nilai tukar dan menerima premi opsi.,pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,financial,기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다.,tha_Thai,บริษัทได้ขายออปชันแบบพุทเพื่อป้องกันความเสี่ยงจากการเปลี่ยนแปลงอัตราแลกเปลี่ยนและได้รับค่าพรีเมียมของออปชัน,pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다.,tgl_Latn,Ang kumpanya ay nagbenta ng put option upang ihedge ang panganib ng pagbabago ng exchange rate at tumanggap ng premium ng opsyon.,pos,groq:openai/gpt-oss-20b,True
+옵션,2등급,financial,기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다.,mya_Mymr,ကုမ္ပဏီသည် ဝန်ဆောင်မှုနှုန်း ပြောင်းလဲမှု အန္တရာယ်ကို ကာကွယ်ရန်အတွက် ပွတ်အော့ပရှင် ကို ရောင်းချပြီး အော့ပရှင် ပရီမီယံကို လက်ခံရရှိခဲ့သည်။,pos,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.,vie_Latn,"Khi mua xe mới, tôi đã thêm tùy chọn cửa sổ trượt và mái vòm panorama.",neg,groq,True
+옵션,2등급,nonfinancial,새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.,ind_Latn,"Saat membeli mobil baru, saya menambahkan opsi sunroof dan panoramic roof.",neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.,tha_Thai,เมื่อฉันซื้อรถใหม่ ฉันเพิ่มตัวเลือกซันรูฟและพาโนรามารูฟ,neg,groq:openai/gpt-oss-20b,True
+옵션,2등급,nonfinancial,새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.,tgl_Latn,"Nang bilhin ko ang bagong kotse, idinagdag ko ang mga opsyon ng sunroof at panoramic roof.",neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.,mya_Mymr,သစ်ကားဝယ်တဲ့အခါ၊ ဆန်းလူဖ်နှင့် ပန်နိုရာမာလူဖ်အော်ပရှင်းများကို ထပ်မံထည့်သွင်းခဲ့တယ်။,neg,groq:openai/gpt-oss-20b,True
+옵션,2등급,nonfinancial,스마트폰을 구매했는데 무선 충전 옵션이 기본에 포함돼 있더라.,vie_Latn,Tôi mua một chiếc smartphone và thấy tính năng sạc không dây đã được bao gồm trong cấu hình tiêu chuẩn.,neg,groq,True
+옵션,2등급,nonfinancial,스마트폰을 구매했는데 무선 충전 옵션이 기본에 포함돼 있더라.,ind_Latn,"Saya membeli smartphone, dan ternyata opsi pengisian nirkabel sudah termasuk dalam paket dasar.",neg,groq:openai/gpt-oss-120b,True
+옵션,2등급,nonfinancial,스마트폰을 구매했는데 무선 충전 옵션이 기본에 포함돼 있더라.,tha_Thai,ฉันซื้อสมาร์ทโฟนมา แล้วพบว่าตัวเลือกการชาร์จไร้สายไม่ได้รวมอยู่ในชุดมาตรฐาน,neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,스마트폰을 구매했는데 무선 충전 옵션이 기본에 포함돼 있더라.,tgl_Latn,Binili ko ang smartphone at lumabas na kasama na sa standard ang opsyon ng wireless charging.,neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,주방 리모델링을 하면서 조명 색상 변경 옵션을 선택했어요.,vie_Latn,"Khi đang cải tạo nhà bếp, tôi đã chọn tùy chọn thay đổi màu đèn chiếu sáng.",neg,groq,True
+옵션,2등급,nonfinancial,주방 리모델링을 하면서 조명 색상 변경 옵션을 선택했어요.,ind_Latn,"Saat merenovasi dapur, saya memilih opsi perubahan warna pencahayaan.",neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,주방 리모델링을 하면서 조명 색상 변경 옵션을 선택했어요.,tha_Thai,ฉันเลือกตัวเลือกการเปลี่ยนสีแสงสว่างขณะรีโนเวตกุ๊ก,neg,groq:qwen/qwen3.8-27b,True
+옵션,2등급,nonfinancial,주방 리모델링을 하면서 조명 색상 변경 옵션을 선택했어요.,tgl_Latn,"Habang nagre-remodel ng kusina, pinili ko ang opsyon na palitan ang kulay ng ilaw.",neg,groq:openai/gpt-oss-20b,True

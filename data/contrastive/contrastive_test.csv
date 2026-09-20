@@ -1,0 +1,79 @@
+﻿term,grade,sense,ko_sentence,lang,translation,label,provider,labse_filter_pass
+사모,1등급,financial,사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,vie_Latn,Các điều kiện chi tiết và quy trình của phát hành riêng có thể thay đổi tùy theo loại giao dịch.,pos,groq,True
+사모,1등급,financial,사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,ind_Latn,Ketentuan dan prosedur detail dari private placement dapat berbeda tergantung pada jenis transaksi.,pos,groq,True
+사모,1등급,financial,사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,tha_Thai,เงื่อนไขและขั้นตอนโดยละเอียดของการจัดจำหน่ายแบบส่วนตัวอาจแตกต่างกันตามประเภทของการทำธุรกรรม,pos,groq,True
+사모,1등급,financial,사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,tgl_Latn,Ang mga detalyadong kondisyon at proseso ng private placement ay maaaring mag-iba depende sa uri ng transaksyon.,pos,groq,True
+사모,1등급,financial,사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.,mya_Mymr,ပုဂ္ဂိုလ်အထူးထုတ်ဝေမှု၏ အသေးစိတ် အခြေအနေများနှင့် လုပ်ထုံးလုပ်နည်းများသည် အရောင်းအဝယ်အမျိုးအစားအပေါ် မူတည်၍ ကွဲပြားနိုင်သည်။,pos,groq,True
+사모,1등급,financial,우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.,vie_Latn,"Công ty chúng tôi đã quyết định thực hiện việc phát hành cổ phiếu mới theo hình thức phát hành riêng tư, chỉ bán trực tiếp cho các nhà đầu tư tổ chức chủ chốt.",pos,groq,True
+사모,1등급,financial,우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.,ind_Latn,Perusahaan kami memutuskan untuk melakukan penerbitan saham baru secara private placement dan menjualnya secara langsung hanya kepada investor institusi utama.,pos,groq,True
+사모,1등급,financial,우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.,tha_Thai,บริษัทของเราตัดสินใจดำเนินการออกหุ้นใหม่แบบเสนอขายส่วนบุคคลและขายโดยตรงให้กับนักลงทุนสถาบันหลักเท่านั้น.,pos,groq,True
+사모,1등급,financial,우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.,tgl_Latn,Ang aming kumpanya ay nagpasya na isagawa ang pag-isyu ng bagong mga share sa pamamagitan ng private placement at direktang ibenta lamang ito sa mga pangunahing institusyunal na mamumuhunan.,pos,groq,True
+사모,1등급,financial,우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.,mya_Mymr,ကျွန်ုပ်တို့ကုမ္ပဏီသည် ဤအကြိမ်သစ်หุ้นထုတ်ဝေမှုကို သီးသန့်ပေးသွင်း နည်းလမ်းဖြင့် ဆောင်ရွက်ပြီး အဓိက အဖွဲ့အစည်းရင်းနှီးမြှုပ်နှံသူများထံသာ တိုက်ရိုက်ရောင်းချရန် ဆုံးဖြတ်ခဲ့သည်။,pos,groq,True
+사모,1등급,financial,사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다.,vie_Latn,Số tiền thu được thông qua hợp đồng phát hành riêng sẽ được dùng để trả nợ hiện có và đầu tư vào các dự án mới.,pos,groq,True
+사모,1등급,financial,사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다.,ind_Latn,Dana yang diperoleh melalui kontrak private placement akan digunakan untuk melunasi utang yang ada dan berinvestasi dalam bisnis baru.,pos,groq,True
+사모,1등급,financial,사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다.,tha_Thai,เงินที่ได้จากสัญญาการจัดจำหน่ายแบบส่วนบุคคลจะถูกใช้เพื่อชำระหนี้ที่มีอยู่และลงทุนในธุรกิจใหม่.,pos,groq,True
+사모,1등급,financial,사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다.,tgl_Latn,Ang pondo na nakuha sa pamamagitan ng pribadong alok na kontrata ay nakatakdang gamitin para sa pagbabayad ng umiiral na utang at para sa pamumuhunan sa bagong negosyo.,pos,groq,True
+사모,1등급,financial,사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다.,mya_Mymr,ပုဂ္ဂလိက အရောင်းစာချုပ်မှ ရရှိသော ငွေကြေးကို လက်ရှိ အကြွေးများကို ပြန်လည်ပေးဆောင်ရန်နှင့် အထူး စီးပွားရေး လုပ်ငန်းများတွင် ရင်းနှီးမြှုပ်နှံရန် အသုံးပြုမည်ဖြစ်သည်။,pos,groq,True
+사모,1등급,nonfinancial,사모가 떠난 뒤 집안이 허전했다.,vie_Latn,"Sau khi bà ra đi, ngôi nhà trở nên trống vắng.",neg,groq,True
+사모,1등급,nonfinancial,사모가 떠난 뒤 집안이 허전했다.,ind_Latn,"Setelah nyonya pergi, rumah terasa sepi.",neg,groq,True
+사모,1등급,nonfinancial,사모가 떠난 뒤 집안이 허전했다.,tha_Thai,หลังจากที่คุณแม่จากไป บ้านก็รู้สึกว่างเปล่า,neg,groq,True
+사모,1등급,nonfinancial,사모가 떠난 뒤 집안이 허전했다.,tgl_Latn,"Nang umalis ang ginang, naging walang laman ang bahay.",neg,groq,True
+사모,1등급,nonfinancial,사모가 떠난 뒤 집안이 허전했다.,mya_Mymr,မယ်မယ်က ထွက်သွားပြီးနောက် အိမ်ထဲက ဗလာဖြစ်သွားခဲ့တယ်။,neg,groq,True
+사모,1등급,nonfinancial,오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.,vie_Latn,"Sau một thời gian dài, tôi gặp lại bà, cùng nhau uống trà và trò chuyện.",neg,groq,True
+사모,1등급,nonfinancial,오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.,ind_Latn,"Setelah sekian lama, saya bertemu dengan nyonya, lalu minum teh sambil mengobrol.",neg,groq,True
+사모,1등급,nonfinancial,오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.,tha_Thai,หลังจากไม่ได้เจอกันนาน ฉันได้พบกับคุณสาโมและดื่มชาพร้อมพูดคุยกัน,neg,groq,True
+사모,1등급,nonfinancial,오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.,tgl_Latn,"Matagal na mula nang huli, nagkita ako sa ginang, uminom kami ng tsaa at nagkuwentuhan.",neg,groq,True
+사모,1등급,nonfinancial,오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.,mya_Mymr,အချိန်ကြာပြီးနောက် မိန်းမကိုတွေ့ပြီး လက်ဖက်ရည်သောက်ပြီး စကားပြောခဲ့တယ်။,neg,groq,True
+사모,1등급,nonfinancial,사모의 따뜻한 미소가 눈에 선하다.,vie_Latn,Nụ cười ấm áp của thưa bà thật thu hút ánh mắt.,neg,groq,True
+사모,1등급,nonfinancial,사모의 따뜻한 미소가 눈에 선하다.,ind_Latn,Senyum hangat Nyonya itu tampak jelas di mataku.,neg,groq,True
+사모,1등급,nonfinancial,사모의 따뜻한 미소가 눈에 선하다.,tha_Thai,รอยยิ้มอุ่นของคุณผู้หญิงโดดเด่นต่อสายตา,neg,groq,True
+사모,1등급,nonfinancial,사모의 따뜻한 미소가 눈에 선하다.,tgl_Latn,Ang mainit na ngiti ng ginang ay kapansin-pansin sa mata.,neg,groq,True
+사모,1등급,nonfinancial,사모의 따뜻한 미소가 눈에 선하다.,mya_Mymr,အမျိုးသမီး၏ အပူအေးသော အပြုံးသည် မျက်စိထဲတွင် ထင်ရှားနေသည်။,neg,groq,True
+청산,1등급,financial,청산 과정에서 문제가 발생한 것 같습니다.,vie_Latn,Có vẻ như đã xảy ra vấn đề trong quá trình thanh toán.,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,청산 과정에서 문제가 발생한 것 같습니다.,ind_Latn,Sepertinya terdapat masalah dalam proses penyelesaian.,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,청산 과정에서 문제가 발생한 것 같습니다.,tha_Thai,ดูเหมือนว่าจะมีปัญหาเกิดขึ้นในกระบวนการชำระบัญชี.,pos,groq,True
+청산,1등급,financial,청산 과정에서 문제가 발생한 것 같습니다.,tgl_Latn,Mukhang may problema sa proseso ng paglilinis.,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,청산 과정에서 문제가 발생한 것 같습니다.,mya_Mymr,ရှင်းလင်းခြင်း လုပ်ငန်းစဉ်တွင် ပြဿနာများ ဖြစ်ပေါ်နေသကဲ့သို့ ဖြစ်ပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,"거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",vie_Latn,"Sàn giao dịch sẽ nhanh chóng thực hiện quy trình thanh lý sau khi hoàn thành việc so sánh giao dịch, nhằm xác định việc giao nộp chứng khoán và thanh toán tiền cho từng thành viên.",pos,groq:openai/gpt-oss-20b,True
+청산,1등급,financial,"거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",ind_Latn,"Bursa melakukan proses clearing dengan cepat setelah pencocokan perdagangan selesai, guna memastikan penyerahan sekuritas dan pembayaran dana oleh masing-masing anggota.",pos,groq,True
+청산,1등급,financial,"거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",tha_Thai,ตลาดซื้อขายจะดำเนินกระบวนการชำระเงินอย่างรวดเร็วหลังจากการจับคู่การซื้อขายเสร็จสิ้น เพื่อยืนยันการส่งมอบหลักทรัพย์และการชำระเงินของสมาชิกแต่ละราย,pos,groq:openai/gpt-oss-20b,True
+청산,1등급,financial,"거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",tgl_Latn,"Pagkatapos ng pagtutugma ng mga transaksyon, mabilis na isinasagawa ng palitan ang proseso ng paglilinis upang matiyak ang pagpapalitan ng mga sekuriti at pagbabayad ng mga bayarin ng bawat miyembro.",pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,"거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",mya_Mymr,ဈေးကွက်သည် ဝယ်လိုက်ရန်နှင့် ရောင်းလိုက်ရန်များကို နှိုင်းယှဉ်စစ်ဆေးပြီးနောက်၊ အဖွဲ့ဝင်တစ်ခုချင်းစီ၏ စတော့ရှယ်ယာများကို လွှဲပြောင်းပေးခြင်းနှင့် ငွေကြေးများကို ပေးချေခြင်းတို့ကို အတည်ပြုရန်အတွက် ချိန်ညှိမှု လုပ်ငန်းစဉ်ကို မြန်ဆန်စွာ ဆောင်ရွက်သည်။,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,"청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다.",vie_Latn,"Khi vị thế các công cụ phái sinh được thanh toán dựa trên kết quả thanh toán, nhà đầu tư liên quan sẽ nhận được khoản thanh toán được chuyển ngay lập tức vào tài khoản thanh toán của họ.",pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,financial,"청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다.",ind_Latn,"Berdasarkan hasil clearing, ketika posisi derivatif diselesaikan, investor tersebut akan segera menerima transfer dana ke rekening penyelesaian.",pos,groq:openai/gpt-oss-20b,True
+청산,1등급,financial,"청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다.",tha_Thai,เมื่อผลการชำระเงินทำให้ตำแหน่งอนุพันธ์ถูกชำระเงินตามผลการชำระเงินนั้น ผู้ลงทุนจะได้รับเงินจำนวนเต็มทันทีผ่านบัญชีชำระเงิน,pos,groq:openai/gpt-oss-20b,True
+청산,1등급,financial,"청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다.",tgl_Latn,"Kapag ang posisyon ng mga derivative ay naayos batay sa resulta ng clearing, agad na matatanggap ng nasabing mamumuhunan ang halagang ililipat sa kanyang settlement account.",pos,groq,True
+청산,1등급,financial,"청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다.",mya_Mymr,ရှင်းလင်းမှု ရလဒ်အရ ဒီရစ်ဖ်စ် နေရာချထားမှုများကို ပေးချေမှု ပြီးဆုံးသွားပါက၊ သက်ဆိုင်ရာ ရင်းနှီးမြှုပ်နှံသူသည် ချက်ချင်းပေးချေမှုအကောင့်သို့ ငွေကြေးကို လွှဲပြောင်းရရှိမည်ဖြစ်သည်။,pos,groq:qwen/qwen3.8-27b,True
+청산,1등급,nonfinancial,오랜 갈등을 청산하고 다시 친구가 되었다.,vie_Latn,Đã giải quyết xung đột lâu dài và trở thành bạn.,neg,groq:openai/gpt-oss-20b,True
+청산,1등급,nonfinancial,오랜 갈등을 청산하고 다시 친구가 되었다.,ind_Latn,"Setelah menyelesaikan konflik lama, kami menjadi teman lagi.",neg,groq:openai/gpt-oss-20b,True
+청산,1등급,nonfinancial,오랜 갈등을 청산하고 다시 친구가 되었다.,tha_Thai,ยุติความขัดแย้งที่ยาวนานและกลับมาเป็นเพื่อนกันอีกครั้ง,neg,gemini,True
+청산,1등급,nonfinancial,오랜 갈등을 청산하고 다시 친구가 되었다.,tgl_Latn,Natapos namin ang matagal na alitan at muling naging magkaibigan.,neg,groq,True
+청산,1등급,nonfinancial,오랜 갈등을 청산하고 다시 친구가 되었다.,mya_Mymr,ရှေးယခင် ကြာရှည်စွာ ရှိခဲ့သော ဆွေးနွေးမှုများကို ရှင်းလင်းပြီး ပြန်လည် မိတ်ဆွေဖြစ်ကြသည်။,neg,groq:qwen/qwen3.8-27b,True
+청산,1등급,nonfinancial,지난 실수를 청산하려면 솔직하게 사과하는 것이 필요하다.,vie_Latn,"Để làm sạch những sai lầm trong quá khứ, cần phải xin lỗi một cách thành thật.",neg,groq:openai/gpt-oss-20b,True
+청산,1등급,nonfinancial,지난 실수를 청산하려면 솔직하게 사과하는 것이 필요하다.,ind_Latn,"Untuk mengakhiri kesalahan di masa lalu, diperlukan permintaan maaf yang jujur.",neg,groq:qwen/qwen3.8-27b,True
+청산,1등급,nonfinancial,지난 실수를 청산하려면 솔직하게 사과하는 것이 필요하다.,tha_Thai,เพื่อทำให้ข้อผิดพลาดในอดีตหมดไป จำเป็นต้องขออภัยอย่างตรงไปตรงมา,neg,groq:openai/gpt-oss-20b,True
+청산,1등급,nonfinancial,지난 실수를 청산하려면 솔직하게 사과하는 것이 필요하다.,tgl_Latn,"Upang malutas ang mga nakaraang pagkakamali, kailangan ng tapat na paghingi ng paumanhin.",neg,groq,True
+청산,1등급,nonfinancial,우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다.,vie_Latn,Chúng tôi đã xóa bỏ những hiểu lầm lẫn nhau và đón nhận một khởi đầu mới.,neg,groq:qwen/qwen3.8-27b,True
+청산,1등급,nonfinancial,우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다.,ind_Latn,Kami telah menyelesaikan kesalahpahaman satu sama lain dan memulai lembaran baru.,neg,groq:qwen/qwen3.8-27b,True
+청산,1등급,nonfinancial,우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다.,tha_Thai,เราได้ทำความเข้าใจผิดของกันและกันให้หมดแล้วและต้อนรับการเริ่มต้นใหม่,neg,groq:openai/gpt-oss-20b,True
+청산,1등급,nonfinancial,우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다.,tgl_Latn,Nilinis namin ang aming mga hindi pagkakaunawaan at tinanggap ang bagong simula.,neg,groq,True
+청산,1등급,nonfinancial,우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다.,mya_Mymr,ကျွန်တော်တို့သည် တစ်ဦးချင်းစီ၏ အမှားနားလည်မှုကိုရှင်းလင်းပြီး အသစ်သော စတင်မှုကို ကြိုဆိုခဲ့သည်။,neg,groq:openai/gpt-oss-20b,True
+모집,2등급,financial,우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.,vie_Latn,Công ty chúng tôi đang kêu gọi đầu tư thông qua việc phát hành công khai trái phiếu kỳ hạn 5 năm với quy mô 100 tỷ won.,pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.,ind_Latn,"Perusahaan kami saat ini sedang melakukan penawaran umum obligasi bertenor 5 tahun dengan nilai 100 miliar won, dan mengimbau para investor untuk mengajukan pemesanan.",pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.,tha_Thai,"บริษัทของเราได้เสนอขายตราสารหนี้ระยะ 5 ปี มูลค่า 10,000 ล้านวอนต่อสาธารณะ และกำลังเชิญชวนให้นักลงทุนยื่นคำเสนอซื้อ",pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.,tgl_Latn,Ang aming kumpanya ay nag-aalok ng 5-taong bond na may kabuuang halaga na 10 bilyong won sa pamamagitan ng pampublikong pag‑alok at hinihikayat ang mga mamumuhunan na mag‑subskribe.,pos,groq,True
+모집,2등급,financial,우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.,mya_Mymr,ကျွန်ုပ်တို့ကုမ္ပဏီသည် ယခုအခါ ၅ နှစ်သက်တမ်းရှိသော အကြွေးစာများကို ၁၀၀ ဘီလျံဝန်ကျင်အားဖြင့် ဖြန့်ချိပြီး ရင်းနှီးမြှုပ်နှံသူများအား ဝယ်ယူရန် တောင်းဆိုနေပါသည်။,pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,"신주인수권 증서를 모집하기 위해 금융감독위원회의 승인을 받은 뒤, 50명 이상의 투자자를 대상으로 균일한 조건을 제시하고 있다.",vie_Latn,"Sau khi nhận được sự phê duyệt của Ủy ban Giám sát Tài chính để huy động chứng chỉ quyền mua cổ phần mới, công ty đang đưa ra các điều kiện đồng nhất cho ít nhất 50 nhà đầu tư.",pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,"신주인수권 증서를 모집하기 위해 금융감독위원회의 승인을 받은 뒤, 50명 이상의 투자자를 대상으로 균일한 조건을 제시하고 있다.",ind_Latn,"Setelah memperoleh persetujuan dari Komisi Pengawas Pasar Keuangan untuk melakukan penawaran umum sertifikat hak memesan efek tertentu, perusahaan tersebut menawarkan syarat-syarat yang seragam kepada lebih dari 50 investor.",pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,"신주인수권 증서를 모집하기 위해 금융감독위원회의 승인을 받은 뒤, 50명 이상의 투자자를 대상으로 균일한 조건을 제시하고 있다.",tha_Thai,หลังจากได้รับอนุมัติจากคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์เพื่อระดมทุนผ่านใบสำคัญแสดงสิทธิในการจองซื้อหุ้นใหม่ บริษัทได้เสนอเงื่อนไขที่เท่าเทียมกันแก่นักลงทุนจำนวน 50 คนขึ้นไป,pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,financial,"신주인수권 증서를 모집하기 위해 금융감독위원회의 승인을 받은 뒤, 50명 이상의 투자자를 대상으로 균일한 조건을 제시하고 있다.",tgl_Latn,"Pagkatapos makakuha ng pahintulot mula sa Komisyon sa Pagpapatupad ng mga Batas sa Pamamahala ng Pondo, inilalabas ang mga sertipiko ng opsyon sa bagong bahagi ng tawag sa mga tagapag-inbest na 50 o higit pa, sa pamamagitan ng pag-aalok ng pagbili sa mga pantay na kondisyon.",pos,groq:qwen/qwen3.8-27b,True
+모집,2등급,nonfinancial,우리 회사는 이번에 신입 사원을 모집합니다.,vie_Latn,Công ty chúng tôi đang tuyển dụng nhân viên mới lần này.,neg,groq,True
+모집,2등급,nonfinancial,우리 회사는 이번에 신입 사원을 모집합니다.,ind_Latn,Perusahaan kami sedang merekrut karyawan baru.,neg,groq:qwen/qwen3.8-27b,True
+모집,2등급,nonfinancial,우리 회사는 이번에 신입 사원을 모집합니다.,tha_Thai,บริษัทของเรากำลังรับสมัครพนักงานใหม่ในครั้งนี้,neg,groq,True
+모집,2등급,nonfinancial,우리 회사는 이번에 신입 사원을 모집합니다.,tgl_Latn,Ang aming kumpanya ay naghahanap ng bagong empleyado ngayong pagkakataon.,neg,groq:openai/gpt-oss-20b,True
+모집,2등급,nonfinancial,우리 회사는 이번에 신입 사원을 모집합니다.,mya_Mymr,ကျွန်ုပ်တို့၏ ကုမ္ပဏီသည် ဤအကြိမ်တွင် အသစ်ဝင်ရောက်သူလုပ်သားများကို ခေါ်ယူနေပါသည်။,neg,groq:qwen/qwen3.8-27b,True
+모집,2등급,nonfinancial,지역 축제 자원봉사자를 모집하고 있어요.,vie_Latn,Chúng tôi đang tuyển tình nguyện viên cho lễ hội địa phương.,neg,groq:openai/gpt-oss-20b,True
+모집,2등급,nonfinancial,지역 축제 자원봉사자를 모집하고 있어요.,ind_Latn,Kami sedang mencari sukarelawan untuk festival daerah.,neg,groq:openai/gpt-oss-20b,True
+모집,2등급,nonfinancial,지역 축제 자원봉사자를 모집하고 있어요.,tha_Thai,กำลังเปิดรับสมัครอาสาสมัครสำหรับงานเทศกาลท้องถิ่น,neg,groq:qwen/qwen3.8-27b,True
+모집,2등급,nonfinancial,지역 축제 자원봉사자를 모집하고 있어요.,tgl_Latn,Kami ay naghahanap ng mga volunteer para sa lokal na pista.,neg,groq:openai/gpt-oss-20b,True
+모집,2등급,nonfinancial,지역 축제 자원봉사자를 모집하고 있어요.,mya_Mymr,ဒေသပွဲအတွက် အလှူအဝန်ထမ်းများကို လျှောက်ထားရန် ဖိတ်ခေါ်နေပါသည်.,neg,groq:openai/gpt-oss-20b,True

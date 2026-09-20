@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>FinHOLLY 페이지 번역</title>
+<style>
+  body {
+    width: 260px;
+    font-family: -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+    padding: 14px;
+    margin: 0;
+    color: #1a1d29;
+  }
+  h1 {
+    font-size: 14px;
+    margin: 0 0 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  h1 .dot { width: 8px; height: 8px; border-radius: 50%; background: #2454ff; display: inline-block; }
+  select {
+    width: 100%;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid #dcdfe6;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+  .row { display: flex; gap: 8px; }
+  button {
+    flex: 1;
+    padding: 9px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  #go { background: #2454ff; color: #fff; }
+  #go:hover { background: #173bcc; }
+  #restore { background: #f1f2f5; color: #444; }
+  #restore:hover { background: #e4e6eb; }
+  button:disabled { opacity: 0.5; cursor: default; }
+  #status {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #6b7280;
+    min-height: 32px;
+    line-height: 1.4;
+  }
+  #status.error { color: #d13438; }
+  footer { font-size: 10px; color: #9aa0ab; margin-top: 6px; text-align: center; }
+</style>
+</head>
+<body>
+  <h1><span class="dot"></span>FinHOLLY 페이지 번역</h1>
+  <select id="lang"></select>
+  <div class="row">
+    <button id="go">번역</button>
+    <button id="restore">원문 보기</button>
+  </div>
+  <div id="status">번역할 언어를 선택하고 "번역"을 누르세요.</div>
+  <footer>온프레미스 · localhost:5000</footer>
+  <script src="popup.js"></script>
+</body>
+</html>

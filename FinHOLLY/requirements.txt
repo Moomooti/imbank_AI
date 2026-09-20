@@ -1,0 +1,4 @@
+ctranslate2>=4.0
+transformers>=4.40
+flask>=3.0
+sentencepiece>=0.1.99

@@ -1,0 +1,22 @@
+﻿sentence_id,ko_source,target_sentence,terms_used,known_term,known_term_matched,category,related_category,identifier_survival_rate,identifier_order_preserved_rate,restore_success_rate,fallback_used,lost_terms,max_suspicion_score,flagged_terms
+KO-FIN-05233,계좌 잔액을 확인하고 싶습니다.,Gusto kong suriin ang Ang mga natitirang account.,잔액,잔액,True,계좌,,1.0,1.0,1.0,0,,80,잔액
+KO-FIN-05234,최근 한 달간의 거래내역을 확인해 주세요.,Mangyaring suriin ang Mga panuntunan sa kalakalan sa huling buwan.,거래내역,거래내역,True,계좌,,1.0,1.0,1.0,0,,20,거래내역
+KO-FIN-05235,제 계좌번호를 어디에서 확인할 수 있나요?,Saan ko malalaman ang aking Ang numero ng account.?,계좌번호,계좌번호,True,계좌,,1.0,1.0,1.0,0,,0,
+KO-FIN-05236,입금한 금액이 계좌에 반영되었는지 확인해 주세요.,Mangyaring tiyakin na ang Mga deposito ay nai-reflect sa iyong account.,입금,입금,True,계좌,,1.0,1.0,1.0,0,,70,입금
+KO-FIN-05237,제가 하지 않은 출금 내역이 있습니다.,Mayroon akong isang Pagpapadala panloob na linya na hindi ko ginawa.,출금,출금,True,계좌,,1.0,1.0,1.0,0,,70,출금
+KO-FIN-05238,이 계좌를 해지하려면 어떻게 해야 하나요?,Ano ang dapat kong gawin upang tanggalin ang account na ito?,,계좌해지,False,계좌,,1.0,1.0,1.0,0,,0,
+KO-FIN-05239,이 계좌로 돈을 이체하고 싶습니다.,Gusto kong mag-transfer ng pera sa account na ito.,,계좌이체,False,이체,,1.0,1.0,1.0,0,,0,
+KO-FIN-05240,하루 이체한도는 얼마인가요?,Magkano ang isang araw?,이체한도,이체한도,True,이체,,0.0,1.0,0.0,0,이체한도,50,이체한도
+KO-FIN-05241,계좌이체 수수료가 있나요?,May bayad ba?,계좌이체,이체수수료,False,이체,,0.0,1.0,0.0,0,계좌이체,20,계좌이체
+KO-FIN-05242,자동이체를 등록하고 싶습니다.,Gusto kong magrehistro ng Mga awtomatikong transistor.,자동이체,자동이체,True,이체,,1.0,1.0,1.0,0,,20,자동이체
+KO-FIN-05244,다음 주 월요일로 예약이체를 설정해 주세요.,Mangyaring itakda ang Reserbasyon sa Linggo ng susunod na linggo.,예약이체,예약이체,True,이체,,1.0,1.0,1.0,0,,40,예약이체
+KO-FIN-05245,방금 잘못 이체했는데 취소할 수 있나요?,Nagkamali ako sa paglilipat. Maaari mo bang kanselahin?,,이체취소,False,이체,,1.0,1.0,1.0,0,,0,
+KO-FIN-05246,이체하기 전에 수취인 이름과 계좌번호를 확인해 주세요.,Mangyaring suriin ang Ang mga ito ay mga tao. pangalan at Ang numero ng account. bago lumipat.,수취인;계좌번호,수취인,True,이체,,1.0,1.0,1.0,0,,50,수취인
+KO-FIN-05247,해외에 있는 가족에게 돈을 보내고 싶습니다.,Gusto kong magpadala ng pera sa aking pamilya sa ibang bansa.,,해외송금,False,해외송금·외환,,1.0,1.0,1.0,0,,0,
+KO-FIN-05248,해외송금 수수료를 확인해 주세요.,Mangyaring suriin ito.,해외송금 수수료,해외송금 수수료,True,해외송금·외환,,0.0,1.0,0.0,0,해외송금 수수료,0,
+KO-FIN-05249,오늘 적용되는 원화와 달러의 환율을 알려주세요.,Ipaalam sa akin ang Mga rate ng palitan na currency at dolyar na magagamit ngayon.,환율,환율,True,해외송금·외환,,1.0,1.0,1.0,0,,30,환율
+KO-FIN-05250,해외송금에 필요한 SWIFT 코드는 어디에서 확인하나요?,Saan ko makikita ang Pagpapadala sa ibang bansa na kailangan ng Ang SWIFT code?,해외송금;SWIFT 코드,SWIFT 코드,True,해외송금·외환,,1.0,1.0,1.0,0,,20,해외송금
+KO-FIN-05251,해외송금 전에 수취은행 정보를 확인하고 싶습니다.,Gusto kong suriin ang impormasyon bago ang Pagpapadala sa ibang bansa.,해외송금;수취은행,수취은행,True,해외송금·외환,,0.5,1.0,0.5,0,수취은행,20,해외송금
+KO-FIN-05252,외국인 고객의 해외송금 한도는 얼마인가요?,Ano ang limitasyon ng Pagpapadala sa ibang bansa ng mga dayuhang customer?,해외송금,송금한도,False,해외송금·외환,,1.0,1.0,1.0,0,,20,해외송금
+KO-FIN-05253,해외송금을 했는데 아직 수취인이 돈을 받지 못했습니다.,Hindi pa rin siya nakatanggap ng pera.,해외송금;수취인,송금상태,False,해외송금·외환,,0.0,1.0,0.0,0,해외송금;수취인,50,해외송금;수취인
+KO-FIN-05254,원화를 달러로 환전하고 싶습니다.,Gusto kong i-convert ang pera sa dolyar.,환전,환전,True,해외송금·외환,,0.0,1.0,0.0,0,환전,70,환전

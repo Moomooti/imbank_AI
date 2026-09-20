@@ -1,0 +1,2731 @@
+{
+  "sentences": {
+    "가쇄": {
+      "grade": "1등급",
+      "ko_def": "『통일규격 유가증권 취급규정』에서 정한 증권용지에 유가증권에 기재할 사항 중 유가증권번호, 대표이사의 직인날인 및 광학문자 판독번호를 제외한 각종의 기재사항을 인쇄하는 것을 말한다. 통일규격 유가증권 취급규정에서 \"통일규격 증권용지\"라 함은 유가증권 발행을 위하여 윤곽도안, 지문, 증권용지 관리번호, 권종표시 등의 윤곽인쇄가 된 용지로서 주권, 사채권, 신주인수권증서의 가쇄를 위해 사용된다. 증권용지에 가쇄를 하기 위해서 종전에는 발행회사가 금",
+      "eng": "",
+      "nonfinancial_meaning": "枷鎖(형틀/족쇄) — 실제 오역 전례(베트남어 Chuỗi)",
+      "pos": [
+        "가쇄 처리 절차를 확인하고 싶습니다.",
+        "주권 발행을 앞두고 통일규격 증권용지에 대한 가쇄 작업이 완료되어 한국예탁결제원의 최종 날인 절차만 남았습니다.",
+        "이번 회사채 발행 과정에서 가쇄 단계의 기재사항 오류가 발견되어 윤곽인쇄 용지를 다시 수령하기로 결정했습니다."
+      ],
+      "neg": [
+        "가쇄에 묶인 듯한 일상에 지쳐 버렸다.",
+        "그는 가쇄를 끊고 새로운 길을 찾아 나섰다.",
+        "가쇄 같은 억압을 벗어나면 진정한 자유를 맛볼 수 있다."
+      ]
+    },
+    "간주": {
+      "grade": "1등급",
+      "ko_def": "어떠한 사실을 비유해서 설령 진실에 반하더라도 법이 이러하다고 정해버리고 반대의 증거가 있어도 이를 변동하지 않는 것을 간주(또는 의제)라고 한다. 법문에서는 이 경우를 『간주한다』 또는 『...로 본다』로 규정한다. 실종선고를 받은 자는 살아 있어도 실종신고를 취소하기 전에는 사망이라고 간주되며, 미성년자가 혼인하면 성년으로 간주된다(민법 제826조의 2). 증권거래법 제174조의 2 제4항은 “...고객계좌부에 기재된 유가증권은 그 기재시에",
+      "eng": "",
+      "nonfinancial_meaning": "間奏(음악 간주곡)",
+      "pos": [
+        "간주 처리 절차를 확인하고 싶습니다.",
+        "변경된 금융거래 약관에 대해 지정된 기한 내에 별도의 이의를 제기하지 않으시면 개정 내용에 동의하신 것으로 간주됩니다.",
+        "추가 담보금 납입 시한까지 요구 금액을 충당하지 못할 경우 반대매매 진행에 동의한 것으로 간주되어 강제 매도가 실행됩니다."
+      ],
+      "neg": [
+        "노래의 분위기가 가장 고조되는 순간에 감미로운 피아노 간주가 흘러 나왔다.",
+        "가수는 2절로 넘어가기 전 긴 기타 간주 동안 무대 앞으로 나와 팬들에게 손을 흔들었다.",
+        "이 곡은 잔잔한 보컬 뒤에 나오는 바이올린 간주가 매우 인상적이다."
+      ]
+    },
+    "공모": {
+      "grade": "1등급",
+      "ko_def": "유가증권의 발행방법에는 공모(公募, public offering)와 사모(私募, private placement)의 방법이 있으며, \"공모\"의 개념은 증권거래법이 규제하는 공시영역을 결정하는 기본개념으로서 의의가 있다. 증권거래법상 유가증권의 모집은 \"대통령령이 정하는 바에 따라 신규로 발행되는 유가증권의 취득의 청약을 권유함\"을 말하고, 매출은 \"대통령령이 정하는 바에 따라 이미 발행된 유가증권의 매도의 청약을 하거나 매수의 청약을 권유함\"을",
+      "eng": "public offering",
+      "nonfinancial_meaning": "共謀(범죄 공모/모의)",
+      "pos": [
+        "공모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.",
+        "신규 주식 발행을 위한 공모 절차는 증권거래소의 심사를 거쳐야 합니다.",
+        "공모를 통해 모집된 자금은 기업의 성장 투자와 부채 상환에 활용됩니다."
+      ],
+      "neg": [
+        "경찰 조사 결과 두 사람은 사기 범행을 미리 공모한 것으로 밝혀졌다.",
+        "그들은 내부 관계자와 공모하여 회사의 중요한 정보를 유출했다.",
+        "친구들이 나를 속이기 위해 서로 공모했다는 사실을 뒤늦게 알았다."
+      ]
+    },
+    "공채": {
+      "grade": "1등급",
+      "ko_def": "일반적으로 회사가 발행하는 사채에 대해 국가나 지방자치단체가 재원을 조달하기 위하여 발행하는 채권을 말한다. 즉, 공채는 공적인 기업 또는 기관과 정부가 재원충당을 위해 발행하는 채권을 말하며, 발행주체에 따라 국채, 지방채, 특수채, 금융채 등으로 분류된다. 이 중 국채는 국가가 발행하는 채권으로 국민주택채권(1, 2종), 국민주택기금채권 등이 상장되어 있으며, 비상장국채로는 재정증권, 출자재정증권, 양곡기금증권, 국민투자채권, 농어촌지역개발",
+      "eng": "public bond",
+      "nonfinancial_meaning": "公採(공개채용 준말)",
+      "pos": [
+        "공채의 조건과 수익 구조를 확인하고 싶습니다.",
+        "금리 변동성이 확대되면서 원금 보장이 용이하고 안정적인 공채로 자금이 유입되고 있다.",
+        "지방자치단체는 대규모 인프라 건설 사업에 필요한 재원을 충당하기 위해 공채 발행을 결정했습니다."
+      ],
+      "neg": [
+        "이번 하반기 대기업 공채에 합격하기 위해 열심히 입사 지원서를 작성하고 있다.",
+        "형은 대학을 졸업하자마자 방송사 공채에 합격하여 PD로 일하고 있다.",
+        "요즘은 정기 공채보다는 필요할 때마다 인재를 뽑는 수시 채용이 늘어나는 추세이다."
+      ]
+    },
+    "기세": {
+      "grade": "1등급",
+      "ko_def": "거래소시장에서 당일 매매거래 종료시까지 매매거래가 성립되지 아니한 경우의 호가로서 직전의 시세에 비하여 가장 낮은 매도호가 또는 가장높은 매수호가를 말한다(증권거래소 업무규정 제2조 5호). 거래소시장의 매매거래에 있어서 가격결정방법 등 일정한 경우 직전의 가격인 시세에 준하여 기세가 활용된다.",
+      "eng": "quot, quotation",
+      "nonfinancial_meaning": "氣勢(기운/기백/추진력, 일상어 '기세등등')",
+      "pos": [
+        "기세와 관련된 시장 정보를 확인하고 싶습니다.",
+        "오늘 장 마감 전까지 기세가 5,200원으로 형성돼 매수세가 강하게 나타났습니다.",
+        "전일 대비 기세가 크게 상승하면서 투자자들의 매도 호가가 급감했습니다."
+      ],
+      "neg": [
+        "그는 승부욕에 불타는 기세로 마라톤을 완주했다.",
+        "새벽부터 비가 내리던 날, 바람이 거세게 불어 기세가 넘쳤다.",
+        "친구가 연설을 시작하자 청중은 기세에 휩싸여 박수를 보냈다."
+      ]
+    },
+    "단주": {
+      "grade": "1등급",
+      "ko_def": "(1)증권거래에 있어서 단주(odd lot)라 함은 증권거래소가 결정한 매매수량 단위(round lot) 미만의 주식을 말하는데 단수주라고도 한다. 이 단주들은 거래소 시장에서 매매될 수 없으므로 장외시장에서 거래된다. 즉, 한국증권거래소가 정한 매매수량단위는 주식의 경우 10주이상, 수익증권의 경우 10좌 이상, 채권의 경우 액면 10만원 이상이므로 그 미만의 경우 단주가 된다. 미국에서는 매매단위가 우리보다 크기 때문에(주식의 경우 100주",
+      "eng": "odd lot, fractional shares",
+      "nonfinancial_meaning": "斷酒(금주/술을 끊음)",
+      "pos": [
+        "단주와 관련된 시장 정보를 확인하고 싶습니다.",
+        "단주 매매는 장외시장에만 한정돼 있어 유동성이 낮은 편이다.",
+        "투자자는 단주를 보유하고 있으면 최소 거래 단위인 10주를 채우기 전까지는 매도하기 어려울 수 있다."
+      ],
+      "neg": [
+        "요즘 단주를 결심하고 매일 물만 마시며 지내고 있다.",
+        "친구가 단주를 시작했다며 술자리 초대를 거절했다.",
+        "단주 덕분에 아침에 머리가 맑아져서 일에 집중이 잘 된다."
+      ]
+    },
+    "대권": {
+      "grade": "1등급",
+      "ko_def": "대체성 있는 동일종류의 유가증권에 의하여 표창되는 각각의 권리를 집합하여 복수의 권리를 표창할 수 있는 유가증권으로서『집합증권』이라고도 한다. 즉, 10만주, 100만주 등 대단히 큰 수량의 권리를 표창하는 유가증권이며, 중앙예탁기관의 보관사무 합리화와 발행비용 절감을 목적으로 독일에서 최초로 도입되었다(독일예탁법 제9조 제1항). 대권에는 증권의 수량을 포함하여 권리의 내용 및 발행자의 서명이 기재되어야 하며, 개별유가증권의 반환이 청구될 경",
+      "eng": "global certificates",
+      "nonfinancial_meaning": "大權(최고 권력/대통령직, '대권주자')",
+      "pos": [
+        "대권이 무엇인지 설명해 주세요.",
+        "대권 발행을 통해 대규모 투자자들이 소액으로도 동일한 권리를 공유할 수 있게 되었다.",
+        "우리 회사는 최근 대권을 활용한 유동성 공급 방안을 검토 중이다."
+      ],
+      "neg": [
+        "그는 대권을 잡기 위해 전국을 누볐다.",
+        "대권 후보들의 토론이 내일 밤에 시작된다.",
+        "대권을 차지한 후 그는 개혁 정책을 서둘러 추진했다."
+      ]
+    },
+    "빅뱅": {
+      "grade": "1등급",
+      "ko_def": "1986년 10월 금융국제화추세에 따라 영국계 금융기관들의 경쟁력 제고 및 런던시장의 기능강화를 위하여 런던금융시장에서 단행한 증권매매, 위탁수수료의 자유화와 증권산업의 재편성 등 대폭적인 제도변경을 말한다. 주요내용으로는 ①자버(Jobbers)와 브로커(Broker)를 겸업할 수 있는 이중자격제도로의 전환, ②최저증권매매수수료 제도를 폐지하여 수수료의 자유화, ③개인에 국한되었던 회원제도를 완화하여 법인회원의 가입을 허용, ④국채발행시 인수판",
+      "eng": "Big Bang",
+      "nonfinancial_meaning": "Big Bang(우주 대폭발 이론)",
+      "pos": [
+        "빅뱅이 무엇을 의미하나요?",
+        "런던시장의 빅뱅 이후, 영국계 증권사들은 브로커와 자버를 동시에 운영하며 새로운 수익 모델을 모색하고 있다.",
+        "최근 국내 투자자들도 빅뱅으로 인한 수수료 자유화 효과를 기대하며, 해외 주식 거래를 활발히 늘리고 있다."
+      ],
+      "neg": [
+        "우주가 탄생한 순간을 생각하면 빅뱅이 얼마나 거대한 사건이었는지 새삼 느껴진다.",
+        "다큐멘터리에서 빅뱅 이후 별과 은하가 어떻게 형성됐는지 자세히 설명하고 있었다.",
+        "그는 밤하늘을 보며 빅뱅이 일어난 뒤 지금까지 이어진 우주의 역사를 상상했다."
+      ]
+    },
+    "사모": {
+      "grade": "1등급",
+      "ko_def": "발행회사가 유가증권을 발행함에 있어서 다수의 일반대중을 상대로 하지 않고 보험회사, 은행, 투자신탁회사 등의 기관투자가나 특정개인에 대하여 개별적 접촉을 통해 증권을 매각하는 기채방식으로 연고모집이라고도 한다. 공모에 비해 시간과 비용이 절약되고, 기업내용공개를 회피할 수 있으며, 매입자 입장에서 유리한 조건으로 대량의 증권을 취득할 수 있다는 이점이 있으나, 발행량이 한정되고 발행자가 유통시장에서 사후관리를 할 수 없으며, 기채시 담보에 대하",
+      "eng": "private placement",
+      "nonfinancial_meaning": "師母/思慕('사모님' 존칭, 그리움)",
+      "pos": [
+        "사모의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.",
+        "우리 회사는 이번 신주 발행을 사모 방식으로 진행해 주요 기관투자자에게만 직접 매각하기로 결정했다.",
+        "사모 계약을 통해 확보한 자금은 기존 부채 상환과 신규 사업 투자에 활용될 예정이다."
+      ],
+      "neg": [
+        "사모가 떠난 뒤 집안이 허전했다.",
+        "오랜만에 사모를 만나 차를 마시며 이야기를 나눴다.",
+        "사모의 따뜻한 미소가 눈에 선하다."
+      ]
+    },
+    "상장": {
+      "grade": "1등급",
+      "ko_def": "증권거래소에서 매매거래를 할 수 있도록 인정하는 것을 말하는 것으로서 거래소시장은 조직화되어 있는 시장이기 때문에 그곳에서 매매거래를 할 수 있는 주식은 일정한 자격요건을 갖추어야 한다. 따라서 그 주식은 신뢰를 받을 수 있다는 점, 거래소가 정보공개를 요구하기 때문에 그 주식에 대한 정보를 얻기가 쉽다는 점, 시장성이 높으므로 시가에 의한 매매가 용이하다는 점, 담보가치가 높아진다는 점, 주식의 광범위한 소유분포가 가능하게 되어 증자, 기채 ",
+      "eng": "listing",
+      "nonfinancial_meaning": "賞狀(상장 증서)",
+      "pos": [
+        "상장이 무엇을 의미하나요?",
+        "삼성전자는 2025년 말까지 새로운 사업 부문을 포함한 주식의 상장을 추진하고 있다.",
+        "코스닥 시장에 상장된 기업들은 정기적인 정보공개 의무를 이행해야 하므로 투자자들의 신뢰를 얻기 쉽다."
+      ],
+      "neg": [
+        "우수 사원으로 선정된 그는 회사에서 상장을 받았다.",
+        "대회에서 1등을 차지한 우리 팀에게는 금빛 상장이 수여되었다.",
+        "학생회는 학업 성취도가 높은 학생들에게 상장을 수여하기로 했다."
+      ]
+    },
+    "신탁": {
+      "grade": "1등급",
+      "ko_def": "금전이나 부동산 또는 유가증권 등 특정한 재산권을 소유한 자(위탁자)가 일정한 자(수익자)의 이익을 위하여 또는 특정목적으로 타인(수탁자)에게 그 재산권의 관리처분을 의뢰하는 것을 말한다. 신탁이 성립하려면 먼저 재산이 있어야 하며(신탁재산) 그 재산을 위탁하는 자(위탁자), 그 신탁으로부터의 이익을 향유하는 자(수익자)가 있어야 하는 것이 신탁의 기본적인 특징이다.",
+      "eng": "trust",
+      "nonfinancial_meaning": "神託(신의 계시/오라클)",
+      "pos": [
+        "신탁에 가입하기 전에 어떤 점을 확인해야 하나요?",
+        "신탁 계약을 체결한 뒤에는 위탁 재산이 신탁 재산으로 분리되어 수탁자가 관리·운용하게 됩니다.",
+        "우리 회사는 직원들의 퇴직연금 운용을 위해 별도의 신탁을 설립하고, 수익자는 해당 연금 수령자들로 지정했습니다."
+      ],
+      "neg": [
+        "그는 오래된 사원에서 신탁을 받아 앞으로의 삶을 새롭게 설계했다.",
+        "신탁에 따르면 오늘은 중요한 결정을 내릴 좋은 날이라고 한다.",
+        "마을 사람들은 신탁이 전한 메시지를 따라 서로를 돕기로 약속했다."
+      ]
+    },
+    "주권": {
+      "grade": "1등급",
+      "ko_def": "주주권(주식)을 표창하는 유가증권을 말한다. 주식은 주권에 의하지 아니하면 양도하거나 입질을 할 수 없으므로, 회사는 성립후 또는 신주의 납입기일후 지체없이 주권을 발행하여야 한다(상법 제355조 1항). 그러나 회사가 설립등기를 종료하기 전에, 또는 신주의 납입기일 이전에는 주권을 발행할 수 없고(상법 제355조 2항), 이에 위반하여 발행한 주권은 무효이다(상법 제355조 3항). 주권에는 다음의 사항과 주권의 번호를 기재하고, 대표이사가 ",
+      "eng": "stock certificate",
+      "nonfinancial_meaning": "主權(국가 주권)",
+      "pos": [
+        "주권이 무엇인지 설명해 주세요.",
+        "주식 매매 계약서에 서명한 뒤, 투자자는 즉시 주권을 발급받아야만 주식을 양도할 수 있다.",
+        "회사는 신주 납입기일이 도래하면 지체 없이 주권을 발행해야 하며, 이를 위반한 주권은 무효로 처리된다."
+      ],
+      "neg": [
+        "우리나라는 주권을 수호하기 위해 국제사회와 협력하고 있다.",
+        "주권 국가로서의 책임을 다하는 것이 국민의 의무다.",
+        "외국의 간섭이 주권을 위협할 때 우리는 단결해야 한다."
+      ]
+    },
+    "차주": {
+      "grade": "1등급",
+      "ko_def": "주식의 신용거래에서 빌린 주식을 말한다. 차주는 ①후일에 주식이 손에 들어오지만 그 안에 팔아두고 싶어서 일시적으로 주식을 빌어서 파는 경우, ②현재 주식을 가지고 있지 않고 후일에도 없을 것이지만 시세가 하락할 것을 예상하여 주식을 파는 경우, ③주식을 가지고 있지만 다른 이유로 따로 주식을 빌려서 팔아두는 경우 등에 필요하다. 고객의 공매도 주문을 받은 증권업자가 증권금융회사에 고객이 팔 주식을 빌리고 싶다고 신청하는 것을 차주신청, 주식을",
+      "eng": "borrowed stock",
+      "nonfinancial_meaning": "次週(다음 주) 또는 車主(차량 소유자) — 실제 오염 확인 사례",
+      "pos": [
+        "차주와 관련해 투자 전에 확인해야 할 사항이 있나요?",
+        "오늘 고객이 차주 신청을 하여 증권금융회사로부터 5,000주를 빌린 뒤 바로 공매도 주문을 넣었다.",
+        "차주를 이용해 주식을 빌린 뒤 시세가 급락하자, 우리는 손익을 크게 확대할 수 있었다."
+      ],
+      "neg": [
+        "차주에 비가 많이 올 것 같으니 우산을 챙기세요.",
+        "차주가 새 차를 구입했는데 아직 등록 절차가 남아 있다.",
+        "차주와 함께 차를 점검하러 정비소에 갔다."
+      ]
+    },
+    "청산": {
+      "grade": "1등급",
+      "ko_def": "매매거래 이후의 업무처리절차를 매매대조(matching or comparision) 청산(clearing) 결제(settlement)로 구분할 때, 청산은 매매대조가 완료된 거래의 결제를 위하여 각 거래 당사자가 인 수도 해야할 증권과 대금의 최종 수량을 결정하는 절차를 말한다. 주로 차감절차를 통해 청산이 이루어지며, 청산결과 산정된 각 당사자의 이행의무(증권인도의무와 대금지급의무)를 실제로 이행하여 거래를 종결시키는 절차를 결제(settle",
+      "eng": "clearing",
+      "nonfinancial_meaning": "'과거를 청산하다'(정리/종결) 일상 관용구",
+      "pos": [
+        "청산 과정에서 문제가 발생한 것 같습니다.",
+        "거래소는 매매대조가 끝난 뒤, 각 회원사의 증권 인도와 대금 지급을 확정하기 위해 청산 절차를 신속히 진행한다.",
+        "청산 결과에 따라 파생상품 포지션이 정산되면, 해당 투자자는 즉시 결제 계좌로 대금을 이체받게 된다."
+      ],
+      "neg": [
+        "오랜 갈등을 청산하고 다시 친구가 되었다.",
+        "지난 실수를 청산하려면 솔직하게 사과하는 것이 필요하다.",
+        "우리는 서로의 오해를 청산하고 새로운 시작을 맞이했다."
+      ]
+    },
+    "콜": {
+      "grade": "1등급",
+      "ko_def": "금융기관 상호간의 단기 대부차입을 말하는 것으로 『부르면 곧 돌아올 수 있을 정도로 극히 단기에 회수할 수 있는 대차』이기 때문에 콜이라는 명칭이 생겼다. 이것은 대출자측에서 보면 콜론(call loan), 차입자측에서 볼 때는 콜머니(call money)라고 부른다. 콜은 주로 은행의 어음, 기말결산의 결제 등 단기자금의 조달에 이용되는데, 콜은 언제나 은행이 회수할 수 있는 단기의 대부이므로 은행으로서는 일시적인 유휴자금을 이용하는데 최적의",
+      "eng": "call",
+      "nonfinancial_meaning": "전화(call) 또는 '콜!'(동의) 일상 표현",
+      "pos": [
+        "콜은 심사 결과에 따라 이용 가능 여부가 달라질 수 있습니다.",
+        "우리 은행은 하루 만기 콜을 활용해 일시적인 유동성 부족을 빠르게 메꿨다.",
+        "기업은 연말 결제 자금을 조달하기 위해 콜머니를 단기 차입으로 이용했다."
+      ],
+      "neg": [
+        "잠깐, 나중에 콜해줄게.",
+        "그 아이디어 괜찮아, 콜!",
+        "회의가 끝나면 바로 콜 주세요."
+      ]
+    },
+    "매출": {
+      "grade": "2등급",
+      "ko_def": "유가증권의 매출이라 함은 금융감독위원회가 정하는 바에 따라 50명 이상을 대상으로 하여 균일한 조건으로 이미 발행된 유가증권의 매도의 청약을 하거나 매수의 청약을 권유함을 말한다. 유가증권의 매출 대상 유가증권은 사채권, 주권 또는 신주인수권을 표시하는 증서, 외국이나 외국법인이 발행한 증권 또는 증서로서 재경부장관이 지정하는 것 등이다.",
+      "eng": "",
+      "nonfinancial_meaning": "일반적 '매출액/판매실적'",
+      "pos": [
+        "매출이 무엇인지 설명해 주세요.",
+        "우리 회사는 이번 분기에 사채권 매출을 120건 진행하여 투자자들의 높은 관심을 끌었다.",
+        "금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다."
+      ],
+      "neg": [
+        "우리 카페는 이번 주에 매출이 예상보다 크게 올랐어요.",
+        "새로운 메뉴를 도입한 뒤 매출이 꾸준히 상승하고 있습니다.",
+        "온라인 스토어의 매출이 급증해 재고를 추가 주문해야 할 상황이에요."
+      ]
+    },
+    "모집": {
+      "grade": "2등급",
+      "ko_def": "유가증권의 모집이라 함은 금융감독위원회가 정하는 바에 따라 50명 이상을 대상으로 하여 균일한 조건으로 신규로 발행되는 유가증권의 취득의 청약을 권유함을 말한다. 유가증권의 모집대상 유가증권은 사채권, 주권 또는 신주인수권을 표시하는 증서, 외국이나 외국법인이 발행한 증권 또는 증서로서 재경부장관이 지정하는 것 등이다. 공모",
+      "eng": "",
+      "nonfinancial_meaning": "일반적 '모집/채용공고'",
+      "pos": [
+        "모집이 무엇인지 설명해 주세요.",
+        "우리 회사는 이번에 5년 만기 사채를 100억 원 규모로 모집하여 투자자들에게 청약을 권유하고 있다.",
+        "신주인수권 증서를 모집하기 위해 금융감독위원회의 승인을 받은 뒤, 50명 이상의 투자자를 대상으로 균일한 조건을 제시하고 있다."
+      ],
+      "neg": [
+        "우리 회사는 이번에 신입 사원을 모집합니다.",
+        "동아리 회원을 모집하기 위해 포스터를 붙였다.",
+        "지역 축제 자원봉사자를 모집하고 있어요."
+      ]
+    },
+    "딜러": {
+      "grade": "2등급",
+      "ko_def": "자기의 명의와 계산하에 유가증권의 매매를 행하여 이익을 얻으려는 전문중개인(증권회사) 또는 그와 같은 활동을 하는 자를 말한다. 딜러는 증권거래에 있어 자신이 당사자(principal)가 되기 때문에, 자기의 계좌상에서 거래를 행하고, 거래에 따른 모든 리스크를 스스로 부담한다. 딜러는 일시적이지만 일정한 수준의 재고(inventory accounts)를 유지하고, 필요한 경우 재고잔고로부터 즉시 매매를 성립시켜 준다. 딜러의 대표적인 예로는 ",
+      "eng": "dealer",
+      "nonfinancial_meaning": "자동차 딜러 등 일반 판매상",
+      "pos": [
+        "딜러를 확인할 때 시장 상황과 거래 조건을 함께 살펴보세요.",
+        "딜러는 자체 재고를 활용해 고객에게 즉시 매수·매도 체결을 제공하므로, 시장 변동성에 따라 발생하는 리스크를 전적으로 감수한다.",
+        "증권사 딜러는 거래 당일에 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정해 유동성을 유지한다."
+      ],
+      "neg": [
+        "새 차를 사려면 딜러에게 직접 가 보는 게 좋다.",
+        "딜러가 제시한 옵션을 모두 확인하고 계약서를 작성했다.",
+        "주말에 딜러와 만나서 시승 후 가격 협상을 했다."
+      ]
+    },
+    "옵션": {
+      "grade": "2등급",
+      "ko_def": "미리 정해진 조건에 따라 일정한 기간내에 상품이나 유가증권 등의 특정자산을 사거나 팔수 있는 권리(權利)를 의미한다. 옵션매수자(option buyer)는 옵션소유자(option holder)라고도 하며 옵션매도자(option seller)에게 옵션 프리미엄이라고 불리는 일정한 대금을 지불하고 옵션을 매입하여 옵션을 행사할 수 있는 권리를 갖게 되는 자를 말한다. 옵션매도자는 흔히 옵션발행자(option writer) 또는 옵션 그랜터(opti",
+      "eng": "option",
+      "nonfinancial_meaning": "제품/자동차의 선택 사양(추가 기능)",
+      "pos": [
+        "옵션이 무엇인지 쉽게 설명해 주세요.",
+        "투자자는 주가 상승에 대비해 콜 옵션을 매수하고, 프리미엄을 지불해 향후 일정 가격에 주식을 살 권리를 확보했다.",
+        "기업은 환율 변동 위험을 헤지하기 위해 풋 옵션을 매도하여 옵션 프리미엄을 수취했다."
+      ],
+      "neg": [
+        "새 차를 살 때 선루프와 파노라마 루프 옵션을 추가했어요.",
+        "스마트폰을 구매했는데 무선 충전 옵션이 기본에 포함돼 있더라.",
+        "주방 리모델링을 하면서 조명 색상 변경 옵션을 선택했어요."
+      ]
+    },
+    "인수": {
+      "grade": "2등급",
+      "ko_def": "유가증권을 발행함에 있어 이를 매출할 목적으로 그 유가증권의 발행인으로부터 그 유가증권의 전부 또는 일부를 취득하거나, 이를 취득하는 자가 없을 때에 그 잔여분을 취득하는 계약을 하거나, 수수료를 받고 발행인을 위하여 당해 유가증권의 모집 또는 매출을 주선하거나, 기타 직접 간접으로 유가증권의 모집 또는 매출을 분담하는 것을 말한다.",
+      "eng": "underwriting",
+      "nonfinancial_meaning": "택배 인수, 인수인계 등 '받아서 넘겨받음'",
+      "pos": [
+        "인수의 세부 조건과 절차는 거래 유형에 따라 달라질 수 있습니다.",
+        "우리 증권사는 이번에 진행되는 신주 발행을 전액 인수하기로 계약을 체결했다.",
+        "신용등급이 높은 기업의 채권을 인수함으로써 투자 포트폴리오의 안정성을 높였다."
+      ],
+      "neg": [
+        "오늘 아침에 택배를 인수하고 바로 사무실로 가져갔다.",
+        "퇴근 전에 업무 인수인계를 마쳐서 동료에게 인수를 완료했다.",
+        "새로 온 직원에게 프로젝트 파일을 인수해 주었다."
+      ]
+    }
+  },
+  "translations": {
+    "가쇄|financial|0|vie_Latn": {
+      "translation": "Tôi muốn xác nhận quy trình xử lý in ấn chứng khoán.",
+      "provider": "groq"
+    },
+    "가쇄|financial|0|ind_Latn": {
+      "translation": "Saya ingin memeriksa prosedur penanganan gashae.",
+      "provider": "groq"
+    },
+    "가쇄|financial|0|tha_Thai": {
+      "translation": "ฉันต้องการตรวจสอบขั้นตอนการทำกาซว.",
+      "provider": "groq"
+    },
+    "가쇄|financial|0|tgl_Latn": {
+      "translation": "Nais kong suriin ang proseso ng pag-imprenta ng mga detalye sa security paper.",
+      "provider": "groq"
+    },
+    "가쇄|financial|0|mya_Mymr": {
+      "translation": "ကျွန်ုပ်သည် 가쇄 처리 절차ကို စစ်ဆေးလိုပါသည်။",
+      "provider": "groq"
+    },
+    "가쇄|financial|1|vie_Latn": {
+      "translation": "Trước khi phát hành chứng khoán, công việc gạ sủa trên giấy chứng khoán tiêu chuẩn thống nhất đã được hoàn thành, chỉ còn lại thủ tục đóng dấu cuối cùng của Korea Securities Depository.",
+      "provider": "groq"
+    },
+    "가쇄|financial|1|ind_Latn": {
+      "translation": "Menjelang penerbitan saham, pekerjaan pencetakan pada kertas sekuritas standar telah selesai, sehingga hanya prosedur cap akhir Korea Securities Depository yang tersisa.",
+      "provider": "groq"
+    },
+    "가쇄|financial|1|tha_Thai": {
+      "translation": "ก่อนการออกหุ้นกู้ การทำการพิมพ์บนกระดาษหลักทรัพย์มาตรฐานที่กำหนดได้เสร็จสิ้นแล้ว เหลือเพียงขั้นตอนการประทับตราครั้งสุดท้ายของสำนักงานฝากและชำระหลักทรัพย์เกาหลีเท่านั้น.",
+      "provider": "groq"
+    },
+    "가쇄|financial|1|tgl_Latn": {
+      "translation": "Sa paglapit ng pag-isyu ng mga sovereign, natapos na ang pag-imprenta ng mga detalye sa standardized na papel ng securities, at natitira na lamang ang huling proseso ng pagpirma ng Korea Securities Depository.",
+      "provider": "groq"
+    },
+    "가쇄|financial|1|mya_Mymr": {
+      "translation": "အစုရှယ်ယာလက်မှတ် ထုတ်ပေးမည့်အခါ၊ အထွေထွေ စံချိန် စာရွက်ပေါ်တွင် အချက်အလက်များကို ပုံနှိပ်ခြင်း အလုပ် ပြီးစီးပြီး၊ ကိုရီးယား စာရင်းသွင်းဦး၏ နောက်ဆုံး လက်မှတ်ထိုးခြင်း လုပ်ငန်းသာ ကျန်ရှိနေပါသည်။",
+      "provider": "groq"
+    },
+    "가쇄|financial|2|vie_Latn": {
+      "translation": "Trong quá trình phát hành trái phiếu công ty lần này, đã phát hiện lỗi trong các mục ghi ở giai đoạn in sơ khởi, nên quyết định nhận lại giấy in mẫu.",
+      "provider": "groq"
+    },
+    "가쇄|financial|2|ind_Latn": {
+      "translation": "Dalam proses penerbitan obligasi perusahaan kali ini, ditemukan kesalahan pada data yang dicetak pada tahap gashwe, sehingga diputuskan untuk mengambil kembali kertas cetak kontur.",
+      "provider": "groq"
+    },
+    "가쇄|financial|2|tha_Thai": {
+      "translation": "ในกระบวนการออกหุ้นกู้ของบริษัทครั้งนี้ พบข้อผิดพลาดในข้อมูลของขั้นตอนการพิมพ์ (가쇄) จึงตัดสินใจรับกระดาษพิมพ์โครงร่างใหม่.",
+      "provider": "groq"
+    },
+    "가쇄|financial|2|tgl_Latn": {
+      "translation": "Sa prosesong ito ng pag‑isyu ng corporate bond, natuklasan ang pagkakamali sa mga detalye sa yugto ng gashwe, kaya napagpasyahan naming muling kunin ang papel na may outline printing.",
+      "provider": "groq"
+    },
+    "가쇄|financial|2|mya_Mymr": {
+      "translation": "ဤကုမ္ပဏီအကြွေးထုတ်လုပ်မှုလုပ်ငန်းစဉ်တွင် 가쇄 အဆင့်တွင် အချက်အလက်မှားယွင်းမှုတစ်ခုတွေ့ရှိခဲ့ပြီး၊ အကြမ်းဖျဉ်းပုံနှင့် ပုံနှိပ်စာရွက်ကို ထပ်မံလက်ခံရန် ဆုံးဖြတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|0|vie_Latn": {
+      "translation": "Tôi đã kiệt sức vì cuộc sống thường ngày như bị trói buộc trong xiềng xích.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|0|ind_Latn": {
+      "translation": "Aku lelah dengan rutinitas yang terasa terikat oleh belenggu.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|0|tha_Thai": {
+      "translation": "ฉันเหนื่อยล้ากับชีวิตประจำวันที่เหมือนถูกมัดไว้ในโซ่",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|0|tgl_Latn": {
+      "translation": "Napagod na ako sa pang-araw-araw na tila nakagapos sa tanikala.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|0|mya_Mymr": {
+      "translation": "အကျွံတံဖြင့် ပိတ်ထားသလို ခံစားရသော နေ့စဉ်ဘဝကြောင့် စိတ်ပင်ပန်းသွားပြီ။",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|1|vie_Latn": {
+      "translation": "Anh ấy đã đứt xiềng xích và lên đường tìm một con đường mới.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|1|ind_Latn": {
+      "translation": "Dia memutus belenggu dan memulai mencari jalan baru.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|1|tha_Thai": {
+      "translation": "เขาตัดโซ่และออกเดินทางเพื่อค้นหาเส้นทางใหม่",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|1|tgl_Latn": {
+      "translation": "Pinutol niya ang mga tanikala at naghanap ng bagong landas.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|1|mya_Mymr": {
+      "translation": "သူသည် အကွပ်အတည်းကို ဖြတ်တောက်ပြီး အသစ်သော လမ်းကို ရှာဖွေထွက်သွားခဲ့သည်။",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|2|vie_Latn": {
+      "translation": "Nếu thoát khỏi những áp bức giống như xiềng xích, bạn sẽ có thể nếm trải tự do thực sự.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|2|ind_Latn": {
+      "translation": "Jika Anda melepaskan diri dari penindasan seperti belenggu, Anda dapat merasakan kebebasan sejati.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|2|tha_Thai": {
+      "translation": "หากหลุดพ้นจากการกดขี่เช่นโซ่ตรวน คุณจะได้สัมผัสอิสรภาพที่แท้จริง",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|2|tgl_Latn": {
+      "translation": "Kung makaalis ka sa mga paghihigpit na katulad ng tanikala, mararanasan mo ang tunay na kalayaan.",
+      "provider": "groq"
+    },
+    "가쇄|nonfinancial|2|mya_Mymr": {
+      "translation": "အကျဉ်းချုပ်ကဲ့သို့သော အဖိအားမှ လွတ်မြောက်နိုင်လျှင် တကယ့် လွတ်လပ်မှုကို ခံစားနိုင်မည်။",
+      "provider": "groq"
+    },
+    "간주|financial|0|vie_Latn": {
+      "translation": "Tôi muốn xác nhận quy trình xử lý việc coi là.",
+      "provider": "groq"
+    },
+    "간주|financial|0|ind_Latn": {
+      "translation": "Saya ingin memeriksa prosedur penganggapannya.",
+      "provider": "groq"
+    },
+    "간주|financial|0|tha_Thai": {
+      "translation": "ข้าพเจ้าต้องการตรวจสอบขั้นตอนการถือว่า",
+      "provider": "groq"
+    },
+    "간주|financial|0|tgl_Latn": {
+      "translation": "Nais kong alamin ang proseso ng pagkakakonsidera.",
+      "provider": "groq"
+    },
+    "간주|financial|0|mya_Mymr": {
+      "translation": "အယူအဆအရ လုပ်ထုံးလုပ်နည်းကို အတည်ပြုလိုပါသည်။",
+      "provider": "groq"
+    },
+    "간주|financial|1|vie_Latn": {
+      "translation": "Nếu trong thời hạn quy định, quý vị không nêu ra bất kỳ phản đối nào đối với các điều khoản giao dịch tài chính đã được sửa đổi, thì sẽ được coi là đã đồng ý với nội dung sửa đổi.",
+      "provider": "groq"
+    },
+    "간주|financial|1|ind_Latn": {
+      "translation": "Jika Anda tidak mengajukan keberatan secara terpisah dalam jangka waktu yang ditentukan terhadap syarat dan ketentuan transaksi keuangan yang telah diubah, maka hal tersebut akan dianggap sebagai persetujuan Anda terhadap isi revisi tersebut.",
+      "provider": "groq"
+    },
+    "간주|financial|1|tha_Thai": {
+      "translation": "หากท่านไม่ได้ยื่นข้อโต้แย้งใด ๆ ภายในกำหนดเวลาที่ระบุเกี่ยวกับเงื่อนไขการทำธุรกรรมทางการเงินที่มีการเปลี่ยนแปลง จะถือว่าท่านได้ให้ความยินยอมต่อเนื้อหาการแก้ไขดังกล่าว.",
+      "provider": "groq"
+    },
+    "간주|financial|1|tgl_Latn": {
+      "translation": "Kung hindi kayo maghahain ng anumang pagtutol sa loob ng itinakdang panahon hinggil sa binagong mga tuntunin ng transaksyon sa pananalapi, ituring na sumasang-ayon kayo sa mga binagong nilalaman.",
+      "provider": "groq"
+    },
+    "간주|financial|1|mya_Mymr": {
+      "translation": "ပြင်ဆင်ထားသော ငွေကြေးအရောင်းအဝယ် စည်းကမ်းများအတွက် သတ်မှတ်ထားသော အချိန်အတွင်း သီးခြား အကြံပြုချက် မတင်သွင်းပါက၊ အဆိုပါ ပြင်ဆင်ချက်များကို သင် သဘောတူကြောင်း အယူအဆထားသည်ဟု သတ်မှတ်ပါသည်။",
+      "provider": "groq"
+    },
+    "간주|financial|2|vie_Latn": {
+      "translation": "Nếu không thể đáp ứng số tiền yêu cầu đến hạn nộp thêm tiền bảo đảm, sẽ được coi là đã đồng ý tiến hành giao dịch ngược lại và việc bán buộc sẽ được thực hiện.",
+      "provider": "groq"
+    },
+    "간주|financial|2|ind_Latn": {
+      "translation": "Jika sampai batas waktu pembayaran tambahan jaminan tidak dapat memenuhi jumlah yang diminta, maka dianggap telah menyetujui pelaksanaan penjualan berlawanan, sehingga penjualan paksa akan dilaksanakan.",
+      "provider": "groq"
+    },
+    "간주|financial|2|tha_Thai": {
+      "translation": "หากไม่สามารถชำระจำนวนเงินที่ต้องการภายในกำหนดเวลาการชำระเงินประกันเพิ่มเติม จะถือว่าได้ยินยอมดำเนินการขายตรงกันข้ามและจะมีการดำเนินการขายบังคับ.",
+      "provider": "groq"
+    },
+    "간주|financial|2|tgl_Latn": {
+      "translation": "Kung hindi matugunan ang hinihinging halaga hanggang sa takdang panahon ng pagbayad ng karagdagang kolateral, itinuturing na sumang-ayon ka sa pagsasagawa ng kontraryong bentahan at isasagawa ang sapilitang pagbebenta.",
+      "provider": "groq"
+    },
+    "간주|financial|2|mya_Mymr": {
+      "translation": "အပိုအာမခံငွေထည့်သွင်းရန်အချိန်အတွင်း တောင်းဆိုထားသောငွေပမာဏကို မဖြည့်နိုင်ပါက၊ ဆန့်ကျင်အရောင်းကို သဘောတူညီထားသည်ဟု အဖြစ်သတ်မှတ်ပြီး အတင်းအကျဉ်းရောင်းချမှုကို အကောင်အထည်ဖော်မည်။",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|0|vie_Latn": {
+      "translation": "Khi không khí của bài hát đạt cao trào nhất, một đoạn piano du dương đã vang lên.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|0|ind_Latn": {
+      "translation": "Saat suasana lagu mencapai puncaknya, interlude piano yang manis terdengar.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|0|tha_Thai": {
+      "translation": "ในขณะที่บรรยากาศของเพลงถึงจุดสูงสุด มีอินเทอร์ลูดเปียโนที่ไพเราะไหลออกมา",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|0|tgl_Latn": {
+      "translation": "Sa sandaling pinakamataas ang emosyon ng kanta, isang matamis na piano interlude ang tumugtog.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|0|mya_Mymr": {
+      "translation": "သီချင်း၏ အာရုံအထူးအမြင့်ဆုံးအချိန်တွင် ချိုမြိန်သော ပီယာနို အင်တာလူဒ် တစ်ပုဒ် ထွက်ပေါ်လာသည်။",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|1|vie_Latn": {
+      "translation": "Ca sĩ đã bước ra phía trước sân khấu và vẫy tay chào các fan trong suốt phần dạo dài của guitar trước khi chuyển sang đoạn thứ hai.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|1|ind_Latn": {
+      "translation": "Penyanyi keluar ke depan panggung selama interlud gitar yang panjang sebelum beralih ke bait kedua, dan melambaikan tangan kepada para penggemar.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|1|tha_Thai": {
+      "translation": "นักร้องออกมาที่หน้าบนเวทีในระหว่างช่วงกีตาร์ที่ยาวนานก่อนเข้าสู่ท่อนที่สองและโบกมือให้กับแฟน ๆ.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|1|tgl_Latn": {
+      "translation": "Bago magtungo sa ikalawang taludtod, sa mahabang gitara na interludyo, lumabas ang mang-aawit sa harap ng entablado at kumaway sa mga tagahanga.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|1|mya_Mymr": {
+      "translation": "သီချင်းဆိုသူသည် ဒုတိယအပိုင်းသို့ မဝင်မီ ရှည်လျားသော ဂစ်တာအကြားတေးအတွင်း စင်အရှေ့သို့ ထွက်လာပြီး ပရိသတ်များထံ လက်လှုပ်ခတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|2|vie_Latn": {
+      "translation": "Bài này có đoạn violin ngắt quãng sau phần vocal nhẹ nhàng rất ấn tượng.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|2|ind_Latn": {
+      "translation": "Interlud violin yang muncul setelah vokal yang lembut dalam lagu ini sangat mengesankan.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|2|tha_Thai": {
+      "translation": "ส่วนไวโอลินที่เป็นการแทรกระหว่างเสียงร้องที่อ่อนโยนนั้นน่าประทับใจมาก",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|2|tgl_Latn": {
+      "translation": "Ang interlude ng biyolin na sumusunod sa banayad na boses sa kantang ito ay napaka-impresibo.",
+      "provider": "groq"
+    },
+    "간주|nonfinancial|2|mya_Mymr": {
+      "translation": "ဤသီချင်း၏ အေးအေးဆေးဆေး သီဆိုချက်အပြီးထွက်လာသော ဗိုင်ယိုလင် အလယ်တေးသည် အလွန်ထင်ရှားသည်။",
+      "provider": "groq"
+    },
+    "공모|financial|0|vie_Latn": {
+      "translation": "Các điều kiện chi tiết và thủ tục của phát hành công có thể khác nhau tùy theo loại giao dịch.",
+      "provider": "groq"
+    },
+    "공모|financial|0|ind_Latn": {
+      "translation": "Ketentuan dan prosedur detail penawaran umum dapat berbeda tergantung pada jenis transaksi.",
+      "provider": "groq"
+    },
+    "공모|financial|0|tha_Thai": {
+      "translation": "เงื่อนไขและขั้นตอนโดยละเอียดของการเสนอขายต่อสาธารณะอาจแตกต่างกันตามประเภทของการทำธุรกรรม",
+      "provider": "groq"
+    },
+    "공모|financial|0|tgl_Latn": {
+      "translation": "Ang mga detalyadong kondisyon at proseso ng pampublikong alok ay maaaring mag-iba depende sa uri ng transaksyon.",
+      "provider": "groq"
+    },
+    "공모|financial|0|mya_Mymr": {
+      "translation": "အရောင်းအဝယ် အမျိုးအစားအပေါ် မူတည်၍ အများပြည်သူထုတ်ဝေ၏ အသေးစိတ် အခြေအနေများနှင့် လုပ်ထုံးလုပ်နည်းများသည် ကွဲပြားနိုင်သည်။",
+      "provider": "groq"
+    },
+    "공모|financial|1|vie_Latn": {
+      "translation": "Quy trình phát hành công chúng cho việc phát hành cổ phiếu mới phải được sàn giao dịch chứng khoán thẩm định.",
+      "provider": "groq"
+    },
+    "공모|financial|1|ind_Latn": {
+      "translation": "Prosedur penawaran umum untuk penerbitan saham baru harus melalui pemeriksaan oleh bursa efek.",
+      "provider": "groq"
+    },
+    "공모|financial|1|tha_Thai": {
+      "translation": "ขั้นตอนการเสนอขายต่อสาธารณะเพื่อการออกหุ้นใหม่ต้องผ่านการตรวจสอบของตลาดหลักทรัพย์.",
+      "provider": "groq"
+    },
+    "공모|financial|1|tgl_Latn": {
+      "translation": "Ang proseso ng pampublikong alok para sa pag-isyu ng bagong mga stock ay kailangang sumailalim sa pagsusuri ng stock exchange.",
+      "provider": "groq"
+    },
+    "공모|financial|1|mya_Mymr": {
+      "translation": "အသစ်ထုတ်လုပ်သော အစုရှယ်ယာများအတွက် အများထုတ်ဝေ လုပ်ငန်းစဉ်သည် စတော့အိတ်ဈေးကွက်၏ စစ်ဆေးမှုကို ဖြတ်သန်းရမည်။",
+      "provider": "groq"
+    },
+    "공모|financial|2|vie_Latn": {
+      "translation": "Số tiền huy động được thông qua phát hành công chúng sẽ được sử dụng cho các khoản đầu tư tăng trưởng của doanh nghiệp và trả nợ.",
+      "provider": "groq"
+    },
+    "공모|financial|2|ind_Latn": {
+      "translation": "Dana yang diperoleh melalui penawaran umum akan digunakan untuk investasi pertumbuhan perusahaan dan pelunasan utang.",
+      "provider": "groq"
+    },
+    "공모|financial|2|tha_Thai": {
+      "translation": "เงินที่ระดมผ่านการเสนอขายต่อสาธารณะจะถูกนำไปใช้ในการลงทุนเพื่อการเติบโตของบริษัทและการชำระหนี้",
+      "provider": "groq"
+    },
+    "공모|financial|2|tgl_Latn": {
+      "translation": "Ang pondo na nakalikom sa pamamagitan ng public offering ay gagamitin para sa pamumuhunan sa paglago ng kumpanya at pagbabayad ng utang.",
+      "provider": "groq"
+    },
+    "공모|financial|2|mya_Mymr": {
+      "translation": "အများပြည်သူထုတ်ဝေမှတဆင့် စုဆောင်းထားသော ငွေကြေးကို ကုမ္ပဏီ၏ တိုးတက်မှုရင်းနှီးမြှုပ်နှံမှုနှင့် အကြွေးပြန်လည်ပေးဆောင်မှုအတွက် အသုံးပြုသည်။",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|0|vie_Latn": {
+      "translation": "Kết quả điều tra của cảnh sát cho thấy hai người đã âm mưu thực hiện hành vi lừa đảo.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|0|ind_Latn": {
+      "translation": "Berdasarkan hasil penyelidikan polisi, terungkap bahwa kedua orang tersebut telah bersekongkol untuk melakukan penipuan.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|0|tha_Thai": {
+      "translation": "การสอบสวนของตำรวจพบว่าทั้งสองคนได้ร่วมสมรู้ร่วมคิดการฉ้อโกงล่วงหน้า.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|0|tgl_Latn": {
+      "translation": "Ayon sa imbestigasyon ng pulis, natuklasan na nagkasundo ang dalawang tao na isagawa ang pandaraya.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|0|mya_Mymr": {
+      "translation": "ရဲတပ်ဖွဲ့ စုံစမ်းစစ်ဆေးမှုအရ လူနှစ်ဦးသည် လိမ်လည်မှုကို ကြိုတင် အတူတကွ စီစဉ်ခဲ့ကြောင်း ထွက်ပေါ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|1|vie_Latn": {
+      "translation": "Họ đã hợp mưu với người trong nội bộ để rò rỉ thông tin quan trọng của công ty.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|1|ind_Latn": {
+      "translation": "Mereka bersekongkol dengan orang dalam untuk membocorkan informasi penting perusahaan.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|1|tha_Thai": {
+      "translation": "พวกเขาได้สมรู้ร่วมคิดกับผู้เกี่ยวข้องภายในเพื่อรั่วไหลข้อมูลสำคัญของบริษัท",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|1|tgl_Latn": {
+      "translation": "Nagkonspira sila kasama ang isang insider upang ilantad ang mahahalagang impormasyon ng kumpanya.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|1|mya_Mymr": {
+      "translation": "သူတို့သည် အတွင်းရေးရာအဖွဲ့ဝင်နှင့် အတူတကွ စီစဉ်ကာ ကုမ္ပဏီ၏ အရေးကြီးသော အချက်အလက်များကို ထုတ်ဖော်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|2|vie_Latn": {
+      "translation": "Tôi đã biết muộn rằng những người bạn của tôi đã âm mưu lừa dối tôi.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|2|ind_Latn": {
+      "translation": "Saya baru menyadari bahwa teman-teman saya bersekongkol satu sama lain untuk menipu saya.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|2|tha_Thai": {
+      "translation": "ฉันได้ทราบช้า ๆ ว่าเพื่อน ๆ ของฉันได้ร่วมสมรู้ร่วมคิดกันเพื่อหลอกลวงฉัน",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|2|tgl_Latn": {
+      "translation": "Nalaman ko nang huli na nagkasabwatan ang mga kaibigan ko upang lokohin ako.",
+      "provider": "groq"
+    },
+    "공모|nonfinancial|2|mya_Mymr": {
+      "translation": "ငါ့ကို လိမ်လည်ရန် မိတ်ဆွေတွေ အတူတကွ လက်တွဲစီစဉ်ခဲ့ကြောင်းကို နောက်ကျပြီး သိခဲ့တယ်။",
+      "provider": "groq"
+    },
+    "공채|financial|0|vie_Latn": {
+      "translation": "Tôi muốn xác nhận các điều kiện và cấu trúc lợi nhuận của trái phiếu công.",
+      "provider": "groq"
+    },
+    "공채|financial|0|ind_Latn": {
+      "translation": "Saya ingin memeriksa syarat dan struktur pendapatan obligasi pemerintah.",
+      "provider": "groq"
+    },
+    "공채|financial|0|tha_Thai": {
+      "translation": "ฉันต้องการตรวจสอบเงื่อนไขและโครงสร้างผลตอบแทนของพันธบัตรสาธารณะ",
+      "provider": "groq"
+    },
+    "공채|financial|0|tgl_Latn": {
+      "translation": "Gusto kong suriin ang mga kondisyon at estruktura ng kita ng pampublikong bono.",
+      "provider": "groq"
+    },
+    "공채|financial|0|mya_Mymr": {
+      "translation": "အများပြည်သူအကြွေးစာရင်း၏ အခြေအနေများနှင့် အကျိုးအမြတ် ဖွဲ့စည်းပုံကို စစ်ဆေးလိုပါသည်။",
+      "provider": "groq"
+    },
+    "공채|financial|1|vie_Latn": {
+      "translation": "Khi biến động lãi suất mở rộng, vốn đang đổ vào các trái phiếu công, vốn dễ bảo đảm nguyên gốc và ổn định.",
+      "provider": "groq"
+    },
+    "공채|financial|1|ind_Latn": {
+      "translation": "Seiring dengan meningkatnya volatilitas suku bunga, dana mengalir ke obligasi pemerintah yang mudah menjamin pokok dan stabil.",
+      "provider": "groq"
+    },
+    "공채|financial|1|tha_Thai": {
+      "translation": "เมื่อความผันผวนของอัตราดอกเบี้ยเพิ่มขึ้น เงินทุนกำลังไหลเข้าพันธบัตรของรัฐที่ค้ำประกันเงินต้นได้ง่ายและมีความมั่นคง",
+      "provider": "groq"
+    },
+    "공채|financial|1|tgl_Latn": {
+      "translation": "Habang lumalawak ang volatility ng mga interest rate, dumadaloy ang pondo patungo sa mga government bond na madaling garantiyahan ang prinsipal at matatag.",
+      "provider": "groq"
+    },
+    "공채|financial|1|mya_Mymr": {
+      "translation": "အတိုးနှုန်းအလှန်အပြောင်းအလဲများ တိုးလာသဖြင့် မူလငွေ အာမခံရလွယ်ကူပြီး တည်ငြိမ်သော အများပြည်သူအကြွေးကဒ်များသို့ ငွေကြွလာနေသည်။",
+      "provider": "groq"
+    },
+    "공채|financial|2|vie_Latn": {
+      "translation": "Đơn vị tự trị địa phương đã quyết định phát hành trái phiếu công để đáp ứng nguồn tài chính cần thiết cho dự án xây dựng hạ tầng quy mô lớn.",
+      "provider": "groq"
+    },
+    "공채|financial|2|ind_Latn": {
+      "translation": "Pemerintah daerah memutuskan untuk menerbitkan obligasi pemerintah daerah guna menutupi dana yang diperlukan untuk proyek pembangunan infrastruktur berskala besar.",
+      "provider": "groq"
+    },
+    "공채|financial|2|tha_Thai": {
+      "translation": "หน่วยปกครองท้องถิ่นได้ตัดสินใจออกพันธบัตรสาธารณะเพื่อจัดหาแหล่งเงินที่จำเป็นสำหรับโครงการก่อสร้างโครงสร้างพื้นฐานขนาดใหญ่",
+      "provider": "groq"
+    },
+    "공채|financial|2|tgl_Latn": {
+      "translation": "Ang lokal na pamahalaan ay nagpasya na mag-isyu ng pampublikong bono upang tustusan ang kinakailangang pondo para sa malakihang proyekto ng imprastruktura.",
+      "provider": "groq"
+    },
+    "공채|financial|2|mya_Mymr": {
+      "translation": "ဒေသဆိုင်ရာ အုပ်ချုပ်ရေးအဖွဲ့သည် ကြီးမားသော အခြေခံအဆောက်အအုံ ဆောက်လုပ်ရေးလုပ်ငန်းအတွက် လိုအပ်သော ငွေကြေးကို ဖြည့်ဆည်းရန် အများပြည်သူအကြွေးစာချုပ်ထုတ်ရန် ဆုံးဖြတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|0|vie_Latn": {
+      "translation": "Tôi đang nỗ lực viết đơn xin việc để trúng tuyển vào đợt tuyển dụng công khai của các công ty lớn trong nửa cuối năm này.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|0|ind_Latn": {
+      "translation": "Saya sedang menyiapkan surat lamaran kerja dengan giat agar dapat lolos seleksi terbuka perusahaan besar pada paruh kedua tahun ini.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|0|tha_Thai": {
+      "translation": "กำลังเขียนใบสมัครงานอย่างตั้งใจเพื่อให้ผ่านการรับสมัครแบบเปิดของบริษัทใหญ่ในครึ่งหลังของปีนี้.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|0|tgl_Latn": {
+      "translation": "Sa ikalawang kalahati ng taon, masigasig akong nagsusulat ng aplikasyon para makapasok sa bukas na pagkuha ng isang malaking kumpanya.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|0|mya_Mymr": {
+      "translation": "ဒီနှစ်အောက်ပိုင်း အကြီးစားကုမ္ပဏီ၏ အများသုံး အလုပ်ခေါ်စာကို အောင်မြင်ရန် အလွန်ကြိုးစားပြီး အလုပ်လျှောက်လွှာကိုရေးသားနေပါတယ်။",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|1|vie_Latn": {
+      "translation": "Anh trai tôi ngay sau khi tốt nghiệp đại học đã đậu tuyển dụng công khai của một đài truyền hình và hiện đang làm PD.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|1|ind_Latn": {
+      "translation": "Kakak saya langsung lulus dari universitas, lalu lolos seleksi terbuka di sebuah perusahaan penyiaran dan kini bekerja sebagai produser.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|1|tha_Thai": {
+      "translation": "พี่ชายของฉันจบมหาวิทยาลัยแล้วทันทีที่ผ่านการรับสมัครเปิดของสถานีโทรทัศน์และทำงานเป็น PD",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|1|tgl_Latn": {
+      "translation": "Ang kuya ko ay nakapasa agad sa pampublikong pagkuha ng isang broadcasting company pagkakatapos niya ng kolehiyo at nagtatrabaho na bilang PD.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|1|mya_Mymr": {
+      "translation": "အစ်ကိုက တက္ကသိုလ်ကို ဘွဲ့ရပြီး ချက်ချင်း တီဗီမီဒီယာ အဖွဲ့အစည်း၏ အများအပြင် အလုပ်ခေါ်ကို အောင်မြင်စွာ ဖြတ်သန်းပြီး PD အဖြစ် အလုပ်လုပ်နေသည်။",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|2|vie_Latn": {
+      "translation": "Ngày nay, xu hướng tuyển dụng không định kỳ, tuyển nhân tài khi cần, đang gia tăng so với tuyển dụng công khai định kỳ.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|2|ind_Latn": {
+      "translation": "Akhir-akhir ini, tren peningkatan rekrutmen ad‑hoc yang dilakukan sesuai kebutuhan, dibandingkan dengan rekrutmen publik reguler, sedang meningkat.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|2|tha_Thai": {
+      "translation": "ในปัจจุบัน มีแนวโน้มว่าการสรรหาพนักงานตามความต้องการเพิ่มขึ้น มากกว่าการรับสมัครแบบเปิดประจำ.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|2|tgl_Latn": {
+      "translation": "Sa ngayon, mas tumataas ang trend ng pagkuha ng mga talento kapag kinakailangan kaysa sa regular na bukas na pagre-recruit.",
+      "provider": "groq"
+    },
+    "공채|nonfinancial|2|mya_Mymr": {
+      "translation": "ယခုခေတ်တွင် ပုံမှန် အများသွင်းထက် လိုအပ်သလို လူ့အင်အားကို ရွေးချယ်သည့် အခါခါ အလုပ်ခန့်ထားခြင်း ပိုများလာနေသည်။",
+      "provider": "groq"
+    },
+    "기세|financial|0|vie_Latn": {
+      "translation": "Tôi muốn kiểm tra thông tin thị trường liên quan đến giá chốt.",
+      "provider": "groq"
+    },
+    "기세|financial|0|ind_Latn": {
+      "translation": "Saya ingin memeriksa informasi pasar yang terkait dengan harga penawaran terendah atau tawaran tertinggi yang belum terjual pada hari itu.",
+      "provider": "groq"
+    },
+    "기세|financial|0|tha_Thai": {
+      "translation": "ผมต้องการตรวจสอบข้อมูลตลาดที่เกี่ยวกับราคาอ้างอิง.",
+      "provider": "groq"
+    },
+    "기세|financial|0|tgl_Latn": {
+      "translation": "Gusto kong suriin ang impormasyon sa merkado na may kaugnayan sa presyo ng walang takbo.",
+      "provider": "groq"
+    },
+    "기세|financial|0|mya_Mymr": {
+      "translation": "ကီးဆေ (အရောင်းအနိမ့်စျေးနှုန်း သို့မဟုတ် ဝယ်ယူအမြင့်စျေးနှုန်း) နှင့် ဆိုင်သော စျေးကွက် အချက်အလက်များကို စစ်ဆေးလိုပါသည်။",
+      "provider": "groq"
+    },
+    "기세|financial|1|vie_Latn": {
+      "translation": "Cho đến trước khi thị trường đóng cửa hôm nay, giá chào đã hình thành ở mức 5.200 won, và áp lực mua mạnh đã xuất hiện.",
+      "provider": "groq"
+    },
+    "기세|financial|1|ind_Latn": {
+      "translation": "Sebelum penutupan pasar hari ini, harga penawaran terbentuk pada 5.200 won, dan tekanan beli muncul dengan kuat.",
+      "provider": "groq"
+    },
+    "기세|financial|1|tha_Thai": {
+      "translation": "ก่อนปิดตลาดวันนี้ ราคาอ้างอิงอยู่ที่ 5,200 วอนและแรงซื้อปรากฏอย่างแข็งแรง",
+      "provider": "groq"
+    },
+    "기세|financial|1|tgl_Latn": {
+      "translation": "Sa pagtatapos ng kalakalan ngayong araw, ang presyong indikasyon ay umabot sa 5,200 won, at nagpakita ng matinding pagnanais ng pagbili.",
+      "provider": "groq"
+    },
+    "기세|financial|1|mya_Mymr": {
+      "translation": "ယနေ့ စတော့အင်ဒက်စ် အပြီးမတိုင်မီ အကွက်အတွင်း အကောင်းဆုံးဝယ်ဈေး(သို့မဟုတ် အကောင်းဆုံးရောင်းဈေး) ကို 5,200 ဝွန်းအဖြစ် ဖွဲ့စည်းပြီး ဝယ်ယူလိုအားကောင်းစွာ ပေါ်ထွက်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "기세|financial|2|vie_Latn": {
+      "translation": "So với ngày trước, mức giá cơ sở đã tăng mạnh, khiến các mức chào bán bán của nhà đầu tư giảm mạnh.",
+      "provider": "groq"
+    },
+    "기세|financial|2|ind_Latn": {
+      "translation": "Seiring dengan kenaikan signifikan harga penawaran (quote) dibandingkan hari sebelumnya, penawaran jual investor menurun tajam.",
+      "provider": "groq"
+    },
+    "기세|financial|2|tha_Thai": {
+      "translation": "เมื่อเทียบกับวันก่อน ราคาอ้างอิงเพิ่มขึ้นอย่างมาก ทำให้ราคาขายของนักลงทุนลดลงอย่างรวดเร็ว",
+      "provider": "groq"
+    },
+    "기세|financial|2|tgl_Latn": {
+      "translation": "Kumpara sa nakaraang araw, tumaas nang malaki ang presyo ng alok, kaya bumaba nang husto ang mga alok na presyo ng pagbebenta ng mga mamumuhunan.",
+      "provider": "groq"
+    },
+    "기세|financial|2|mya_Mymr": {
+      "translation": "မနေ့နှင့်နှိုင်းယှဉ်ပါက အကောင်းဆုံးအဝယ်နှင့်အရောင်းအတိုး(기세) အလွန်တက်လာပြီး၊ ရင်းနှီးမြှုပ်နှံသူများ၏ အရောင်းအတောင်းအတိုးများ အလွန်လျော့ကျသွားခဲ့သည်။",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|0|vie_Latn": {
+      "translation": "Anh ấy đã hoàn thành cuộc marathon với khí thế bốc cháy vì khát khao thắng lợi.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|0|ind_Latn": {
+      "translation": "Dia menyelesaikan maraton dengan semangat kompetitif yang membara.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|0|tha_Thai": {
+      "translation": "เขาได้วิ่งมาราธอนจนสำเร็จด้วยจิตวิญญาณการแข่งขันที่ลุกโชน",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|0|tgl_Latn": {
+      "translation": "Tinapos niya ang marathon nang may naglalagablab na pagnanais na manalo at pusong puno ng sigla.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|0|mya_Mymr": {
+      "translation": "သူသည် အပြိုင်အဆိုင်အလို အားအင်ကြီးစွာဖြင့် မာရသွန်ကို ပြီးမြောက်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|1|vie_Latn": {
+      "translation": "Vào ngày mưa từ lúc bình minh, gió thổi mạnh và tràn đầy sức mạnh.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|1|ind_Latn": {
+      "translation": "Pada hari ketika hujan turun sejak fajar, angin berhembus kencang dengan kekuatan yang meluap.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|1|tha_Thai": {
+      "translation": "ในวันที่ฝนตกตั้งแต่รุ่งเช้า ลมพัดแรงจนเต็มไปด้วยพลัง",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|1|tgl_Latn": {
+      "translation": "Sa araw na umuulan mula pa sa madaling araw, malakas ang hangin at nagpakita ng labis na sigla.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|1|mya_Mymr": {
+      "translation": "မနက်ခင်းကတည်းက မိုးရွာနေတဲ့နေ့မှာ လေက တောင့်တင်းစွာ ပန်ထွက်ပြီး အင်အားအပြည့်အဝ ဖြစ်သွားခဲ့တယ်။",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|2|vie_Latn": {
+      "translation": "Khi người bạn bắt đầu bài phát biểu, khán giả bị cuốn trong khí thế và vỗ tay.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|2|ind_Latn": {
+      "translation": "Saat teman saya memulai pidato, penonton terbawa semangat dan bertepuk tangan.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|2|tha_Thai": {
+      "translation": "เมื่อเพื่อนเริ่มพูดสุนทรพจน์ ผู้ชมก็ถูกพลังของการพูดพัดพาให้ปรบมือ.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|2|tgl_Latn": {
+      "translation": "Nang magsimula ang kaibigan sa talumpati, ang mga tagapakinig ay nabalot ng sigla at nagpalakpakan.",
+      "provider": "groq"
+    },
+    "기세|nonfinancial|2|mya_Mymr": {
+      "translation": "သူငယ်ချင်းက မိန့်ခွန်းကို စတင်ပြောလိုက်သလို၊ ပရိသတ်တွေက အင်အားအပြည့်နဲ့ လှုပ်ရှားပြီး လက်ခုပ်ထိုးခဲ့တယ်။",
+      "provider": "groq"
+    },
+    "단주|financial|0|vie_Latn": {
+      "translation": "Tôi muốn kiểm tra thông tin thị trường liên quan đến cổ phiếu lẻ.",
+      "provider": "groq"
+    },
+    "단주|financial|0|ind_Latn": {
+      "translation": "Saya ingin memeriksa informasi pasar terkait lot ganjil.",
+      "provider": "groq"
+    },
+    "단주|financial|0|tha_Thai": {
+      "translation": "ฉันต้องการตรวจสอบข้อมูลตลาดที่เกี่ยวกับหุ้นจำนวนเล็ก (odd lot)",
+      "provider": "groq"
+    },
+    "단주|financial|0|tgl_Latn": {
+      "translation": "Gusto kong tingnan ang impormasyon sa merkado na may kinalaman sa odd lot.",
+      "provider": "groq"
+    },
+    "단주|financial|0|mya_Mymr": {
+      "translation": "အနည်းငယ်အစု (odd lot) နှင့် ဆိုင်သော စျေးကွက် အချက်အလက်များကို စစ်ဆေးလိုပါသည်။",
+      "provider": "groq"
+    },
+    "단주|financial|1|vie_Latn": {
+      "translation": "Giao dịch cổ phiếu lẻ chỉ giới hạn trong thị trường OTC, do đó tính thanh khoản thường thấp.",
+      "provider": "groq"
+    },
+    "단주|financial|1|ind_Latn": {
+      "translation": "Perdagangan odd lot hanya terbatas pada pasar OTC, sehingga likuiditasnya cenderung rendah.",
+      "provider": "groq"
+    },
+    "단주|financial|1|tha_Thai": {
+      "translation": "การซื้อขายหุ้นจำนวนเล็กจำกัดอยู่เฉพาะในตลาดนอกตลาดหลักทรัพย์ ทำให้สภาพคล่องค่อนข้างต่ำ",
+      "provider": "groq"
+    },
+    "단주|financial|1|tgl_Latn": {
+      "translation": "Ang kalakalan ng odd lot ay limitado lamang sa labas ng palitan, kaya mababa ang likwididad nito.",
+      "provider": "groq"
+    },
+    "단주|financial|1|mya_Mymr": {
+      "translation": "အနည်းငယ်အရေအတွက် (odd‑lot) အရောင်းအဝယ်သည် အော့တီစီ (OTC) စျေးကွက်တွင်သာ ကန့်သတ်ထားသောကြောင့် လည်ပတ်မှု (liquidity) နည်းပါးသော အနေအထားရှိသည်။",
+      "provider": "groq"
+    },
+    "단주|financial|2|vie_Latn": {
+      "translation": "Nếu nhà đầu tư nắm giữ cổ phiếu lẻ, họ có thể gặp khó khăn trong việc bán cho đến khi đạt đủ tối thiểu 10 cổ phiếu, đơn vị giao dịch tối thiểu.",
+      "provider": "groq"
+    },
+    "단주|financial|2|ind_Latn": {
+      "translation": "Jika seorang investor memiliki lot ganjil, ia mungkin sulit untuk menjualnya sampai mencapai unit perdagangan minimum, yaitu 10 saham.",
+      "provider": "groq"
+    },
+    "단주|financial|2|tha_Thai": {
+      "translation": "หากนักลงทุนถือหุ้นจำนวนไม่เต็มล็อต จะอาจขายได้ยากจนกว่าจะครบหน่วยการซื้อขายขั้นต่ำที่ 10 หุ้น",
+      "provider": "groq"
+    },
+    "단주|financial|2|tgl_Latn": {
+      "translation": "Kung ang mamumuhunan ay may hawak na odd lot, maaaring mahirapan siyang magbenta hanggang sa makamit niya ang minimum na kalakhan ng kalakalan na 10 shares.",
+      "provider": "groq"
+    },
+    "단주|financial|2|mya_Mymr": {
+      "translation": "ရင်းနှီးမြှုပ်နှံသူသည် တစ်ခုတည်းသော အရေအတွက် (odd lot) ကို ကိုင်ထားလျှင် အနည်းဆုံး အဝယ်အရေအတွက်ဖြစ်သော ၁၀ ရှယ်ယာကို မပြည့်မီခင် အရောင်းပြုလုပ်ရခက်ခဲနိုင်သည်။",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|0|vie_Latn": {
+      "translation": "Gần đây, tôi quyết tâm ngừng uống rượu và chỉ uống nước mỗi ngày.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|0|ind_Latn": {
+      "translation": "Akhir-akhir ini saya memutuskan untuk berhenti minum alkohol dan hanya minum air setiap hari.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|0|tha_Thai": {
+      "translation": "ช่วงนี้ฉันตั้งใจเลิกดื่มเหล้าและดื่มน้ำเท่านั้นทุกวัน",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|0|tgl_Latn": {
+      "translation": "Kamakailan, nagpasya akong itigil ang pag-inom ng alak at araw-araw ay umiinom lamang ng tubig.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|0|mya_Mymr": {
+      "translation": "ယခုအခါ အရက်မသောက်ရန် ဆုံးဖြတ်ပြီး နေ့စဉ် ရေတစ်ခွက်သာ သောက်နေပါတယ်။",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|1|vie_Latn": {
+      "translation": "Bạn tôi nói mình đã bắt đầu kiêng rượu và đã từ chối lời mời tới buổi uống rượu.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|1|ind_Latn": {
+      "translation": "Teman saya menolak undangan minum karena mengatakan bahwa dia mulai berhenti minum.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|1|tha_Thai": {
+      "translation": "เพื่อนบอกว่าเริ่มงดดื่มแล้วจึงปฏิเสธการเชิญไปดื่ม",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|1|tgl_Latn": {
+      "translation": "Tinanggihan ng kaibigan ko ang imbitasyon sa inuman dahil nagsimula na siyang mag‑quit ng alak.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|1|mya_Mymr": {
+      "translation": "သူငယ်ချင်းက အရက်မသောက်ခြင်းကို စတင်လိုက်တယ်လို့ ပြောပြီး အရက်ပွဲဖိတ်ကြားမှုကို ငြင်းဆိုလိုက်တယ်။",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|2|vie_Latn": {
+      "translation": "Nhờ việc ngừng uống rượu, buổi sáng tôi đầu óc trong sáng và có thể tập trung tốt vào công việc.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|2|ind_Latn": {
+      "translation": "Karena tidak minum alkohol, di pagi hari kepala menjadi segar sehingga dapat lebih fokus pada pekerjaan.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|2|tha_Thai": {
+      "translation": "เพราะการเลิกดื่มทำให้เช้า ๆ หัวของฉันแจ่มใสและสามารถมุ่งเน้นงานได้ดี",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|2|tgl_Latn": {
+      "translation": "Dahil sa pag-iwas ko sa alak, malinaw ang aking ulo tuwing umaga at mas nakakapag-concentrate ako sa trabaho.",
+      "provider": "groq"
+    },
+    "단주|nonfinancial|2|mya_Mymr": {
+      "translation": "အရက်မသောက်ခြင်းကြောင့် မနက်ခင်းမှာ ဦးနှောက်သန့်ရှင်းပြီး အလုပ်ကို အလွယ်တကူ ဂရုစိုက်နိုင်ပါတယ်။",
+      "provider": "groq"
+    },
+    "대권|financial|0|vie_Latn": {
+      "translation": "Xin giải thích “대권” là gì.",
+      "provider": "groq"
+    },
+    "대권|financial|0|ind_Latn": {
+      "translation": "Tolong jelaskan apa itu 대권.",
+      "provider": "groq"
+    },
+    "대권|financial|0|tha_Thai": {
+      "translation": "กรุณาอธิบายว่า “대권” คืออะไร",
+      "provider": "groq"
+    },
+    "대권|financial|0|tgl_Latn": {
+      "translation": "Pakiipaliwanag po kung ano ang 대권.",
+      "provider": "groq"
+    },
+    "대권|financial|0|mya_Mymr": {
+      "translation": "ကျေးဇူးပြု၍ 대권 ဆိုတာဘာလဲဆိုတာရှင်းပြပါ။",
+      "provider": "groq"
+    },
+    "대권|financial|1|vie_Latn": {
+      "translation": "Thông qua việc phát hành 대권, các nhà đầu tư quy mô lớn đã có thể chia sẻ cùng một quyền lợi ngay cả khi nắm giữ số lượng nhỏ.",
+      "provider": "groq"
+    },
+    "대권|financial|1|ind_Latn": {
+      "translation": "Dengan penerbitan 대권, investor skala besar dapat berbagi hak yang sama bahkan dengan investasi kecil.",
+      "provider": "groq"
+    },
+    "대권|financial|1|tha_Thai": {
+      "translation": "ด้วยการออก 대권 นักลงทุนขนาดใหญ่สามารถแบ่งปันสิทธิเดียวกันได้แม้จะลงทุนเพียงจำนวนเงินเล็กน้อย.",
+      "provider": "groq"
+    },
+    "대권|financial|1|tgl_Latn": {
+      "translation": "Sa pamamagitan ng pag-isyu ng 대권, nagkaroon ng kakayahan ang mga malalaking mamumuhunan na kahit na maliit na halaga ay makabahagi ng parehong karapatan.",
+      "provider": "groq"
+    },
+    "대권|financial|1|mya_Mymr": {
+      "translation": "ဒေခွန်းထုတ်发行မှတဆင့် အကြီးအကျယ် ရင်းနှီးမြှုပ်နှံသူများသည် အနည်းငယ်ပမာဏဖြင့်တောင် တူညီသော အခွင့်အရေးများကို မျှဝေနိုင်လာခဲ့သည်။",
+      "provider": "groq"
+    },
+    "대권|financial|2|vie_Latn": {
+      "translation": "Công ty chúng tôi đang xem xét phương án cung cấp thanh khoản bằng cách sử dụng 대권.",
+      "provider": "groq"
+    },
+    "대권|financial|2|ind_Latn": {
+      "translation": "Perusahaan kami sedang meninjau rencana penyediaan likuiditas yang memanfaatkan sekuritas kolektif.",
+      "provider": "groq"
+    },
+    "대권|financial|2|tha_Thai": {
+      "translation": "บริษัทของเรากำลังตรวจสอบแนวทางการจัดหาสภาพคล่องโดยใช้หลักทรัพย์รวม (대권)",
+      "provider": "groq"
+    },
+    "대권|financial|2|tgl_Latn": {
+      "translation": "Ang aming kumpanya ay kasalukuyang nagsusuri ng isang plano para sa pagbibigay ng likwididad gamit ang mga collective securities.",
+      "provider": "groq"
+    },
+    "대권|financial|2|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့ကုမ္ပဏီသည် မကြာသေးမီက အစုစုပေါင်းလက်မှတ်ကို အသုံးပြု၍ ငွေကြေး လွှမ်းမိုးမှု ပံ့ပိုးရေး အစီအစဉ်ကို စဉ်းစားနေသည်။",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|0|vie_Latn": {
+      "translation": "Anh ấy đã đi khắp cả nước để giành ngôi vị tổng thống.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|0|ind_Latn": {
+      "translation": "Dia berkeliling seluruh negeri untuk merebut kursi kepresidenan.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|0|tha_Thai": {
+      "translation": "เขาเดินทางทั่วประเทศเพื่อคว้าตำแหน่งประธานาธิบดี.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|0|tgl_Latn": {
+      "translation": "Naglibot siya sa buong bansa upang makuha ang pinakamataas na kapangyarihang pang‑pangulo.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|0|mya_Mymr": {
+      "translation": "သူသည် သမ္မတအရာကို ရယူရန် တစ်နိုင်ငံလုံးကို လှုပ်ရှားခဲ့သည်။",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|1|vie_Latn": {
+      "translation": "Cuộc tranh luận của các ứng cử viên tranh cử tổng thống sẽ bắt đầu vào tối ngày mai.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|1|ind_Latn": {
+      "translation": "Debat para calon presiden akan dimulai besok malam.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|1|tha_Thai": {
+      "translation": "การโต้วาทีของผู้สมัครตำแหน่งประธานาธิบดีจะเริ่มในคืนพรุ่งนี้.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|1|tgl_Latn": {
+      "translation": "Magsisimula bukas ng gabi ang debate ng mga kandidato sa pagkapangulo.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|1|mya_Mymr": {
+      "translation": "သမ္မတလျှောက်ထားသူများ၏ ဆွေးနွေးပွဲသည် မနက်ဖြန် ညတွင် စတင်မည်။",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|2|vie_Latn": {
+      "translation": "Sau khi nắm giữ quyền lực tối cao, ông đã nhanh chóng triển khai các chính sách cải cách.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|2|ind_Latn": {
+      "translation": "Setelah meraih kekuasaan tertinggi, dia segera melaksanakan kebijakan reformasi.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|2|tha_Thai": {
+      "translation": "หลังจากที่ได้ครองอำนาจสูงสุด เขาได้เร่งดำเนินนโยบายการปฏิรูป",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|2|tgl_Latn": {
+      "translation": "Pagkatapos niyang makuha ang pinakamataas na kapangyarihan, agad niyang isinusulong ang mga repormang patakaran.",
+      "provider": "groq"
+    },
+    "대권|nonfinancial|2|mya_Mymr": {
+      "translation": "အမြင့်ဆုံးအာဏာကိုရယူပြီးနောက်၊ သူသည်ပြုပြင်ပြောင်းလဲရေးမူဝါဒများကိုအလျင်အမြန်အကောင်အထည်ဖော်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "빅뱅|financial|0|vie_Latn": {
+      "translation": "Big Bang có nghĩa là gì?",
+      "provider": "groq"
+    },
+    "빅뱅|financial|0|ind_Latn": {
+      "translation": "Apa yang dimaksud dengan Big Bang?",
+      "provider": "groq"
+    },
+    "빅뱅|financial|0|tha_Thai": {
+      "translation": "บิ๊กแบงหมายถึงอะไร?",
+      "provider": "groq"
+    },
+    "빅뱅|financial|0|tgl_Latn": {
+      "translation": "Ano ang ibig sabihin ng Big Bang?",
+      "provider": "groq"
+    },
+    "빅뱅|financial|0|mya_Mymr": {
+      "translation": "ဘစ်ဘန့်ဆိုတာ ဘာကို အဓိပ္ပာယ်ရသလဲ?",
+      "provider": "groq"
+    },
+    "빅뱅|financial|1|vie_Latn": {
+      "translation": "Sau cuộc cải cách “Big Bang” của thị trường London, các công ty chứng khoán Anh đang vận hành đồng thời vai trò của broker và jobber, và đang tìm kiếm mô hình lợi nhuận mới.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|1|ind_Latn": {
+      "translation": "Setelah Big Bang pasar London, perusahaan sekuritas asal Inggris sedang mencari model pendapatan baru dengan menjalankan broker dan jobber secara bersamaan.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|1|tha_Thai": {
+      "translation": "หลังจากบิ๊กแบงของตลาดลอนดอน บริษัทหลักทรัพย์ของอังกฤษได้ดำเนินการเป็นทั้งโบรกเกอร์และจ๊อบเบอร์พร้อมกันและกำลังมองหาโมเดลรายได้ใหม่.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|1|tgl_Latn": {
+      "translation": "Pagkatapos ng Big Bang ng pamilihan ng London, ang mga kumpanyang pang-sekuridad na Briton ay nagpapatakbo ng parehong broker at jobber nang sabay at naghahanap ng bagong modelo ng kita.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|1|mya_Mymr": {
+      "translation": "လန်ဒန်စျေးကွက်၏ ဘစ်ဘန် ပြုပြင်မှုအပြီး၊ ဗြိတိသျှအခြေပြု စတော့အိတ်ချုပ်ကုမ္ပဏီများသည် ဘရိုကာနှင့် ဂျော့ဘာကို တစ်ပြိုင်နက် လည်ပတ်ကာ အခွင့်အလမ်းအသစ်များကို ရှာဖွေနေသည်။",
+      "provider": "groq"
+    },
+    "빅뱅|financial|2|vie_Latn": {
+      "translation": "Gần đây, các nhà đầu tư trong nước cũng đang kỳ vọng vào hiệu quả tự do hoá phí giao dịch do đợt Big Bang tài chính mang lại, và đang tích cực tăng cường giao dịch cổ phiếu nước ngoài.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|2|ind_Latn": {
+      "translation": "Baru-baru ini, investor domestik juga mengharapkan efek liberalisasi komisi akibat Big Bang, dan secara aktif meningkatkan perdagangan saham luar negeri.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|2|tha_Thai": {
+      "translation": "เมื่อเร็ว ๆ นี้ นักลงทุนในประเทศก็เริ่มคาดหวังผลของการเปิดเสรีค่าธรรมเนียมที่เกิดจากบิ๊กแบง และเพิ่มการซื้อขายหุ้นต่างประเทศอย่างต่อเนื่อง",
+      "provider": "groq"
+    },
+    "빅뱅|financial|2|tgl_Latn": {
+      "translation": "Kamakailan, pati ang mga lokal na mamumuhunan ay umaasa sa epekto ng liberalisasyon ng mga bayarin dulot ng Big Bang, at aktibong nagpapalawak ng kanilang kalakalan sa mga banyagang stock.",
+      "provider": "groq"
+    },
+    "빅뱅|financial|2|mya_Mymr": {
+      "translation": "မကြာသေးမီက အိမ်တွင်း ရင်းနှီးမြှုပ်နှံသူများလည်း ဘစ်ဘန် (Big Bang) ကြောင့် အခကြေးငွေ လွတ်လပ်ရေး အကျိုးအမြတ်ကို မျှော်လင့်ပြီး နိုင်ငံခြား စတော့ရှယ်ယာ အရောင်းဝယ်မှုကို တက်ကြွစွာ တိုးလာကြသည်။",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|0|vie_Latn": {
+      "translation": "Khi nghĩ đến khoảnh khắc vũ trụ sinh ra, ta lại cảm nhận sâu sắc rằng Big Bang là một sự kiện vô cùng vĩ đại.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|0|ind_Latn": {
+      "translation": "Jika memikirkan momen kelahiran alam semesta, saya kembali menyadari betapa besar peristiwa Big Bang itu.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|0|tha_Thai": {
+      "translation": "เมื่อคิดถึงช่วงเวลาที่จักรวาลกำเนิดขึ้น ฉันรู้สึกอีกครั้งว่าบิ๊กแบงเป็นเหตุการณ์ที่ยิ่งใหญ่แค่ไหน",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|0|tgl_Latn": {
+      "translation": "Kapag iniisip mo ang sandali ng pagsilang ng uniberso, muling nararamdaman kung gaano kalaki ang pangyayaring Big Bang.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|0|mya_Mymr": {
+      "translation": "အာကာသက မွေးဖွားခဲ့တဲ့ အခါကို စဉ်းစားရင် ဘစ်ဘန့်က ဘယ်လောက် ကြီးမားတဲ့ ဖြစ်ရပ်တစ်ခုလဲဆိုတာ ထပ်မံ ခံစားရတယ်။",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|1|vie_Latn": {
+      "translation": "Trong bộ phim tài liệu, họ đã giải thích chi tiết cách các ngôi sao và thiên hà hình thành sau Vụ nổ lớn.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|1|ind_Latn": {
+      "translation": "Dalam dokumenter, dijelaskan secara detail bagaimana bintang dan galaksi terbentuk setelah Big Bang.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|1|tha_Thai": {
+      "translation": "ในสารคดีอธิบายอย่างละเอียดว่า หลังจากบิ๊กแบง ดาวและกาแล็กซี่ก่อตัวอย่างไร",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|1|tgl_Latn": {
+      "translation": "Sa dokumentaryo, detalyadong ipinaliwanag kung paano nabuo ang mga bituin at galaksiya pagkatapos ng Big Bang.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|1|mya_Mymr": {
+      "translation": "အထူးသတင်းရုပ်ရှင်တွင် ဗစ်ဘန်အပြီး ကြယ်များနှင့် ဂလက်ဆီများ ဘယ်လို ဖွဲ့စည်းသွားသလဲဆိုတာ အသေးစိတ်ရှင်းပြနေခဲ့သည်။",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|2|vie_Latn": {
+      "translation": "Anh ấy nhìn lên bầu trời đêm và tưởng tượng về lịch sử vũ trụ từ khi Vụ nổ lớn xảy ra cho đến hiện tại.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|2|ind_Latn": {
+      "translation": "Dia melihat langit malam dan membayangkan sejarah alam semesta sejak terjadinya Big Bang hingga kini.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|2|tha_Thai": {
+      "translation": "เขามองดูท้องฟ้ายามค่ำคืนและจินตนาการถึงประวัติศาสตร์ของจักรวาลที่ต่อเนื่องมาจนถึงปัจจุบันตั้งแต่บิ๊กแบงเกิดขึ้น",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|2|tgl_Latn": {
+      "translation": "Habang tinitingnan niya ang kalangitan sa gabi, inisip niya ang kasaysayan ng sansinukob mula nang naganap ang Big Bang hanggang sa kasalukuyan.",
+      "provider": "groq"
+    },
+    "빅뱅|nonfinancial|2|mya_Mymr": {
+      "translation": "သူသည် ညမိုးကောင်းကင်ကို ကြည့်ပြီး ဘစ်ဘန့် ဖြစ်ပွားပြီးနောက် ယခုအထိ ဆက်လက်ဖြစ်ပွားနေသော အာကာသ၏ သမိုင်းကို စိတ်ကူးထုတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "사모|financial|0|vie_Latn": {
+      "translation": "Các điều kiện chi tiết và quy trình của phát hành riêng có thể thay đổi tùy theo loại giao dịch.",
+      "provider": "groq"
+    },
+    "사모|financial|0|ind_Latn": {
+      "translation": "Ketentuan dan prosedur detail dari private placement dapat berbeda tergantung pada jenis transaksi.",
+      "provider": "groq"
+    },
+    "사모|financial|0|tha_Thai": {
+      "translation": "เงื่อนไขและขั้นตอนโดยละเอียดของการจัดจำหน่ายแบบส่วนตัวอาจแตกต่างกันตามประเภทของการทำธุรกรรม",
+      "provider": "groq"
+    },
+    "사모|financial|0|tgl_Latn": {
+      "translation": "Ang mga detalyadong kondisyon at proseso ng private placement ay maaaring mag-iba depende sa uri ng transaksyon.",
+      "provider": "groq"
+    },
+    "사모|financial|0|mya_Mymr": {
+      "translation": "ပုဂ္ဂိုလ်အထူးထုတ်ဝေမှု၏ အသေးစိတ် အခြေအနေများနှင့် လုပ်ထုံးလုပ်နည်းများသည် အရောင်းအဝယ်အမျိုးအစားအပေါ် မူတည်၍ ကွဲပြားနိုင်သည်။",
+      "provider": "groq"
+    },
+    "사모|financial|1|vie_Latn": {
+      "translation": "Công ty chúng tôi đã quyết định thực hiện việc phát hành cổ phiếu mới theo hình thức phát hành riêng tư, chỉ bán trực tiếp cho các nhà đầu tư tổ chức chủ chốt.",
+      "provider": "groq"
+    },
+    "사모|financial|1|ind_Latn": {
+      "translation": "Perusahaan kami memutuskan untuk melakukan penerbitan saham baru secara private placement dan menjualnya secara langsung hanya kepada investor institusi utama.",
+      "provider": "groq"
+    },
+    "사모|financial|1|tha_Thai": {
+      "translation": "บริษัทของเราตัดสินใจดำเนินการออกหุ้นใหม่แบบเสนอขายส่วนบุคคลและขายโดยตรงให้กับนักลงทุนสถาบันหลักเท่านั้น.",
+      "provider": "groq"
+    },
+    "사모|financial|1|tgl_Latn": {
+      "translation": "Ang aming kumpanya ay nagpasya na isagawa ang pag-isyu ng bagong mga share sa pamamagitan ng private placement at direktang ibenta lamang ito sa mga pangunahing institusyunal na mamumuhunan.",
+      "provider": "groq"
+    },
+    "사모|financial|1|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့ကုမ္ပဏီသည် ဤအကြိမ်သစ်หุ้นထုတ်ဝေမှုကို သီးသန့်ပေးသွင်း (private placement) နည်းလမ်းဖြင့် ဆောင်ရွက်ပြီး အဓိက အဖွဲ့အစည်းရင်းနှီးမြှုပ်နှံသူများထံသာ တိုက်ရိုက်ရောင်းချရန် ဆုံးဖြတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "사모|financial|2|vie_Latn": {
+      "translation": "Số tiền thu được thông qua hợp đồng phát hành riêng sẽ được dùng để trả nợ hiện có và đầu tư vào các dự án mới.",
+      "provider": "groq"
+    },
+    "사모|financial|2|ind_Latn": {
+      "translation": "Dana yang diperoleh melalui kontrak private placement akan digunakan untuk melunasi utang yang ada dan berinvestasi dalam bisnis baru.",
+      "provider": "groq"
+    },
+    "사모|financial|2|tha_Thai": {
+      "translation": "เงินที่ได้จากสัญญาการจัดจำหน่ายแบบส่วนบุคคลจะถูกใช้เพื่อชำระหนี้ที่มีอยู่และลงทุนในธุรกิจใหม่.",
+      "provider": "groq"
+    },
+    "사모|financial|2|tgl_Latn": {
+      "translation": "Ang pondo na nakuha sa pamamagitan ng pribadong alok na kontrata ay nakatakdang gamitin para sa pagbabayad ng umiiral na utang at para sa pamumuhunan sa bagong negosyo.",
+      "provider": "groq"
+    },
+    "사모|financial|2|mya_Mymr": {
+      "translation": "ပုဂ္ဂလိက အရောင်းစာချုပ်မှ ရရှိသော ငွေကြေးကို လက်ရှိ အကြွေးများကို ပြန်လည်ပေးဆောင်ရန်နှင့် အထူး စီးပွားရေး လုပ်ငန်းများတွင် ရင်းနှီးမြှုပ်နှံရန် အသုံးပြုမည်ဖြစ်သည်။",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|0|vie_Latn": {
+      "translation": "Sau khi bà ra đi, ngôi nhà trở nên trống vắng.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|0|ind_Latn": {
+      "translation": "Setelah nyonya pergi, rumah terasa sepi.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|0|tha_Thai": {
+      "translation": "หลังจากที่คุณแม่จากไป บ้านก็รู้สึกว่างเปล่า",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|0|tgl_Latn": {
+      "translation": "Nang umalis ang ginang, naging walang laman ang bahay.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|0|mya_Mymr": {
+      "translation": "မယ်မယ်က ထွက်သွားပြီးနောက် အိမ်ထဲက ဗလာဖြစ်သွားခဲ့တယ်။",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|1|vie_Latn": {
+      "translation": "Sau một thời gian dài, tôi gặp lại bà, cùng nhau uống trà và trò chuyện.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|1|ind_Latn": {
+      "translation": "Setelah sekian lama, saya bertemu dengan nyonya, lalu minum teh sambil mengobrol.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|1|tha_Thai": {
+      "translation": "หลังจากไม่ได้เจอกันนาน ฉันได้พบกับคุณสาโมและดื่มชาพร้อมพูดคุยกัน",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|1|tgl_Latn": {
+      "translation": "Matagal na mula nang huli, nagkita ako sa ginang, uminom kami ng tsaa at nagkuwentuhan.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|1|mya_Mymr": {
+      "translation": "အချိန်ကြာပြီးနောက် မိန်းမကိုတွေ့ပြီး လက်ဖက်ရည်သောက်ပြီး စကားပြောခဲ့တယ်။",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|2|vie_Latn": {
+      "translation": "Nụ cười ấm áp của thưa bà thật thu hút ánh mắt.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|2|ind_Latn": {
+      "translation": "Senyum hangat Nyonya itu tampak jelas di mataku.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|2|tha_Thai": {
+      "translation": "รอยยิ้มอุ่นของคุณผู้หญิงโดดเด่นต่อสายตา",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|2|tgl_Latn": {
+      "translation": "Ang mainit na ngiti ng ginang ay kapansin-pansin sa mata.",
+      "provider": "groq"
+    },
+    "사모|nonfinancial|2|mya_Mymr": {
+      "translation": "အမျိုးသမီး၏ အပူအေးသော အပြုံးသည် မျက်စိထဲတွင် ထင်ရှားနေသည်။",
+      "provider": "groq"
+    },
+    "상장|financial|0|vie_Latn": {
+      "translation": "Niêm yết có nghĩa là gì?",
+      "provider": "groq"
+    },
+    "상장|financial|0|ind_Latn": {
+      "translation": "Apa yang dimaksud dengan pencatatan di bursa saham?",
+      "provider": "groq"
+    },
+    "상장|financial|0|tha_Thai": {
+      "translation": "การจดทะเบียนในตลาดหลักทรัพย์หมายถึงอะไร?",
+      "provider": "groq"
+    },
+    "상장|financial|0|tgl_Latn": {
+      "translation": "Ano ang ibig sabihin ng paglista?",
+      "provider": "groq"
+    },
+    "상장|financial|0|mya_Mymr": {
+      "translation": "စာရင်းဝင်ခြင်းသည် ဘာကို အဓိပ္ပာယ်ရသလဲ?",
+      "provider": "groq"
+    },
+    "상장|financial|1|vie_Latn": {
+      "translation": "Samsung Electronics đang tiến hành thúc đẩy việc niêm yết cổ phiếu, bao gồm cả các lĩnh vực kinh doanh mới, đến cuối năm 2025.",
+      "provider": "groq"
+    },
+    "상장|financial|1|ind_Latn": {
+      "translation": "Samsung Electronics sedang mendorong pencatatan saham yang mencakup unit bisnis baru hingga akhir tahun 2025.",
+      "provider": "groq"
+    },
+    "상장|financial|1|tha_Thai": {
+      "translation": "ซัมซุงอิเล็กทรอนิกส์กำลังผลักดันการจดทะเบียนหุ้นในตลาดหลักทรัพย์รวมถึงส่วนธุรกิจใหม่จนถึงปลายปี 2025.",
+      "provider": "groq"
+    },
+    "상장|financial|1|tgl_Latn": {
+      "translation": "Ang Samsung Electronics ay nagsusulong ng paglista ng mga stock, kabilang ang bagong business division, hanggang sa katapusan ng 2025.",
+      "provider": "groq"
+    },
+    "상장|financial|1|mya_Mymr": {
+      "translation": "Samsung Electronics သည် ၂၀၂၅ ခုနှစ် အဆုံးအထိ အဆင့်အသစ်လုပ်ငန်းဌာနများပါဝင်သော စတော့ရှယ်ယာများကို စတော့အိတ်တွင် စာရင်းသွင်းရန် အစီအစဉ်တင်နေသည်။",
+      "provider": "groq"
+    },
+    "상장|financial|2|vie_Latn": {
+      "translation": "Các doanh nghiệp niêm yết trên thị trường KOSDAQ phải thực hiện nghĩa vụ công bố thông tin định kỳ, do đó dễ dàng giành được sự tin tưởng của nhà đầu tư.",
+      "provider": "groq"
+    },
+    "상장|financial|2|ind_Latn": {
+      "translation": "Perusahaan yang terdaftar di pasar KOSDAQ harus melaksanakan kewajiban pengungkapan informasi secara berkala, sehingga mudah memperoleh kepercayaan investor.",
+      "provider": "groq"
+    },
+    "상장|financial|2|tha_Thai": {
+      "translation": "บริษัทที่จดทะเบียนในตลาดโคสดักต้องปฏิบัติตามหน้าที่การเปิดเผยข้อมูลเป็นประจำ ทำให้ได้รับความเชื่อมั่นจากนักลงทุนได้ง่ายขึ้น.",
+      "provider": "groq"
+    },
+    "상장|financial|2|tgl_Latn": {
+      "translation": "Ang mga kumpanyang nakalista sa pamilihang KOSDAQ ay kailangang tuparin ang regular na obligasyon sa pagbubukas ng impormasyon, kaya madaling makakuha ng tiwala ng mga mamumuhunan.",
+      "provider": "groq"
+    },
+    "상장|financial|2|mya_Mymr": {
+      "translation": "KOSDAQ စျေးကွက်တွင် စာရင်းသွင်းထားသော ကုမ္ပဏီများသည် ပုံမှန် အချက်အလက် ထုတ်ဖော်ရန် တာဝန်ကို အကောင်အထည်ဖော်ရသောကြောင့် ရင်းနှီးမြှုပ်နှံသူများ၏ ယုံကြည်မှုကို ရယူရန် လွယ်ကူသည်။",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|0|vie_Latn": {
+      "translation": "Anh ấy, người được chọn là nhân viên xuất sắc, đã nhận được giấy khen từ công ty.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|0|ind_Latn": {
+      "translation": "Dia yang terpilih sebagai karyawan unggulan menerima piagam penghargaan dari perusahaan.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|0|tha_Thai": {
+      "translation": "เขาได้รับใบประกาศนียบัตรจากบริษัทหลังจากได้รับการคัดเลือกเป็นพนักงานดีเด่น",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|0|tgl_Latn": {
+      "translation": "Siya, na napili bilang natatanging empleyado, ay tumanggap ng sertipiko mula sa kumpanya.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|0|mya_Mymr": {
+      "translation": "ထူးချွန်သော ဝန်ထမ်းအဖြစ် ရွေးချယ်ခံရသူသည် ကုမ္ပဏီထံမှ ဆုစာတမ်းကို လက်ခံခဲ့သည်။",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|1|vie_Latn": {
+      "translation": "Đội của chúng tôi, người đã giành vị trí thứ nhất trong cuộc thi, đã được trao một bằng khen vàng.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|1|ind_Latn": {
+      "translation": "Tim kami yang menempati peringkat pertama dalam kompetisi diberikan sertifikat berwarna emas.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|1|tha_Thai": {
+      "translation": "ทีมของเราที่ได้อันดับหนึ่งในการแข่งขันได้รับใบประกาศรางวัลสีทอง",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|1|tgl_Latn": {
+      "translation": "Ang aming koponan na nakuha ang unang pwesto sa kompetisyon ay binigyan ng gintong sertipiko.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|1|mya_Mymr": {
+      "translation": "ပြိုင်ပွဲတွင် ပထမဆုရခဲ့သော ကျွန်ုပ်တို့အဖွဲ့ကို ရွှေတောက်သော ဆုလက်မှတ် တစ်စောင် ပေးအပ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|2|vie_Latn": {
+      "translation": "Hội sinh viên đã quyết định trao bằng khen cho những sinh viên có thành tích học tập cao.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|2|ind_Latn": {
+      "translation": "Organisasi Mahasiswa memutuskan untuk memberikan sertifikat penghargaan kepada mahasiswa dengan prestasi akademik tinggi.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|2|tha_Thai": {
+      "translation": "สภานักเรียนได้ตัดสินใจมอบใบประกาศนียบัตรให้กับนักเรียนที่มีผลการเรียนสูง.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|2|tgl_Latn": {
+      "translation": "Nagpasya ang student council na magbigay ng sertipiko sa mga mag-aaral na may mataas na akademikong tagumpay.",
+      "provider": "groq"
+    },
+    "상장|nonfinancial|2|mya_Mymr": {
+      "translation": "ကျောင်းသားကောင်စီက ပညာရေးအောင်မြင်မှုအထူးမြင့်သော ကျောင်းသားများကို ဆုစာတမ်းပေးရန် ဆုံးဖြတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "신탁|financial|0|vie_Latn": {
+      "translation": "Trước khi tham gia tín thác, cần kiểm tra những điểm nào?",
+      "provider": "groq"
+    },
+    "신탁|financial|0|ind_Latn": {
+      "translation": "Sebelum bergabung dengan trust, hal‑hal apa yang perlu diperiksa?",
+      "provider": "groq"
+    },
+    "신탁|financial|0|tha_Thai": {
+      "translation": "ก่อนที่จะเข้าร่วมทรัสต์ ควรตรวจสอบอะไรบ้าง?",
+      "provider": "groq"
+    },
+    "신탁|financial|0|tgl_Latn": {
+      "translation": "Ano ang mga dapat mong suriin bago ka sumali sa isang trust?",
+      "provider": "groq"
+    },
+    "신탁|financial|0|mya_Mymr": {
+      "translation": "အထောက်အထားတွင် ဝင်ရောက်မီ ဘာအချက်တွေကို စစ်ဆေးသင့်သလဲ?",
+      "provider": "groq"
+    },
+    "신탁|financial|1|vie_Latn": {
+      "translation": "Sau khi ký hợp đồng ủy thác, tài sản được ủy thác sẽ được tách ra thành tài sản ủy thác và người quản lý ủy thác sẽ quản lý và vận hành chúng.",
+      "provider": "groq"
+    },
+    "신탁|financial|1|ind_Latn": {
+      "translation": "Setelah perjanjian trust dibuat, aset yang dititipkan dipisahkan menjadi aset trust dan dikelola serta dioperasikan oleh trustee.",
+      "provider": "groq"
+    },
+    "신탁|financial|1|tha_Thai": {
+      "translation": "เมื่อทำสัญญาทรัสต์แล้ว สินทรัพย์ที่มอบหมายจะถูกแยกออกเป็นสินทรัพย์ของทรัสต์และผู้รับมอบจะเป็นผู้ดูแลและดำเนินการจัดการ.",
+      "provider": "groq"
+    },
+    "신탁|financial|1|tgl_Latn": {
+      "translation": "Pagkatapos pumasok sa kontrata ng trust, ang ipinagkatiwalaang ari‑arian ay magiging hiwalay na ari‑arian ng trust at pamamahalaan at patatakbuhin ng tagapamahala.",
+      "provider": "groq"
+    },
+    "신탁|financial|1|mya_Mymr": {
+      "translation": "အကြွေးအမြတ်စာချုပ်ကို ချုပ်ဆိုပြီးနောက် အပ်နှံထားသော ပိုင်ဆိုင်မှုသည် အကြွေးအမြတ်ပိုင်ဆိုင်မှုအဖြစ် ခွဲထုတ်ပြီး အထောက်အထားသူက စီမံနှင့် လည်ပတ်မည်။",
+      "provider": "groq"
+    },
+    "신탁|financial|2|vie_Latn": {
+      "translation": "Công ty chúng tôi đã thành lập một đơn vị tín thác riêng để quản lý quỹ hưu trí của nhân viên, và người hưởng lợi được chỉ định là những người nhận hưu trí tương ứng.",
+      "provider": "groq"
+    },
+    "신탁|financial|2|ind_Latn": {
+      "translation": "Perusahaan kami mendirikan trust terpisah untuk mengelola dana pensiun karyawan, dan penerima manfaat ditetapkan sebagai penerima pensiun tersebut.",
+      "provider": "groq"
+    },
+    "신탁|financial|2|tha_Thai": {
+      "translation": "บริษัทของเราได้จัดตั้งทรัสต์แยกเพื่อการบริหารกองทุนบำเหน็จเกษียณของพนักงาน และกำหนดให้ผู้รับผลประโยชน์เป็นผู้รับบำนาญที่เกี่ยวข้อง.",
+      "provider": "groq"
+    },
+    "신탁|financial|2|tgl_Latn": {
+      "translation": "Itinatag ng aming kumpanya ang isang hiwalay na trust para sa pamamahala ng pensyon ng mga empleyado, at itinalaga naming mga benepisyaryo ang mga tumatanggap ng nasabing pensyon.",
+      "provider": "groq"
+    },
+    "신탁|financial|2|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့ကုမ္ပဏီသည် ဝန်ထမ်းများ၏ အနားယူငွေ စီမံခန့်ခွဲမှုအတွက် သီးသန့် အထောက်အထားတစ်ခုကို တည်ထောင်ပြီး၊ အကျိုးခံစားသူများကို ထိုငွေကို လက်ခံရသူများအဖြစ် သတ်မှတ်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|0|vie_Latn": {
+      "translation": "Anh ấy đã nhận được lời tiên tri tại ngôi đền cổ và định hình lại cuộc sống tương lai của mình.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|0|ind_Latn": {
+      "translation": "Dia menerima wahyu di kuil kuno dan merancang kembali hidupnya ke depan.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|0|tha_Thai": {
+      "translation": "เขาได้รับคำทำนายจากวัดโบราณและได้ออกแบบชีวิตใหม่ของเขา",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|0|tgl_Latn": {
+      "translation": "Natanggap niya ang isang orakulo sa lumang templo at muling binuo ang kanyang hinaharap na buhay.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|0|mya_Mymr": {
+      "translation": "သူသည် အဟောင်းသော ဘုရားကျောင်းတွင် ဘုရားသခင်၏ အကြံကို လက်ခံပြီး အနာဂတ်ဘဝကို အသစ်ပြန်စီမံခဲ့သည်။",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|1|vie_Latn": {
+      "translation": "Theo lời tiên tri, hôm nay là ngày tốt để đưa ra quyết định quan trọng.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|1|ind_Latn": {
+      "translation": "Menurut orakel, hari ini adalah hari yang baik untuk membuat keputusan penting.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|1|tha_Thai": {
+      "translation": "ตามคำทำนายของเทพเจ้า วันนี้เป็นวันที่ดีสำหรับการตัดสินใจสำคัญ",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|1|tgl_Latn": {
+      "translation": "Ayon sa orakulo, magandang araw ngayon para gumawa ng mahalagang desisyon.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|1|mya_Mymr": {
+      "translation": "အကြံအရ၊ ဒီနေ့က အရေးကြီးဆုံးဆုံးဖြတ်ချက်တစ်ခုကို လုပ်ရန် အကောင်းဆုံးနေ့ဖြစ်သည်ဟု ဆိုသည်။",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|2|vie_Latn": {
+      "translation": "Người dân trong làng đã hứa sẽ giúp đỡ nhau theo thông điệp mà thần linh truyền đạt.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|2|ind_Latn": {
+      "translation": "Orang‑orang desa berjanji untuk saling membantu mengikuti pesan yang disampaikan oleh orakel.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|2|tha_Thai": {
+      "translation": "ชาวบ้านสัญญาว่าจะช่วยเหลือซึ่งกันและกันตามข้อความที่คำทำนายส่งมอบ",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|2|tgl_Latn": {
+      "translation": "Ang mga taga-nayon ay nangakong tulungan ang isa't isa alinsunod sa mensaheng ipinadala ng orakulo.",
+      "provider": "groq"
+    },
+    "신탁|nonfinancial|2|mya_Mymr": {
+      "translation": "ရွာသားများသည် အော်ရာကလ်က ပို့ဆောင်ခဲ့သော သတင်းအရ အချင်းချင်း အကူအညီပေးရန် ကတိပြုခဲ့သည်။",
+      "provider": "groq"
+    },
+    "주권|financial|0|vie_Latn": {
+      "translation": "Xin vui lòng giải thích chứng khoán cổ phiếu là gì.",
+      "provider": "groq"
+    },
+    "주권|financial|0|ind_Latn": {
+      "translation": "Jelaskan apa itu “주권” (sertifikat saham).",
+      "provider": "groq:openai/gpt-oss-120b"
+    },
+    "주권|financial|0|tha_Thai": {
+      "translation": "กรุณาอธิบายว่าใบหุ้นคืออะไร",
+      "provider": "groq"
+    },
+    "주권|financial|0|tgl_Latn": {
+      "translation": "Pakialam ko kung ano ang \"stock certificate\" (o \"share certificate\") sa konteksto ng terminolohiyang pampinansyal.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|0|mya_Mymr": {
+      "translation": "အစုရှယ်ယာလက်မှတ်ကဘာလဲဆိုတာရှင်းပြပါ။",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "주권|financial|1|vie_Latn": {
+      "translation": "Sau khi ký hợp đồng mua bán cổ phiếu, nhà đầu tư chỉ có thể chuyển nhượng cổ phiếu khi đã nhận được chứng chỉ cổ phần.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|1|ind_Latn": {
+      "translation": "Setelah menandatangani perjanjian jual beli saham, investor harus segera menerima sertifikat saham agar dapat mengalihkan saham tersebut.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|1|tha_Thai": {
+      "translation": "หลังจากลงนามในสัญญาซื้อขายหุ้นแล้ว นักลงทุนต้องได้รับใบหุ้นทันทีเพื่อจะสามารถโอนหุ้นได้",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "주권|financial|1|tgl_Latn": {
+      "translation": "Pagkatapos pirmahan ang kontrata ng pagbili at pagbebenta ng mga stock, dapat agad matanggap ng mamumuhunan ang sertipiko ng pag-aari ng stock upang mailipat ang mga ito.",
+      "provider": "groq"
+    },
+    "주권|financial|1|mya_Mymr": {
+      "translation": "주식 매매 계약서에 서명한 후, 투자자는 즉시 주식 증서를 발급받아야만 주식을 양도할 수 있습니다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|2|vie_Latn": {
+      "translation": "Công ty phải phát hành chứng khoán ngay khi đến hạn thanh toán cổ phiếu mới, và các chứng khoán vi phạm điều này sẽ bị coi là vô hiệu.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "주권|financial|2|ind_Latn": {
+      "translation": "Perusahaan wajib menerbitkan saham tanpa penundaan setelah jatuh tempo pembayaran saham baru, dan saham yang diterbitkan dengan melanggar ketentuan ini dinyatakan tidak sah.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|2|tha_Thai": {
+      "translation": "บริษัทต้องออกใบหุ้นโดยทันทีเมื่อครบกำหนดวันชำระค่าหุ้นใหม่ หากฝ่าฝืน ใบหุ้นที่ออกโดยขัดต่อข้อกำหนดดังกล่าวจะถือเป็นโมฆะ",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|financial|2|tgl_Latn": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "주권|financial|2|mya_Mymr": {
+      "translation": "บริษัทต้องออกใบหุ้นทันทีเมื่อครบกำหนดวันชำระค่าหุ้นใหม่ หากฝ่าฝืน ใบหุ้นที่ออกนั้นจะถือว่าไม่มีผลบังคับ",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|nonfinancial|0|vie_Latn": {
+      "translation": "Quốc gia chúng ta đang hợp tác với cộng đồng quốc tế để bảo vệ chủ quyền.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|0|ind_Latn": {
+      "translation": "Negara kami bekerja sama dengan komunitas internasional untuk melindungi kedaulatan.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|0|tha_Thai": {
+      "translation": "ประเทศของเราได้ร่วมมือกับประชาคมระหว่างประเทศเพื่อปกป้องอำนาจอธิปไตย",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|nonfinancial|0|tgl_Latn": {
+      "translation": "Nagtataguyod ang aming bansa ng soberanya sa pamamagitan ng pakikipagtulungan sa internasyonal na komunidad.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|nonfinancial|0|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့နိုင်ငံသည် အုပ်ချုပ်ခွင့်ကို ကာကွယ်ရန် အပြည်ပြည်ဆိုင်ရာ လူ့အဖွဲ့အစည်းများနှင့် ပူးပေါင်းလုပ်ဆောင်နေသည်။",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|1|vie_Latn": {
+      "translation": "Việc thực hiện đầy đủ trách nhiệm của một quốc gia có chủ quyền là nghĩa vụ của công dân.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "주권|nonfinancial|1|ind_Latn": {
+      "translation": "Melaksanakan tanggung jawab sebagai negara berdaulat adalah kewajiban rakyat.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|1|tha_Thai": {
+      "translation": "การปฏิบัติตามความรับผิดชอบในฐานะประเทศอธิปไตยเป็นหน้าที่ของประชาชน",
+      "provider": "gemini"
+    },
+    "주권|nonfinancial|1|tgl_Latn": {
+      "translation": "Ang pagtupad sa mga responsibilidad bilang isang soberanong bansa ay tungkulin ng mamamayan.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|1|mya_Mymr": {
+      "translation": "အချုပ်အခြာအာဏာပိုင် နိုင်ငံတစ်နိုင်ငံအဖြစ် တာဝန်များကို ကျေပွန်စွာ ထမ်းဆောင်ခြင်းသည် နိုင်ငံသားများ၏ ဝတ္တရားဖြစ်သည်။",
+      "provider": "gemini"
+    },
+    "주권|nonfinancial|2|vie_Latn": {
+      "translation": "Khi sự can thiệp của nước ngoài đe dọa chủ quyền, chúng ta phải đoàn kết.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|2|ind_Latn": {
+      "translation": "Ketika campur tangan asing mengancam kedaulatan, kita harus bersatu.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|2|tha_Thai": {
+      "translation": "เมื่อการแทรกแซงของต่างประเทศคุกคามอธิปไตย เราต้องรวมพลังกัน",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|2|tgl_Latn": {
+      "translation": "Kapag ang pakikialam ng ibang bansa ay nagbabanta sa soberanya, kailangan nating magkaisa.",
+      "provider": "groq"
+    },
+    "주권|nonfinancial|2|mya_Mymr": {
+      "translation": "နိုင်ငံခြား အထူးအထောက်အကူက အုပ်ချုပ်ခွင့်ကို အန္တရာယ်ဖြစ်စေသောအခါ၊ ကျွန်ုပ်တို့သည် ညီညွတ်ရမည်။",
+      "provider": "groq"
+    },
+    "차주|financial|0|vie_Latn": {
+      "translation": "Có những điều nào cần xác nhận trước khi đầu tư liên quan đến người vay cổ phiếu không?",
+      "provider": "groq"
+    },
+    "차주|financial|0|ind_Latn": {
+      "translation": "Apakah ada hal yang perlu diperiksa sebelum berinvestasi terkait dengan peminjaman saham?",
+      "provider": "gemini"
+    },
+    "차주|financial|0|tha_Thai": {
+      "translation": "มีเรื่องใดบ้างที่ควรตรวจสอบก่อนการลงทุนที่เกี่ยวกับผู้กู้หุ้นหรือไม่?",
+      "provider": "groq"
+    },
+    "차주|financial|0|tgl_Latn": {
+      "translation": "Mayroon bang mga dapat kumpirmahin bago mag-invest kaugnay ng pag-utang ng mga shares?",
+      "provider": "groq"
+    },
+    "차주|financial|0|mya_Mymr": {
+      "translation": "အစုရှယ်ယာချေးယူသူနှင့်ပတ်သက်၍ ရင်းနှီးမြှုပ်နှံမှုမပြုမီ စစ်ဆေးသင့်သော အချက်များရှိပါသလား?",
+      "provider": "groq"
+    },
+    "차주|financial|1|vie_Latn": {
+      "translation": "Hôm nay, khách hàng đã đăng ký vay cổ phiếu, vay 5.000 cổ phiếu từ công ty tài chính chứng khoán và ngay lập tức đặt lệnh bán khống.",
+      "provider": "groq"
+    },
+    "차주|financial|1|ind_Latn": {
+      "translation": "Hari ini nasabah mengajukan permohonan peminjaman saham, meminjam 5.000 lembar dari perusahaan sekuritas keuangan, dan langsung menempatkan order short selling.",
+      "provider": "groq"
+    },
+    "차주|financial|1|tha_Thai": {
+      "translation": "วันนี้ ลูกค้าได้ทำการขอยืมหุ้นจำนวน 5,000 หุ้นจากบริษัทหลักทรัพย์การเงิน แล้วจึงสั่งขายชอร์ตทันที",
+      "provider": "groq"
+    },
+    "차주|financial|1|tgl_Latn": {
+      "translation": "Ngayong araw, nag-apply ang kliyente para manghiram ng shares, humiram ng 5,000 na shares mula sa securities financing company, at agad na naglagay ng short‑sell order.",
+      "provider": "groq"
+    },
+    "차주|financial|1|mya_Mymr": {
+      "translation": "ယနေ့တွင် ဖောက်သည်သည် ရှယ်ယာ ငှားရမ်းခွင့် လျှောက်ထားကာ အာမခံ ဘဏ္ဍာရေး ကုမ္ပဏီထံမှ ရှယ်ယာ ၅,၀၀၀ ငှားယူပြီးနောက် ချက်ချင်းပင် ရှယ်ယာ အတိုရောင်းချမှု (short sale) အမှာစာ တင်ခဲ့သည်။",
+      "provider": "gemini"
+    },
+    "차주|financial|2|vie_Latn": {
+      "translation": "Sau khi sử dụng 차주 để vay cổ phiếu và giá thị trường sụt giảm mạnh, chúng tôi đã có thể mở rộng lợi nhuận một cách đáng kể.",
+      "provider": "groq"
+    },
+    "차주|financial|2|ind_Latn": {
+      "translation": "Setelah meminjam saham melalui transaksi kredit dan harga pasar anjlok, kami dapat memperbesar keuntungan secara signifikan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|financial|2|tha_Thai": {
+      "translation": "หลังจากที่เราได้ยืมหุ้นมาขาย (Short selling) แล้วราคาหุ้นร่วงลงอย่างรวดเร็ว เราก็สามารถขยายกำไรได้อย่างมาก",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|financial|2|tgl_Latn": {
+      "translation": "Pagkatapos nating humingi ng pautang ng mga stock (short selling) at bumagsak ang presyo, nakapagpalaki kami ng malaking kita.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|financial|2|mya_Mymr": {
+      "translation": "ရှယ်ယာများကို ယူစား (short selling) ပြုလုပ်ပြီးနောက် စျေးနှုန်းသည် အဆင်သင့်ကျဆင်းသွားသောကြောင့် ကျွန်ုပ်တို့သည် အမြတ်အစွန်းကို အလွန်ကြီးမားစွာ တိုးမြှင့်နိုင်ခဲ့ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|0|vie_Latn": {
+      "translation": "Có vẻ sẽ mưa nhiều vào tuần tới, nên hãy mang theo ô.",
+      "provider": "groq"
+    },
+    "차주|nonfinancial|0|ind_Latn": {
+      "translation": "Karena sepertinya akan turun hujan deras minggu depan, silakan bawa payung.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|0|tha_Thai": {
+      "translation": "สัปดาห์หน้าดูเหมือนจะมีฝนตกหนักมาก โปรดเตรียมร่มไปด้วย",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|0|tgl_Latn": {
+      "translation": "Maraming ulan ang inaasahang mag-uulan sa susunod na linggo, kaya't dalhin mo ang payong.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|0|mya_Mymr": {
+      "translation": "လာမည့်အပတ် မိုးများမည်ထင်သောကြောင့် မိုးထိုးတံဆိပ်ကို ယူပါ။",
+      "provider": "groq"
+    },
+    "차주|nonfinancial|1|vie_Latn": {
+      "translation": "Chủ xe đã mua chiếc xe mới nhưng vẫn còn thủ tục đăng ký.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|1|ind_Latn": {
+      "translation": "Pemilik mobil telah membeli mobil baru, tetapi prosedur registrasinya masih tersisa.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|1|tha_Thai": {
+      "translation": "เจ้าของรถซื้อรถใหม่แล้ว แต่ยังเหลือขั้นตอนการจดทะเบียน",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|1|tgl_Latn": {
+      "translation": "Binili ng may-ari ng kotse ang bagong kotse, ngunit nananatili pa rin ang proseso ng pagrehistro.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|1|mya_Mymr": {
+      "translation": "차량 소유자가 새 차를 구매했으나 아직 등록 절차가 남아 있다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|2|vie_Latn": {
+      "translation": "Tôi đã đi đến xưởng bảo dưỡng để kiểm tra xe cùng với chủ xe.",
+      "provider": "groq"
+    },
+    "차주|nonfinancial|2|ind_Latn": {
+      "translation": "Saya pergi ke bengkel bersama pemilik mobil untuk memeriksa kendaraannya.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|2|tha_Thai": {
+      "translation": "ฉันไปอู่ซ่อมรถเพื่อตรวจสภาพรถร่วมกับเจ้าของรถ",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|2|tgl_Latn": {
+      "translation": "Nagpunta ako sa tahanan ng kotse kasama ang may-ari ng kotse upang suriin ang sasakyan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "차주|nonfinancial|2|mya_Mymr": {
+      "translation": "နောက်တစ်ပတ်တွင် ကားစောင့်နှင့်အတူ ကားကို စစ်ဆေးရန် ကားပြင်ဆင်ရန်ဆိုင်သို့ သွားခဲ့သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|0|vie_Latn": {
+      "translation": "Có vẻ như đã xảy ra vấn đề trong quá trình thanh toán (clearing).",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|0|ind_Latn": {
+      "translation": "Sepertinya terdapat masalah dalam proses penyelesaian (clearing).",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|0|tha_Thai": {
+      "translation": "ดูเหมือนว่าจะมีปัญหาเกิดขึ้นในกระบวนการชำระบัญชี.",
+      "provider": "groq"
+    },
+    "청산|financial|0|tgl_Latn": {
+      "translation": "Mukhang may problema sa proseso ng paglilinis (clearing).",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|0|mya_Mymr": {
+      "translation": "ရှင်းလင်းခြင်း လုပ်ငန်းစဉ်တွင် ပြဿနာများ ဖြစ်ပေါ်နေသကဲ့သို့ ဖြစ်ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|1|vie_Latn": {
+      "translation": "Sàn giao dịch sẽ nhanh chóng thực hiện quy trình thanh lý sau khi hoàn thành việc so sánh giao dịch, nhằm xác định việc giao nộp chứng khoán và thanh toán tiền cho từng thành viên.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|financial|1|ind_Latn": {
+      "translation": "Bursa melakukan proses clearing dengan cepat setelah pencocokan perdagangan selesai, guna memastikan penyerahan sekuritas dan pembayaran dana oleh masing-masing anggota.",
+      "provider": "groq"
+    },
+    "청산|financial|1|tha_Thai": {
+      "translation": "ตลาดซื้อขายจะดำเนินกระบวนการชำระเงินอย่างรวดเร็วหลังจากการจับคู่การซื้อขายเสร็จสิ้น เพื่อยืนยันการส่งมอบหลักทรัพย์และการชำระเงินของสมาชิกแต่ละราย",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|financial|1|tgl_Latn": {
+      "translation": "Pagkatapos ng pagtutugma ng mga transaksyon, mabilis na isinasagawa ng palitan ang proseso ng paglilinis (clearing) upang matiyak ang pagpapalitan ng mga sekuriti at pagbabayad ng mga bayarin ng bawat miyembro.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|1|mya_Mymr": {
+      "translation": "ဈေးကွက်သည် ဝယ်လိုက်ရန်နှင့် ရောင်းလိုက်ရန်များကို နှိုင်းယှဉ်စစ်ဆေးပြီးနောက်၊ အဖွဲ့ဝင်တစ်ခုချင်းစီ၏ စတော့ရှယ်ယာများကို လွှဲပြောင်းပေးခြင်းနှင့် ငွေကြေးများကို ပေးချေခြင်းတို့ကို အတည်ပြုရန်အတွက် ချိန်ညှိမှု (Clearing) လုပ်ငန်းစဉ်ကို မြန်ဆန်စွာ ဆောင်ရွက်သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|2|vie_Latn": {
+      "translation": "Khi vị thế các công cụ phái sinh được thanh toán dựa trên kết quả thanh toán (clearing), nhà đầu tư liên quan sẽ nhận được khoản thanh toán được chuyển ngay lập tức vào tài khoản thanh toán của họ.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|financial|2|ind_Latn": {
+      "translation": "Berdasarkan hasil clearing, ketika posisi derivatif diselesaikan, investor tersebut akan segera menerima transfer dana ke rekening penyelesaian.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|financial|2|tha_Thai": {
+      "translation": "เมื่อผลการชำระเงินทำให้ตำแหน่งอนุพันธ์ถูกชำระเงินตามผลการชำระเงินนั้น ผู้ลงทุนจะได้รับเงินจำนวนเต็มทันทีผ่านบัญชีชำระเงิน",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|financial|2|tgl_Latn": {
+      "translation": "Kapag ang posisyon ng mga derivative ay naayos batay sa resulta ng clearing, agad na matatanggap ng nasabing mamumuhunan ang halagang ililipat sa kanyang settlement account.",
+      "provider": "groq"
+    },
+    "청산|financial|2|mya_Mymr": {
+      "translation": "ရှင်းလင်းမှု (Clearing) ရလဒ်အရ ဒီရစ်ဖ်စ် (Derivatives) နေရာချထားမှုများကို ပေးချေမှု (Settlement) ပြီးဆုံးသွားပါက၊ သက်ဆိုင်ရာ ရင်းနှီးမြှုပ်နှံသူသည် ချက်ချင်းပေးချေမှုအကောင့်သို့ ငွေကြေးကို လွှဲပြောင်းရရှိမည်ဖြစ်သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|nonfinancial|0|vie_Latn": {
+      "translation": "Đã giải quyết xung đột lâu dài và trở thành bạn.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|0|ind_Latn": {
+      "translation": "Setelah menyelesaikan konflik lama, kami menjadi teman lagi.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|0|tha_Thai": {
+      "translation": "ยุติความขัดแย้งที่ยาวนานและกลับมาเป็นเพื่อนกันอีกครั้ง",
+      "provider": "gemini"
+    },
+    "청산|nonfinancial|0|tgl_Latn": {
+      "translation": "Natapos namin ang matagal na alitan at muling naging magkaibigan.",
+      "provider": "groq"
+    },
+    "청산|nonfinancial|0|mya_Mymr": {
+      "translation": "ရှေးယခင် ကြာရှည်စွာ ရှိခဲ့သော ဆွေးနွေးမှုများကို ရှင်းလင်းပြီး ပြန်လည် မိတ်ဆွေဖြစ်ကြသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|nonfinancial|1|vie_Latn": {
+      "translation": "Để làm sạch những sai lầm trong quá khứ, cần phải xin lỗi một cách thành thật.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|1|ind_Latn": {
+      "translation": "Untuk mengakhiri kesalahan di masa lalu, diperlukan permintaan maaf yang jujur.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|nonfinancial|1|tha_Thai": {
+      "translation": "เพื่อทำให้ข้อผิดพลาดในอดีตหมดไป จำเป็นต้องขออภัยอย่างตรงไปตรงมา",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|1|tgl_Latn": {
+      "translation": "Upang malutas ang mga nakaraang pagkakamali, kailangan ng tapat na paghingi ng paumanhin.",
+      "provider": "groq"
+    },
+    "청산|nonfinancial|1|mya_Mymr": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|2|vie_Latn": {
+      "translation": "Chúng tôi đã xóa bỏ những hiểu lầm lẫn nhau và đón nhận một khởi đầu mới.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|nonfinancial|2|ind_Latn": {
+      "translation": "Kami telah menyelesaikan kesalahpahaman satu sama lain dan memulai lembaran baru.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "청산|nonfinancial|2|tha_Thai": {
+      "translation": "เราได้ทำความเข้าใจผิดของกันและกันให้หมดแล้วและต้อนรับการเริ่มต้นใหม่",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "청산|nonfinancial|2|tgl_Latn": {
+      "translation": "Nilinis namin ang aming mga hindi pagkakaunawaan at tinanggap ang bagong simula.",
+      "provider": "groq"
+    },
+    "청산|nonfinancial|2|mya_Mymr": {
+      "translation": "ကျွန်တော်တို့သည် တစ်ဦးချင်းစီ၏ အမှားနားလည်မှုကိုရှင်းလင်းပြီး အသစ်သော စတင်မှုကို ကြိုဆိုခဲ့သည်။",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "콜|financial|0|vie_Latn": {
+      "translation": "Khả năng sử dụng tiền vay call có thể thay đổi tùy thuộc vào kết quả đánh giá.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|0|ind_Latn": {
+      "translation": "Ketersediaan dana call dapat berubah-ubah tergantung pada hasil peninjauan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|0|tha_Thai": {
+      "translation": "การใช้ Call อาจเปลี่ยนแปลงได้ตามผลการตรวจสอบ",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "콜|financial|0|tgl_Latn": {
+      "translation": "Ang paggamit ng call loan ay maaaring mag-iba depende sa mga resulta ng pagsusuri.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|0|mya_Mymr": {
+      "translation": "ကောလ်ငွေသည် စစ်ဆေးမှုရလဒ်အပေါ် မူတည်၍ အသုံးပြုနိုင်မှု အခြေအနေကွဲပြားနိုင်သည်။",
+      "provider": "groq"
+    },
+    "콜|financial|1|vie_Latn": {
+      "translation": "Ngân hàng của chúng tôi đã sử dụng các khoản vay qua đêm (call loan) để nhanh chóng bù đắp tình trạng thiếu hụt thanh khoản tạm thời.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|1|ind_Latn": {
+      "translation": "Bank kami menggunakan pinjaman call berjangka satu hari untuk dengan cepat menutupi kekurangan likuiditas sementara.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|1|tha_Thai": {
+      "translation": "ธนาคารของเราได้ใช้สินเชื่อระยะสั้นแบบเรียกคืนได้ทันที (call loan) เพื่อชดเชยภาวะขาดสภาพคล่องชั่วคราวอย่างรวดเร็ว",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|1|tgl_Latn": {
+      "translation": "Ginamit ng aming bangko ang isang-ahon na call loan upang mabilis na pagkatiwalaan ang pansamantalang kakulangan sa likididad.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|1|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့ဘဏ်သည် တစ်ရက်သက်တမ်းရှိသော ကော့လွန် (Call Loan) ကို အသုံးပြု၍ ယာယီအရင်းအမြစ်မလုံလောက်မှုကို မြန်ဆန်စွာဖြည့်တင်းခဲ့ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|2|vie_Latn": {
+      "translation": "Công ty đã sử dụng tiền gọi (call money) dưới hình thức vay ngắn hạn để huy động vốn thanh toán cuối năm.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|2|ind_Latn": {
+      "translation": "Perusahaan menggunakan call money sebagai pinjaman jangka pendek untuk mendanai pembayaran akhir tahun.",
+      "provider": "groq"
+    },
+    "콜|financial|2|tha_Thai": {
+      "translation": "บริษัทได้ใช้เงินกู้ยืมระยะสั้นประเภทเงินกู้เรียกคืน (call money) เพื่อระดมทุนสำหรับการชำระเงิน ณ สิ้นปี",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|2|tgl_Latn": {
+      "translation": "Gumamit ang kumpanya ng call money bilang maikling terminong pagpapautang upang maipon ang pondo para sa mga pagbabayad sa dulo ng taon.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|financial|2|mya_Mymr": {
+      "translation": "ကုမ္ပဏီသည် နှစ်ဆုံး တွေ့ဆုံချေပငွေများအတွက် အတိုချုပ် ငွေကြေးရရှိရန် ကော့လွန် (call loan) ကို အတိုချုပ် ငွေချေးယူမှုအဖြစ် အသုံးပြုခဲ့သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|0|vie_Latn": {
+      "translation": "Khoan đã, mình sẽ gọi cho bạn sau.",
+      "provider": "groq"
+    },
+    "콜|nonfinancial|0|ind_Latn": {
+      "translation": "Tunggu sebentar, nanti saya akan menelepon.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "콜|nonfinancial|0|tha_Thai": {
+      "translation": "เดี๋ยวก่อน เดี๋ยวโทรหา",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|0|tgl_Latn": {
+      "translation": "Sandali lang, tatawagan kita mamaya.",
+      "provider": "groq"
+    },
+    "콜|nonfinancial|0|mya_Mymr": {
+      "translation": "잠깐만, 나중에 전화할게.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|1|vie_Latn": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "콜|nonfinancial|1|ind_Latn": {
+      "translation": "Ide itu bagus, setuju!",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|1|tha_Thai": {
+      "translation": "ไอเดียนี้โอเคเลย โทร!",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|1|tgl_Latn": {
+      "translation": "Ayos ang ideyang iyan, tawagin natin!",
+      "provider": "groq"
+    },
+    "콜|nonfinancial|1|mya_Mymr": {
+      "translation": "그 아이디어 괜찮아, 콜!",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|2|vie_Latn": {
+      "translation": "Khi cuộc họp kết thúc, hãy gọi điện ngay.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|2|ind_Latn": {
+      "translation": "Segera hubungi saya setelah rapat selesai.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|2|tha_Thai": {
+      "translation": "เมื่อประชุมเสร็จแล้ว โทรหาฉันทันที",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|2|tgl_Latn": {
+      "translation": "Pagkatapos ng meeting, mag-call ka agad.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "콜|nonfinancial|2|mya_Mymr": {
+      "translation": "အစည်းအဝေးပြီးသွားတဲ့အခါ ချက်ချင်း ဖုန်းခေါ်ပေးပါ။",
+      "provider": "groq"
+    },
+    "매출|financial|0|vie_Latn": {
+      "translation": "Vui lòng giải thích \"doanh thu\" là gì.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|0|ind_Latn": {
+      "translation": "Jelaskan apa yang dimaksud dengan penjualan sekuritas.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|0|tha_Thai": {
+      "translation": "กรุณาอธิบายว่าการขายหลักทรัพย์คืออะไร?",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "매출|financial|0|tgl_Latn": {
+      "translation": "Pakiusap, ipaliwanag ang kahulugan ng \"pamumuhunan\" (revenue) sa konteksto ng mga terminolohiyang pampinansyal, kung saan ang \"pamumuhunan\" ay tumutukoy sa pag-aalok ng pagbili o pagbebenta ng mga sekuriti na naaayon sa mga patakaran ng Financial Supervisory Commission, na nakatuon sa hindi bababa sa limampung indibidwal sa ilalim ng magkakaparehong kondisyon, at maaaring kasama rito ang mga sekuriti tulad ng mga obligasyon, akta ng pagmamay-ari, o mga karapatan sa pagbili ng bagong akta, pati na rin ang mga sekuriti na inilabas ng mga dayuhang entidad o kumpanya at tinukoy ng Ministro ng Ekonomiya, Finansya, at Industriya.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|0|mya_Mymr": {
+      "translation": "ရောင်းချမှု\" ဆိုသည်မှာ ဘာကို ဆိုလိုသည်ကို ရှင်းပြပေးပါ။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|1|vie_Latn": {
+      "translation": "Công ty chúng tôi đã thực hiện 120 giao dịch bán trái phiếu doanh nghiệp trong quý này, thu hút sự quan tâm cao của các nhà đầu tư.",
+      "provider": "groq"
+    },
+    "매출|financial|1|ind_Latn": {
+      "translation": "Perusahaan kami telah melakukan penawaran umum 120 obligasi pada kuartal ini, yang menarik minat tinggi dari para investor.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|1|tha_Thai": {
+      "translation": "บริษัทของเราได้ดำเนินการออกพันธบัตรจำนวน 120 รายการในไตรมาสนี้ ซึ่งได้รับความสนใจอย่างมากจากผู้ลงทุน",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|1|tgl_Latn": {
+      "translation": "Ang aming kumpanya ay nagsagawa ng 120 na transaksyon sa pagbebenta ng mga korporasyunal na obligasyon ngayong quarter, na nag-akit ng mataas na interes mula sa mga mamumuhunan.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "매출|financial|1|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့၏ ကုမ္ပဏီသည် ဤလစဉ်တွင် အချိုးအစား ၁၂၀ ခုကို ရောင်းချပြီး ရင်းနှီးမြှုပ်နှံသူများ၏ မြင့်မားသော စိတ်ဝင်စားမှုကို ဆွဲဆောင်ခဲ့ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|2|vie_Latn": {
+      "translation": "Ủy ban Giám sát Tài chính gần đây đã siết chặt các thủ tục chào mời đăng ký mua đối với các chứng khoán do các pháp nhân nước ngoài phát hành, thuộc phạm vi các chứng khoán có thể chào bán ra công chúng.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|2|ind_Latn": {
+      "translation": "Komisi Pengawas Keuangan baru-baru ini memperkuat prosedur mengajak pemesanan sekuritas yang diterbitkan oleh perusahaan asing yang termasuk dalam target penjualan.",
+      "provider": "groq"
+    },
+    "매출|financial|2|tha_Thai": {
+      "translation": "คณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ได้เพิ่มความเข้มงวดในขั้นตอนการเสนอขายหลักทรัพย์ที่ออกโดยนิติบุคคลต่างประเทศ ซึ่งเข้าข่ายหลักทรัพย์ที่ออกขายต่อประชาชน",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|2|tgl_Latn": {
+      "translation": "Pinagpatibay ng Komisyon sa Pagpapatupad ng mga Batas sa Pagpapalitan ng Salapi ang mga proseso ng pag-aalok ng pagbabayad para sa mga sekuridad na isinagawa ng mga dayuhang korporasyon na kasama sa saklaw ng mga sekuridad na binibigyan ng halaga.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|financial|2|mya_Mymr": {
+      "translation": "금융감독위원회는 최근 매출 대상에 포함된 외국법인 발행 증권에 대한 청약 권유 절차를 강화했다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|0|vie_Latn": {
+      "translation": "Cà phê của chúng tôi đã có doanh số bán hàng tăng vọt so với dự kiến trong tuần này.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|0|ind_Latn": {
+      "translation": "Kafe kami mengalami peningkatan penjualan yang jauh melampaui perkiraan minggu ini.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|0|tha_Thai": {
+      "translation": "ร้านกาแฟของเรามียอดขายเพิ่มขึ้นอย่างมากในสัปดาห์นี้ มากกว่าที่คาดไว้",
+      "provider": "groq"
+    },
+    "매출|nonfinancial|0|tgl_Latn": {
+      "translation": "Ang aming kapehan ay tumaas nang malaki ang benta ngayong linggo kaysa sa inaasahan.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "매출|nonfinancial|0|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့၏ ကော်ဖီဆိုင်သည် ဤအပတ်တွင် ရှင်းလင်းထားသော ခန့်မှန်းချက်ထက် အရောင်းဝင်ငွေသည် အလွန်ကြီးမားစွာ တိုးတက်ခဲ့ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|1|vie_Latn": {
+      "translation": "Sau khi ra mắt thực đơn mới, doanh thu bán hàng đã tăng ổn định.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|1|ind_Latn": {
+      "translation": "Sejak peluncuran menu baru, penjualan terus meningkat secara konsisten.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|1|tha_Thai": {
+      "translation": "หลังจากนำเมนูใหม่มาใช้ ยอดขายเพิ่มขึ้นอย่างต่อเนื่อง",
+      "provider": "groq"
+    },
+    "매출|nonfinancial|1|tgl_Latn": {
+      "translation": "Matapos ipatupad ang bagong menu, patuloy na tumataas ang benta.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "매출|nonfinancial|1|mya_Mymr": {
+      "translation": "새로운 메뉴를 도입한 이후 매출이 꾸준히 증가하고 있습니다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|2|vie_Latn": {
+      "translation": "Do doanh số của cửa hàng trực tuyến tăng vọt, chúng tôi cần đặt thêm hàng tồn kho.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|2|ind_Latn": {
+      "translation": "Penjualan toko online meningkat tajam sehingga kami harus memesan stok tambahan.",
+      "provider": "groq"
+    },
+    "매출|nonfinancial|2|tha_Thai": {
+      "translation": "ยอดขายของร้านค้าออนไลน์เพิ่มขึ้นอย่างรวดเร็ว ทำให้ต้องสั่งเพิ่มสต็อกสินค้า",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "매출|nonfinancial|2|tgl_Latn": {
+      "translation": "Tumataas nang mabilis ang kita ng online store, kaya kailangan na nating mag-order ng karagdagang inventory.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "매출|nonfinancial|2|mya_Mymr": {
+      "translation": "အွန်လိုင်းဆိုင်၏ရောင်းချမှုများသည်လွန်စွာတိုးမြင့်လာသဖြင့် ပစ္စည်းများကိုထပ်မံအော်ဒါပေးရမည့်အခြေအနေဖြစ်နေပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|0|vie_Latn": {
+      "translation": "Vui lòng giải thích cho tôi biết \"mời chào bán chứng khoán\" là gì.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|0|ind_Latn": {
+      "translation": "Jelaskan apa yang dimaksud dengan penawaran umum.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|0|tha_Thai": {
+      "translation": "กรุณาอธิบายว่า “การเสนอขายต่อสาธารณะ” คืออะไร.",
+      "provider": "groq"
+    },
+    "모집|financial|0|tgl_Latn": {
+      "translation": "Paki-clarify kung ano ang ibig sabihin ng “모집”.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|financial|0|mya_Mymr": {
+      "translation": "စာရင်းအင်းတင်သွင်းမှု (Public Offering) ဆိုတာဘာလဲဆိုတာ ရှင်းပြပေးပါ။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|1|vie_Latn": {
+      "translation": "Công ty chúng tôi đang kêu gọi đầu tư thông qua việc phát hành công khai trái phiếu kỳ hạn 5 năm với quy mô 100 tỷ won.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|1|ind_Latn": {
+      "translation": "Perusahaan kami saat ini sedang melakukan penawaran umum (public offering) obligasi bertenor 5 tahun dengan nilai 100 miliar won, dan mengimbau para investor untuk mengajukan pemesanan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|1|tha_Thai": {
+      "translation": "บริษัทของเราได้เสนอขายตราสารหนี้ระยะ 5 ปี มูลค่า 10,000 ล้านวอนต่อสาธารณะ และกำลังเชิญชวนให้นักลงทุนยื่นคำเสนอซื้อ",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|1|tgl_Latn": {
+      "translation": "Ang aming kumpanya ay nag-aalok ng 5-taong bond na may kabuuang halaga na 10 bilyong won sa pamamagitan ng pampublikong pag‑alok at hinihikayat ang mga mamumuhunan na mag‑subskribe.",
+      "provider": "groq"
+    },
+    "모집|financial|1|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့ကုမ္ပဏီသည် ယခုအခါ ၅ နှစ်သက်တမ်းရှိသော အကြွေးစာများကို ၁၀၀ ဘီလျံဝန်ကျင်အားဖြင့် ဖြန့်ချိပြီး ရင်းနှီးမြှုပ်နှံသူများအား ဝယ်ယူရန် တောင်းဆိုနေပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|2|vie_Latn": {
+      "translation": "Sau khi nhận được sự phê duyệt của Ủy ban Giám sát Tài chính để huy động chứng chỉ quyền mua cổ phần mới, công ty đang đưa ra các điều kiện đồng nhất cho ít nhất 50 nhà đầu tư.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|2|ind_Latn": {
+      "translation": "Setelah memperoleh persetujuan dari Komisi Pengawas Pasar Keuangan untuk melakukan penawaran umum sertifikat hak memesan efek tertentu (SHME), perusahaan tersebut menawarkan syarat-syarat yang seragam kepada lebih dari 50 investor.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|2|tha_Thai": {
+      "translation": "หลังจากได้รับอนุมัติจากคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์เพื่อระดมทุนผ่านใบสำคัญแสดงสิทธิในการจองซื้อหุ้นใหม่ บริษัทได้เสนอเงื่อนไขที่เท่าเทียมกันแก่นักลงทุนจำนวน 50 คนขึ้นไป",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|2|tgl_Latn": {
+      "translation": "Pagkatapos makakuha ng pahintulot mula sa Komisyon sa Pagpapatupad ng mga Batas sa Pamamahala ng Pondo, inilalabas ang mga sertipiko ng opsyon sa bagong bahagi ng tawag sa mga tagapag-inbest na 50 o higit pa, sa pamamagitan ng pag-aalok ng pagbili sa mga pantay na kondisyon.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|financial|2|mya_Mymr": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|nonfinancial|0|vie_Latn": {
+      "translation": "Công ty chúng tôi đang tuyển dụng nhân viên mới lần này.",
+      "provider": "groq"
+    },
+    "모집|nonfinancial|0|ind_Latn": {
+      "translation": "Perusahaan kami sedang merekrut karyawan baru.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|0|tha_Thai": {
+      "translation": "บริษัทของเรากำลังรับสมัครพนักงานใหม่ในครั้งนี้",
+      "provider": "groq"
+    },
+    "모집|nonfinancial|0|tgl_Latn": {
+      "translation": "Ang aming kumpanya ay naghahanap ng bagong empleyado ngayong pagkakataon.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|nonfinancial|0|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့၏ ကုမ္ပဏီသည် ဤအကြိမ်တွင် အသစ်ဝင်ရောက်သူလုပ်သားများကို ခေါ်ယူနေပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|1|vie_Latn": {
+      "translation": "Tôi đã dán áp để tuyển thành viên cho câu lạc bộ.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|1|ind_Latn": {
+      "translation": "Saya menempel poster untuk merekrut anggota klub.",
+      "provider": "groq"
+    },
+    "모집|nonfinancial|1|tha_Thai": {
+      "translation": "ได้ติดโปสเตอร์เพื่อรับสมัครสมาชิกชมรม",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|1|tgl_Latn": {
+      "translation": "Nilagdaan ang poster upang maghikayat ng mga miyembro para sa club.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|1|mya_Mymr": {
+      "translation": "ကလပ်အဖွဲ့ဝင်များကို စုဆောင်းရန် ပိုစတာတင်ခဲ့သည်။",
+      "provider": "groq"
+    },
+    "모집|nonfinancial|2|vie_Latn": {
+      "translation": "Chúng tôi đang tuyển tình nguyện viên cho lễ hội địa phương.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|nonfinancial|2|ind_Latn": {
+      "translation": "Kami sedang mencari sukarelawan untuk festival daerah.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|nonfinancial|2|tha_Thai": {
+      "translation": "กำลังเปิดรับสมัครอาสาสมัครสำหรับงานเทศกาลท้องถิ่น",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "모집|nonfinancial|2|tgl_Latn": {
+      "translation": "Kami ay naghahanap ng mga volunteer para sa lokal na pista.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "모집|nonfinancial|2|mya_Mymr": {
+      "translation": "ဒေသပွဲအတွက် အလှူအဝန်ထမ်းများကို လျှောက်ထားရန် ဖိတ်ခေါ်နေပါသည်.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|financial|0|vie_Latn": {
+      "translation": "Khi kiểm tra nhà môi giới, hãy cùng xem xét tình hình thị trường và các điều kiện giao dịch.",
+      "provider": "groq"
+    },
+    "딜러|financial|0|ind_Latn": {
+      "translation": "Saat memeriksa dealer, perhatikan juga kondisi pasar dan syarat-syarat transaksi.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|0|tha_Thai": {
+      "translation": "เมื่อตรวจสอบดีลเลอร์ ให้พิจารณาภาวะตลาดและเงื่อนไขการประกอบธุรกรรมควบคู่กันไปด้วย",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|0|tgl_Latn": {
+      "translation": "Kapag sinusuri ang dealer, tingnan din ang kalagayan ng merkado at ang mga kondisyon ng transaksyon.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|financial|0|mya_Mymr": {
+      "translation": "ဒီလာ (စိစစ်မှု) ကို စစ်ဆေးသည့်အခါ ဈေးကွက်အခြေအနေနှင့် ငွေကြေးလုပ်ငန်းအခြေအနေများကို တစ်ပြိုင်နက်တည်း လေ့လာကြည့်ပါ။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|1|vie_Latn": {
+      "translation": "Đại lý giao dịch sử dụng hàng tồn kho của mình để cung cấp cho khách hàng giao dịch mua bán ngay lập tức, do đó họ chịu hoàn toàn rủi ro phát sinh từ biến động thị trường.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|financial|1|ind_Latn": {
+      "translation": "Dealer menggunakan persediaan miliknya untuk memberikan eksekusi beli dan jual secara instan kepada nasabah, sehingga sepenuhnya menanggung risiko yang muncul akibat volatilitas pasar.",
+      "provider": "groq"
+    },
+    "딜러|financial|1|tha_Thai": {
+      "translation": "ดีลเลอร์ซึ่งทำหน้าที่เป็นตัวแทนซื้อขายหลักทรัพย์ในนามของตนเองและรับความเสี่ยงทั้งหมดจากการทำธุรกรรม จะใช้คลังสินค้า (inventory) ของตนเองในการดำเนินการซื้อขายให้ลูกค้าทันที จึงต้องรับความเสี่ยงที่เกิดจากความผันผวนของตลาดไว้ทั้งหมด",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|1|tgl_Latn": {
+      "translation": "Ang dealer, sa pamamagitan ng paggamit ng sariling inventory, nagbibigay ng agad na pagkakapagkasundo sa pagbili at pagbebenta sa mga kliyente, kaya't siya ang nagtatanggap ng buong risk na dulot ng pagbabago ng merkado.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|1|mya_Mymr": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|financial|2|vie_Latn": {
+      "translation": "Nhà môi giới của công ty chứng khoán giám sát theo thời gian thực các biến động vị thế phát sinh trong ngày giao dịch và, khi cần thiết, điều chỉnh danh mục đầu tư để duy trì thanh khoản.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|2|ind_Latn": {
+      "translation": "Dealer di perusahaan sekuritas memantau perubahan posisi yang terjadi pada hari transaksi secara real-time, dan menyesuaikan inventarisnya saat diperlukan untuk menjaga likuiditas.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|2|tha_Thai": {
+      "translation": "ดีลเลอร์ของบริษัทหลักทรัพย์จะติดตามการเปลี่ยนแปลงของตำแหน่ง (position) ที่เกิดขึ้นในวันทำการแบบเรียลไทม์ และปรับพอร์ตสินค้าคงคลัง (inventory) เมื่อจำเป็น เพื่อรักษาสภาพคล่องไว้",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|financial|2|tgl_Latn": {
+      "translation": "Ang dealer ng kompanya ng securities ay real‑time na minomonitor ang pagbabago ng posisyon na nagaganap sa araw ng kalakalan, at kung kinakailangan ay inaayos ang imbentaryo upang mapanatili ang likwididad.",
+      "provider": "groq"
+    },
+    "딜러|financial|2|mya_Mymr": {
+      "translation": "증권사의 딜러(자기 명의와 계산으로 유가증권을 매매하여 이익을 추구하며, 거래의 당사자가 되어 자신의 계좌에서 거래를 수행하고 모든 리스크를 부담하며, 일정한 수준의 재고를 유지하고 필요 시 재고로부터 즉시 매매를 성립시키는 전문 중개인)는 거래 당일 발생한 포지션 변동을 실시간으로 모니터링하며, 필요 시 재고를 조정하여 유동성을 유지한다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|0|vie_Latn": {
+      "translation": "Nếu muốn mua xe mới, nên đi thăm đại lý trực tiếp.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|nonfinancial|0|ind_Latn": {
+      "translation": "Jika ingin membeli mobil baru, sebaiknya pergi langsung ke dealer.",
+      "provider": "groq:openai/gpt-oss-120b"
+    },
+    "딜러|nonfinancial|0|tha_Thai": {
+      "translation": "ถ้าต้องการซื้อรถใหม่ ควรไปที่ตัวแทนจำหน่ายโดยตรง",
+      "provider": "groq"
+    },
+    "딜러|nonfinancial|0|tgl_Latn": {
+      "translation": "Mas maganda na pumunta sa dealer para bumili ng bagong kotse.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|0|mya_Mymr": {
+      "translation": "새 차를 사려면 자동차 판매점에 직접 가보는 것이 좋습니다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|1|vie_Latn": {
+      "translation": "Tôi đã kiểm tra tất cả các tùy chọn được đại lý đề xuất và lập hợp đồng.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|nonfinancial|1|ind_Latn": {
+      "translation": "Saya telah memeriksa semua opsi yang ditawarkan oleh dealer dan menyusun kontraknya.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|1|tha_Thai": {
+      "translation": "ได้ตรวจสอบตัวเลือกทั้งหมดที่ตัวแทนจำหน่ายเสนอและจัดทำสัญญา",
+      "provider": "groq"
+    },
+    "딜러|nonfinancial|1|tgl_Latn": {
+      "translation": "Sinuri ko ang lahat ng mga opsyon na inilahad ng dealer at nagsulat ng kontrata.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|nonfinancial|1|mya_Mymr": {
+      "translation": "ကားရောင်းသူက ပေးထားတဲ့ ရွေးချယ်စရာတွေအားလုံးကို စစ်ဆေးပြီး စာချုပ်ကို ရေးဆွဲခဲ့သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|2|vie_Latn": {
+      "translation": "Tôi đã gặp đại lý vào cuối tuần, sau khi lái thử, đã thương lượng giá.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|nonfinancial|2|ind_Latn": {
+      "translation": "Pada akhir pekan, saya bertemu dealer, melakukan test drive, lalu bernegosiasi harga.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "딜러|nonfinancial|2|tha_Thai": {
+      "translation": "ในวันหยุดสุดสัปดาห์ฉันได้พบกับดีลเลอร์และต่อรองราคา หลังจากทดลองขับ",
+      "provider": "groq"
+    },
+    "딜러|nonfinancial|2|tgl_Latn": {
+      "translation": "Nakipag-usap ako sa dealer ng kotse noong weekend, sumubok ng pagmamaneho, at nag-negosyo ng presyo.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "딜러|nonfinancial|2|mya_Mymr": {
+      "translation": "주말에 자동차 딜러를 만나 시승한 후 가격을 협상했습니다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|0|vie_Latn": {
+      "translation": "Bạn vui lòng giải thích một cách dễ hiểu về khái niệm “option” trong tài chính.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|0|ind_Latn": {
+      "translation": "Silakan jelaskan dengan mudah apa itu opsi.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|0|tha_Thai": {
+      "translation": "กรุณาอธิบายอย่างง่ายว่า '옵션' คืออะไร",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|0|tgl_Latn": {
+      "translation": "Pakipaliwanag nang simple kung ano ang opsyon.",
+      "provider": "groq"
+    },
+    "옵션|financial|0|mya_Mymr": {
+      "translation": "ဘဏ္ဍာရေးလောကတွင် အသုံးပြုသော \"အော့ပ်ရှင်\" (Option) ဆိုသည်မှာ မည်သည့်အရာကို ဆိုလိုသည်ကို ရှင်းလင်းစွာ ရှင်းပြပေးပါ။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|1|vie_Latn": {
+      "translation": "Người đầu tư đã mua quyền chọn mua (call option) để chuẩn bị cho sự tăng giá cổ phiếu, và đã trả phí quyền chọn để đảm bảo quyền mua cổ phiếu ở mức giá nhất định trong tương lai.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|1|ind_Latn": {
+      "translation": "Investor membeli opsi call untuk bersiap menghadapi kenaikan harga saham, dan dengan membayar premi, mereka memperoleh hak untuk membeli saham pada harga tertentu di masa depan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|1|tha_Thai": {
+      "translation": "นักลงทุนซื้อออปชันซื้อ (call option) เพื่อป้องกันความเสี่ยงจากการปรับตัวขึ้นของราคาหุ้น โดยจ่ายค่าพรีเมียมเพื่อสิทธิในการซื้อหุ้นในราคาที่กำหนดไว้ล่วงหน้า",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|1|tgl_Latn": {
+      "translation": "Ang mamumuhunan ay bumili ng call option bilang paghahanda sa pagtaas ng presyo ng stock, at nagbayad ng premium upang makamit ang karapatan na bilhin ang shares sa isang takdang presyo sa hinaharap.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|1|mya_Mymr": {
+      "translation": "ရင်းနှီးမြှုပ်နှံသူသည် အစုရှယ်ယာဈေးတက်လာမှုကို ကြိုတင်ကာကွယ်ရန် ကောလ် အော်ပရှင်းကို ဝယ်ယူပြီး၊ ပရီမီယမ်ကို ပေးဆောင်ကာ အနာဂတ်တွင် သတ်မှတ်ထားသော စျေးနှုန်းတွင် အစုရှယ်ယာကို ဝယ်ယူခွင့်ကို အတည်ပြုခဲ့သည်။",
+      "provider": "groq"
+    },
+    "옵션|financial|2|vie_Latn": {
+      "translation": "Công ty đã bán quyền chọn bán (put option) để phòng ngừa rủi ro biến động tỷ giá hối đoái và thu phí quyền chọn.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|2|ind_Latn": {
+      "translation": "Perusahaan tersebut menjual opsi put untuk melakukan lindung nilai terhadap risiko fluktuasi nilai tukar dan menerima premi opsi.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|financial|2|tha_Thai": {
+      "translation": "บริษัทได้ขายออปชันแบบพุทเพื่อป้องกันความเสี่ยงจากการเปลี่ยนแปลงอัตราแลกเปลี่ยนและได้รับค่าพรีเมียมของออปชัน",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|2|tgl_Latn": {
+      "translation": "Ang kumpanya ay nagbenta ng put option upang ihedge ang panganib ng pagbabago ng exchange rate at tumanggap ng premium ng opsyon.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|financial|2|mya_Mymr": {
+      "translation": "ကုမ္ပဏီသည် ဝန်ဆောင်မှုနှုန်း ပြောင်းလဲမှု အန္တရာယ်ကို ကာကွယ်ရန်အတွက် ပွတ်အော့ပရှင် (put option) ကို ရောင်းချပြီး အော့ပရှင် ပရီမီယံကို လက်ခံရရှိခဲ့သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|0|vie_Latn": {
+      "translation": "Khi mua xe mới, tôi đã thêm tùy chọn cửa sổ trượt và mái vòm panorama.",
+      "provider": "groq"
+    },
+    "옵션|nonfinancial|0|ind_Latn": {
+      "translation": "Saat membeli mobil baru, saya menambahkan opsi sunroof dan panoramic roof.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|0|tha_Thai": {
+      "translation": "เมื่อฉันซื้อรถใหม่ ฉันเพิ่มตัวเลือกซันรูฟและพาโนรามารูฟ",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|nonfinancial|0|tgl_Latn": {
+      "translation": "Nang bilhin ko ang bagong kotse, idinagdag ko ang mga opsyon ng sunroof at panoramic roof.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|0|mya_Mymr": {
+      "translation": "သစ်ကားဝယ်တဲ့အခါ၊ ဆန်းလူဖ်နှင့် ပန်နိုရာမာလူဖ်အော်ပရှင်းများကို ထပ်မံထည့်သွင်းခဲ့တယ်။",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|nonfinancial|1|vie_Latn": {
+      "translation": "Tôi mua một chiếc smartphone và thấy tính năng sạc không dây đã được bao gồm trong cấu hình tiêu chuẩn.",
+      "provider": "groq"
+    },
+    "옵션|nonfinancial|1|ind_Latn": {
+      "translation": "Saya membeli smartphone, dan ternyata opsi pengisian nirkabel sudah termasuk dalam paket dasar.",
+      "provider": "groq:openai/gpt-oss-120b"
+    },
+    "옵션|nonfinancial|1|tha_Thai": {
+      "translation": "ฉันซื้อสมาร์ทโฟนมา แล้วพบว่าตัวเลือกการชาร์จไร้สายไม่ได้รวมอยู่ในชุดมาตรฐาน",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|1|tgl_Latn": {
+      "translation": "Binili ko ang smartphone at lumabas na kasama na sa standard ang opsyon ng wireless charging.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|1|mya_Mymr": {
+      "translation": "",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|nonfinancial|2|vie_Latn": {
+      "translation": "Khi đang cải tạo nhà bếp, tôi đã chọn tùy chọn thay đổi màu đèn chiếu sáng.",
+      "provider": "groq"
+    },
+    "옵션|nonfinancial|2|ind_Latn": {
+      "translation": "Saat merenovasi dapur, saya memilih opsi perubahan warna pencahayaan.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|2|tha_Thai": {
+      "translation": "ฉันเลือกตัวเลือกการเปลี่ยนสีแสงสว่างขณะรีโนเวตกุ๊ก",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "옵션|nonfinancial|2|tgl_Latn": {
+      "translation": "Habang nagre-remodel ng kusina, pinili ko ang opsyon na palitan ang kulay ng ilaw.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "옵션|nonfinancial|2|mya_Mymr": {
+      "translation": null,
+      "provider": null,
+      "error": "모든 Groq 모델 실패: GroqRateLimited('rate limit: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m2371bvjemxa2nrmm1nb94y9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5785, Requested 2230. Please try again in 112.499999ms. Need more tokens? Upgrade to Dev Tier today at https:/')"
+    },
+    "인수|financial|0|vie_Latn": {
+      "translation": "Các điều kiện và thủ tục chi tiết của việc bảo lãnh phát hành có thể khác nhau tùy thuộc vào loại giao dịch.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|0|ind_Latn": {
+      "translation": "Ketentuan dan prosedur detail penjaminan dapat berbeda tergantung pada jenis transaksi.",
+      "provider": "groq"
+    },
+    "인수|financial|0|tha_Thai": {
+      "translation": "รายละเอียดเงื่อนไขและขั้นตอนของการรับประกันการจำหน่ายหลักทรัพย์อาจแตกต่างกันไปตามประเภทของธุรกรรม",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|0|tgl_Latn": {
+      "translation": "Ang mga detalye ng mga kondisyon at proseso ng underwriting ay maaaring magbago depende sa uri ng transaksyon.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "인수|financial|0|mya_Mymr": {
+      "translation": "အရောင်းဝယ်လုပ်ငန်းအမျိုးအစားအလိုက် ဝယ်ယူမှုအသေးစိတ်အခြေအနေများနှင့် လုပ်ငန်းစဉ်များသည် ကွဲပြားနိုင်ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|1|vie_Latn": {
+      "translation": "Công ty chứng khoán của chúng tôi đã ký hợp đồng để bảo lãnh toàn bộ việc phát hành cổ phiếu mới lần này.",
+      "provider": "groq"
+    },
+    "인수|financial|1|ind_Latn": {
+      "translation": "Perusahaan sekuritas kami telah menandatangani kontrak untuk mengambil alih seluruh penerbitan saham baru yang sedang berlangsung.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|1|tha_Thai": {
+      "translation": null,
+      "provider": null,
+      "error": "모든 Groq 모델 실패: GroqRateLimited('rate limit: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m2371bvjemxa2nrmm1nb94y9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5807, Requested 2330. Please try again in 1.0275s. Need more tokens? Upgrade to Dev Tier today at https://cons')"
+    },
+    "인수|financial|1|tgl_Latn": {
+      "translation": null,
+      "provider": null,
+      "error": "모든 Groq 모델 실패: GroqRateLimited('rate limit: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m2371bvjemxa2nrmm1nb94y9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5713, Requested 2335. Please try again in 360ms. Need more tokens? Upgrade to Dev Tier today at https://consol')"
+    },
+    "인수|financial|1|mya_Mymr": {
+      "translation": "ကျွန်ုပ်တို့၏ စာရင်းအင်းကုမ္ပဏီသည် ယခု လုပ်ဆောင်နေသော အသစ် ထုတ်လွှတ်မည့် အစုရှယ်ယာများကို အပြည့်အဝ ဝယ်ယူရန် သဘောတူညီချက် ချုပ်ဆိုခဲ့ပါသည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|2|vie_Latn": {
+      "translation": "Việc mua lại trái phiếu của các doanh nghiệp có xếp hạng tín nhiệm cao đã giúp nâng cao tính ổn định của danh mục đầu tư.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|2|ind_Latn": {
+      "translation": "Dengan menjamin penempatan obligasi perusahaan yang memiliki peringkat kredit tinggi, kami meningkatkan stabilitas portofolio investasi.",
+      "provider": "groq"
+    },
+    "인수|financial|2|tha_Thai": {
+      "translation": "โดยการรับจองพันธบัตรของบริษัทที่มีคะแนนเครดิตสูง เราได้เพิ่มความมั่นคงของพอร์ตการลงทุน",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "인수|financial|2|tgl_Latn": {
+      "translation": "Pinagpatibay ang katatagan ng portfolio ng pamumuhunan sa pamamagitan ng pag-underton ng mga bond ng mga kumpanyang may mataas na credit rating.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|financial|2|mya_Mymr": {
+      "translation": "မြန်မာနိုင်ငံတွင် အမြင့်ဆုံး အရည်အသွေးရှိသော ကုမ္ပဏီများ၏ အစီအစဉ်များကို ဝယ်ယူခြင်းဖြင့် ရင်းနှီးမြှုပ်နှံမှု ပေါင်းစပ်မှု၏ တည်ငြိမ်မှုကို မြှင့်တင်ခဲ့သည်။",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|0|vie_Latn": {
+      "translation": "Sáng nay, tôi nhận bưu kiện và ngay lập tức đưa nó đến văn phòng.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "인수|nonfinancial|0|ind_Latn": {
+      "translation": "Pagi ini saya menerima paket kurir dan langsung membawanya ke kantor.",
+      "provider": "groq"
+    },
+    "인수|nonfinancial|0|tha_Thai": {
+      "translation": "เมื่อเช้าฉันรับพัสดุแล้วนำไปที่สำนักงานทันที",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|0|tgl_Latn": {
+      "translation": "Ngayong umaga, tinanggap ko ang pakete at agad na dinala ito sa opisina.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "인수|nonfinancial|0|mya_Mymr": {
+      "translation": "오늘 아침에 택배를 받아서 바로 사무실로 가져갔다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|1|vie_Latn": {
+      "translation": "Trước khi tan làm, tôi đã hoàn thành việc bàn giao công việc và đã hoàn tất việc nhận giao cho đồng nghiệp.",
+      "provider": "groq"
+    },
+    "인수|nonfinancial|1|ind_Latn": {
+      "translation": "Sebelum pulang kerja, saya telah menyelesaikan serah terima tugas dan menyerahkan pekerjaan tersebut kepada rekan kerja.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|1|tha_Thai": {
+      "translation": null,
+      "provider": null,
+      "error": "모든 Groq 모델 실패: GroqRateLimited('rate limit: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m2371bvjemxa2nrmm1nb94y9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5977, Requested 2232. Please try again in 1.5675s. Need more tokens? Upgrade to Dev Tier today at https://cons')"
+    },
+    "인수|nonfinancial|1|tgl_Latn": {
+      "translation": null,
+      "provider": null,
+      "error": "모든 Groq 모델 실패: GroqRateLimited('rate limit: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m2371bvjemxa2nrmm1nb94y9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5887, Requested 2237. Please try again in 929.999999ms. Need more tokens? Upgrade to Dev Tier today at https:/')"
+    },
+    "인수|nonfinancial|1|mya_Mymr": {
+      "translation": "퇴근하기 전에 업무 인수인계를 완료하여 동료에게 업무를 넘겨받았습니다.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|2|vie_Latn": {
+      "translation": "Tôi đã chuyển giao tệp dự án cho nhân viên mới.",
+      "provider": "groq:openai/gpt-oss-20b"
+    },
+    "인수|nonfinancial|2|ind_Latn": {
+      "translation": "Saya menyerahkan file proyek kepada karyawan baru.",
+      "provider": "groq"
+    },
+    "인수|nonfinancial|2|tha_Thai": {
+      "translation": "ฉันได้ส่งมอบไฟล์โครงการให้กับพนักงานใหม่",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|2|tgl_Latn": {
+      "translation": "Binigay ko ang mga file ng proyekto sa bagong empleyado upang maipasa sa kanya.",
+      "provider": "groq:qwen/qwen3.8-27b"
+    },
+    "인수|nonfinancial|2|mya_Mymr": {
+      "translation": "သစ်သစ်လာသော ဝန်ထမ်းအား ပရိုဂျက် ဖိုင်ကို လက်ခံပေးလိုက်သည်။",
+      "provider": "groq:openai/gpt-oss-20b"
+    }
+  }
+}
